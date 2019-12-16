@@ -1,0 +1,2276 @@
+Season,Home,Away,Week,Team_Possesion,Field_Position,Quarter,To_go,Time_left_Qtr,Penalty_on,Penalty,Penalty_Yards,game_type
+2009,NE,BUF,1,BUF,BUF 43,Q1,3 and 7,12:51,BUF,Illegal Formation,5,REG
+2009,NE,BUF,1,NE,NE 30,Q1,2 and 8,11:38,NE,False Start,5,REG
+2009,NE,BUF,1,NE,NE 45,Q1,1 and 10,9:51,BUF,Defensive Holding,5,REG
+2009,NE,BUF,1,BUF,BUF 48,Q1,1 and 10,5:34,NE,Encroachment,5,REG
+2009,NE,BUF,1,BUF,NE 43,Q1,2 and 1,5:03,BUF,False Start,6,REG
+2009,NE,BUF,1,NE,NE 26,Q1,4 and 16,1:37,BUF,Illegal Blindside Block,10,REG
+2009,NE,BUF,1,NE,NE 28,Q2,1 and 10,13:34,NE,Tripping,10,REG
+2009,NE,BUF,1,BUF,BUF 40,Q2,2 and 7,4:59,BUF,Illegal Formation,5,REG
+2009,NE,BUF,1,NE,BUF 35,Q2,1 and 10,1:55,NE,False Start,5,REG
+2009,NE,BUF,1,BUF,BUF 21,Q3,1 and 10,14:54,BUF,Offensive Holding,10,REG
+2009,NE,BUF,1,BUF,BUF 11,Q3,1 and 20,14:35,NE,Roughing the Passer,15,REG
+2009,NE,BUF,1,BUF,BUF 41,Q3,2 and 10,13:50,BUF,False Start,5,REG
+2009,NE,BUF,1,NE,NE 30,Q3,2 and 3,1:41,BUF,Unnecessary Roughness,15,REG
+2009,NE,BUF,1,BUF,BUF 43,Q4,3 and 5,10:50,BUF,Offensive Pass Interference,10,REG
+2009,NE,BUF,1,BUF,NE 26,Q4,1 and 10,7:39,NE,Roughing the Passer,15,REG
+2009,NYJ,NE,2,NE,NE 36,Q1,2 and 7,13:52,NYJ,Defensive 12 On-field,6,REG
+2009,NYJ,NE,2,NYJ,NYJ 4,Q1,3 and 26,10:25,NYJ,False Start,2,REG
+2009,NYJ,NE,2,NE,NYJ 17,Q1,1 and 10,8:36,NE,Offensive Holding,10,REG
+2009,NYJ,NE,2,NE,NYJ 27,Q1,2 and 20,8:02,NE,Offensive Holding,10,REG
+2009,NYJ,NE,2,NE,NE 40,Q2,1 and 10,15:00,NYJ,Personal Foul,15,REG
+2009,NYJ,NE,2,NE,NYJ 41,Q2,3 and 6,13:55,NYJ,Illegal Contact,5,REG
+2009,NYJ,NE,2,NE,NYJ 36,Q2,2 and 10,13:42,NE,Delay of Game,5,REG
+2009,NYJ,NE,2,NYJ,NYJ 30,Q2,,,NE,Offensive Holding,9,REG
+2009,NYJ,NE,2,NE,NE 31,Q2,3 and 1,3:40,NE,Illegal Formation,5,REG
+2009,NYJ,NE,2,NYJ,NYJ 24,Q2,1 and 10,:10,NYJ,False Start,5,REG
+2009,NYJ,NE,2,NE,NYJ 35,Q3,3 and 9,4:19,NE,Delay of Game,5,REG
+2009,NYJ,NE,2,NE,NYJ 40,Q3,3 and 14,4:19,NE,Delay of Game,5,REG
+2009,NYJ,NE,2,NE,NYJ 45,Q3,4 and 19,3:26,NE,Face Mask (15 Yards),15,REG
+2009,NYJ,NE,2,NYJ,NYJ 15,Q3,1 and 10,3:09,NYJ,Offensive Holding,7,REG
+2009,NYJ,NE,2,NE,NE 24,Q4,3 and 1,8:58,NYJ,Encroachment,5,REG
+2009,NYJ,NE,2,NE,NE 37,Q4,4 and 2,7:05,NE,Delay of Game,5,REG
+2009,NYJ,NE,2,NE,NE 35,Q4,1 and 10,4:41,NE,Offensive Holding,10,REG
+2009,NYJ,NE,2,NE,NE 34,Q4,4 and 11,3:49,NYJ,Offensive Holding,10,REG
+2009,NYJ,NE,2,NYJ,NYJ 40,Q4,4 and 12,2:00,NE,Illegal Block Above the Waist,10,REG
+2009,NE,ATL,3,NE,ATL 43,Q1,1 and 10,5:59,ATL,Roughing the Passer,15,REG
+2009,NE,ATL,3,NE,ATL 18,Q1,1 and 10,4:31,NE,Illegal Motion,5,REG
+2009,NE,ATL,3,ATL,ATL 27,Q2,4 and 7,14:15,ATL,Illegal Touch Kick,5,REG
+2009,NE,ATL,3,NE,NE 27,Q2,4 and 6,7:24,NE,Player Out of Bounds on Punt,5,REG
+2009,NE,ATL,3,NE,ATL 31,Q2,2 and 5,1:12,ATL,Illegal Contact,5,REG
+2009,NE,ATL,3,ATL,NE 36,Q3,2 and 3,7:57,ATL,Offensive Pass Interference,10,REG
+2009,NE,ATL,3,ATL,NE 46,Q3,2 and 13,7:51,ATL,False Start,5,REG
+2009,NE,ATL,3,ATL,ATL 39,Q4,4 and 7,13:20,ATL,Ineligible Downfield Kick,5,REG
+2009,NE,ATL,3,NE,ATL 49,Q4,3 and 3,8:50,ATL,Defensive Pass Interference,9,REG
+2009,NE,BAL,4,BAL,BAL 19,Q1,3 and 10,13:20,NE,Encroachment,5,REG
+2009,NE,BAL,4,BAL,NE 44,Q1,1 and 10,11:59,BAL,False Start,5,REG
+2009,NE,BAL,4,BAL,NE 15,Q1,3 and 15,7:28,BAL,Delay of Game,5,REG
+2009,NE,BAL,4,NE,BAL 37,Q1,3 and 9,3:35,BAL,Roughing the Passer,15,REG
+2009,NE,BAL,4,NE,BAL 1,Q2,1 and 1,15:00,NE,False Start,5,REG
+2009,NE,BAL,4,BAL,BAL 25,Q2,3 and 5,7:11,BAL,Intentional Grounding,10,REG
+2009,NE,BAL,4,NE,BAL 43,Q2,2 and 11,5:16,BAL,Roughing the Passer,15,REG
+2009,NE,BAL,4,BAL,BAL 39,Q2,1 and 10,2:49,NE,Unnecessary Roughness,15,REG
+2009,NE,BAL,4,NE,NE 20,Q3,3 and 10,13:38,BAL,Illegal Contact,5,REG
+2009,NE,BAL,4,NE,NE 27,Q3,2 and 8,13:33,BAL,Unsportsmanlike Conduct,15,REG
+2009,NE,BAL,4,NE,NE 42,Q3,1 and 10,13:07,NE,Offensive Holding,10,REG
+2009,NE,BAL,4,NE,BAL 2,Q3,,,BAL,Encroachment,5,REG
+2009,NE,BAL,4,BAL,BAL 33,Q3,1 and 10,1:52,BAL,Offensive Pass Interference,10,REG
+2009,NE,BAL,4,NE,BAL 9,Q4,4 and 4,7:18,NE,Illegal Motion,6,REG
+2009,DEN,NE,5,NE,DEN 41,Q2,3 and 10,10:01,NE,Unnecessary Roughness,15,REG
+2009,DEN,NE,5,DEN,DEN 28,Q2,1 and 10,7:46,NE,Roughing the Passer,15,REG
+2009,DEN,NE,5,DEN,NE 37,Q3,2 and 4,10:39,DEN,Offensive Holding,10,REG
+2009,DEN,NE,5,NE,NE 10,Q3,4 and 4,:31,DEN,Running Into the Kicker,5,REG
+2009,DEN,NE,5,NE,NE 34,Q4,4 and 2,12:33,DEN,Neutral Zone Infraction,5,REG
+2009,DEN,NE,5,DEN,NE 22,Q4,2 and 3,5:32,NE,Taunting,11,REG
+2009,DEN,NE,5,DEN,NE 27,Q5,3 and 8,10:24,NE,Defensive Offside,5,REG
+2009,NE,TEN,6,NE,TEN 10,Q1,3 and 3,12:05,NE,Delay of Game,5,REG
+2009,NE,TEN,6,TEN,TEN 37,Q1,3 and 2,9:22,NE,Defensive Holding,5,REG
+2009,NE,TEN,6,TEN,TEN 27,Q2,3 and 3,15:00,TEN,Illegal Blindside Block,10,REG
+2009,NE,TEN,6,NE,NE 48,Q2,1 and 10,11:41,NE,False Start,5,REG
+2009,NE,TEN,6,NE,NE 43,Q2,1 and 15,11:26,TEN,Encroachment,5,REG
+2009,NE,TEN,6,NE,TEN 28,Q2,2 and 7,9:07,TEN,Roughing the Passer,15,REG
+2009,NE,TEN,6,NE,NE 30,Q2,2 and 4,3:59,TEN,Encroachment,5,REG
+2009,NE,TEN,6,NE,NE 35,Q3,1 and 10,14:52,TEN,Roughing the Passer,15,REG
+2009,NE,TEN,6,NE,NE 44,Q3,2 and 5,7:18,NE,False Start,5,REG
+2009,NE,TEN,6,NE,TEN 2,Q3,,,TEN,Neutral Zone Infraction,5,REG
+2009,NE,TEN,6,NE,TEN 14,Q4,1 and 10,13:33,NE,False Start,5,REG
+2009,NE,TEN,6,TEN,TEN 6,Q4,1 and 10,4:04,NE,Unsportsmanlike Conduct,15,REG
+2009,TB,NE,7,TB,TB 31,Q1,2 and 8,6:06,TB,Chop Block,15,REG
+2009,TB,NE,7,NE,TB 11,Q1,1 and 10,3:15,NE,Ineligible Downfield Pass,5,REG
+2009,TB,NE,7,NE,NE 30,Q1,,,TB,Offensive Holding,10,REG
+2009,TB,NE,7,NE,NE 25,Q2,1 and 10,6:28,NE,False Start,5,REG
+2009,TB,NE,7,NE,NE 46,Q2,4 and 2,3:24,NE,False Start,5,REG
+2009,TB,NE,7,NE,NE 26,Q2,2 and 10,:59,NE,Offensive Holding,10,REG
+2009,TB,NE,7,NE,TB 49,Q3,1 and 10,12:27,NE,Offensive Holding,10,REG
+2009,TB,NE,7,NE,TB 25,Q3,1 and 10,9:46,NE,Offensive Holding,10,REG
+2009,TB,NE,7,NE,NE 41,Q3,3 and 1,7:19,NE,False Start,5,REG
+2009,TB,NE,7,TB,TB 30,Q3,3 and 10,5:49,TB,Unnecessary Roughness,15,REG
+2009,TB,NE,7,TB,NE 32,Q3,1 and 10,3:03,TB,Delay of Game,5,REG
+2009,TB,NE,7,NE,TB 47,Q4,1 and 10,13:50,NE,False Start,6,REG
+2009,TB,NE,7,NE,TB 41,Q4,2 and 4,12:24,TB,Defensive Offside,5,REG
+2009,TB,NE,7,NE,NE 41,Q4,3 and 5,5:11,NE,Illegal Shift,5,REG
+2009,TB,NE,7,NE,TB 48,Q4,4 and 14,2:00,NE,False Start,5,REG
+2009,TB,NE,7,TB,TB 28,Q4,4 and 2,1:12,TB,Delay of Game,5,REG
+2009,NE,MIA,9,MIA,NE 29,Q2,1 and 10,6:22,NE,Defensive Pass Interference,14,REG
+2009,NE,MIA,9,NE,MIA 24,Q2,1 and 10,4:16,NE,Offensive Pass Interference,11,REG
+2009,NE,MIA,9,NE,NE 30,Q2,,,NE,Offside on Free Kick,5,REG
+2009,NE,MIA,9,NE,NE 21,Q2,2 and 3,1:19,MIA,Defensive Pass Interference,13,REG
+2009,NE,MIA,9,NE,MIA 43,Q2,1 and 10,:44,MIA,Defensive Pass Interference,17,REG
+2009,NE,MIA,9,MIA,MIA 26,Q3,3 and 10,2:58,NE,Roughing the Passer,15,REG
+2009,NE,MIA,9,MIA,MIA 32,Q4,3 and 10,3:05,MIA,Delay of Game,5,REG
+2009,NE,MIA,9,NE,MIA 18,Q4,4 and 1,1:14,NE,False Start,4,REG
+2009,IND,NE,10,NE,IND 20,Q1,2 and 9,:51,NE,Offensive Holding,10,REG
+2009,IND,NE,10,IND,IND 24,Q2,1 and 10,11:13,IND,Offensive Pass Interference,10,REG
+2009,IND,NE,10,IND,IND 45,Q2,1 and 10,5:21,NE,Defensive Pass Interference,19,REG
+2009,IND,NE,10,IND,IND 30,Q2,3 and 5,3:48,IND,False Start,5,REG
+2009,IND,NE,10,IND,IND 45,Q2,2 and 2,:46,IND,Illegal Motion,5,REG
+2009,IND,NE,10,IND,IND 38,Q3,1 and 10,10:40,NE,Unsportsmanlike Conduct,12,REG
+2009,IND,NE,10,IND,NE 44,Q4,1 and 10,3:03,NE,Defensive Pass Interference,31,REG
+2009,NE,NYJ,11,NE,NE 30,Q1,,,NYJ,Chop Block,9,REG
+2009,NE,NYJ,11,NYJ,NYJ 17,Q1,4 and 2,4:27,NE,Offensive Holding,10,REG
+2009,NE,NYJ,11,NE,NYJ 9,Q1,3 and 7,:06,NYJ,Defensive Holding,5,REG
+2009,NE,NYJ,11,NE,NE 21,Q2,1 and 10,2:09,NE,Offensive Holding,10,REG
+2009,NE,NYJ,11,NYJ,NYJ 46,Q3,1 and 10,11:49,NYJ,False Start,5,REG
+2009,NE,NYJ,11,NYJ,NYJ 30,Q3,,,NE,Face Mask (15 Yards),11,REG
+2009,NE,NYJ,11,NE,NE 31,Q3,3 and 1,8:17,NYJ,Illegal Use of Hands,5,REG
+2009,NE,NYJ,11,NE,NE 21,Q3,3 and 10,1:08,NE,Delay of Game,5,REG
+2009,NE,NYJ,11,NE,NE 48,Q4,2 and 10,12:11,NE,Delay of Game,5,REG
+2009,NE,NYJ,11,NYJ,NYJ 8,Q4,1 and 10,10:37,NYJ,False Start,4,REG
+2009,NE,NYJ,11,NE,NYJ 25,Q4,1 and 10,9:53,NE,Offensive Pass Interference,10,REG
+2009,NO,NE,12,NE,NO 32,Q2,3 and 7,6:22,NO,Illegal Contact,5,REG
+2009,NO,NE,12,NE,NE 35,Q2,1 and 10,1:08,NO,Defensive Holding,5,REG
+2009,NO,NE,12,NE,NE 18,Q3,1 and 10,8:58,NO,Personal Foul,15,REG
+2009,NO,NE,12,NO,NO 29,Q4,3 and 3,2:34,NO,Offensive Holding,11,REG
+2009,MIA,NE,13,MIA,NE 49,Q2,2 and 10,5:23,NE,Personal Foul,15,REG
+2009,MIA,NE,13,NE,NE 23,Q2,1 and 10,5:11,NE,False Start,5,REG
+2009,MIA,NE,13,NE,NE 29,Q3,1 and 10,12:43,NE,Offensive Holding,10,REG
+2009,MIA,NE,13,MIA,NE 46,Q3,3 and 4,11:05,NE,Defensive Pass Interference,37,REG
+2009,MIA,NE,13,NE,MIA 39,Q3,4 and 3,:41,NE,Offensive Pass Interference,10,REG
+2009,MIA,NE,13,NE,MIA 49,Q3,4 and 13,:21,NE,Illegal Motion,5,REG
+2009,MIA,NE,13,NE,MIA 31,Q4,1 and 10,11:33,MIA,Defensive Holding,5,REG
+2009,MIA,NE,13,NE,MIA 9,Q4,1 and 9,10:51,MIA,Defensive 12 On-field,5,REG
+2009,NE,CAR,14,NE,NE 36,Q1,1 and 10,13:54,CAR,Face Mask (15 Yards),15,REG
+2009,NE,CAR,14,CAR,CAR 21,Q2,2 and 10,14:47,CAR,Offensive Holding,10,REG
+2009,NE,CAR,14,CAR,CAR 19,Q2,3 and 12,13:38,CAR,Delay of Game,5,REG
+2009,NE,CAR,14,NE,NE 49,Q2,2 and 4,2:49,CAR,Defensive Pass Interference,30,REG
+2009,NE,CAR,14,NE,CAR 5,Q2,2 and 4,1:17,CAR,Defensive Holding,2,REG
+2009,NE,CAR,14,CAR,CAR 30,Q3,,,NE,Offensive Holding,10,REG
+2009,NE,CAR,14,CAR,NE 45,Q3,3 and 7,10:08,CAR,Illegal Shift,5,REG
+2009,NE,CAR,14,CAR,NE 43,Q3,,9:43,CAR,Illegal Formation,5,REG
+2009,NE,CAR,14,NE,CAR 36,Q4,2 and 1,8:38,CAR,Illegal Use of Hands,5,REG
+2009,NE,CAR,14,NE,CAR 40,Q4,3 and 8,5:03,NE,False Start,5,REG
+2009,NE,CAR,14,NE,CAR 45,Q4,4 and 13,4:30,CAR,Roughing the Kicker,15,REG
+2009,NE,CAR,14,NE,CAR 31,Q4,2 and 11,4:15,NE,Illegal Formation,5,REG
+2009,NE,CAR,14,CAR,CAR 15,Q4,1 and 10,3:50,NE,Neutral Zone Infraction,5,REG
+2009,BUF,NE,15,BUF,NE 2,Q1,3 and 2,6:09,BUF,False Start,5,REG
+2009,BUF,NE,15,BUF,BUF 39,Q1,1 and 10,2:40,BUF,False Start,5,REG
+2009,BUF,NE,15,NE,NE 25,Q1,1 and 10,:46,BUF,Illegal Use of Hands,5,REG
+2009,BUF,NE,15,NE,BUF 41,Q2,1 and 10,13:13,NE,False Start,5,REG
+2009,BUF,NE,15,NE,BUF 46,Q2,1 and 15,12:52,BUF,Defensive Pass Interference,43,REG
+2009,BUF,NE,15,NE,BUF 3,Q2,1 and 3,12:42,NE,Offensive Pass Interference,10,REG
+2009,BUF,NE,15,BUF,BUF 27,Q2,1 and 10,12:27,BUF,Offensive Holding,10,REG
+2009,BUF,NE,15,NE,BUF 43,Q2,2 and 10,8:43,BUF,Defensive Holding,5,REG
+2009,BUF,NE,15,BUF,BUF 48,Q2,1 and 10,5:37,BUF,Offensive Holding,10,REG
+2009,BUF,NE,15,NE,BUF 22,Q2,2 and 10,1:48,BUF,Defensive Pass Interference,21,REG
+2009,BUF,NE,15,BUF,BUF 30,Q3,,,NE,Offensive Holding,10,REG
+2009,BUF,NE,15,BUF,BUF 45,Q3,1 and 10,3:25,BUF,False Start,5,REG
+2009,BUF,NE,15,BUF,NE 49,Q3,3 and 4,1:48,NE,Defensive Offside,5,REG
+2009,BUF,NE,15,BUF,NE 28,Q3,2 and 7,:18,BUF,Illegal Block Above the Waist,10,REG
+2009,BUF,NE,15,BUF,BUF 40,Q4,1 and 10,13:14,NE,Face Mask (15 Yards),15,REG
+2009,BUF,NE,15,NE,NE 11,Q4,1 and 10,4:20,NE,Offensive Holding,7,REG
+2009,BUF,NE,15,BUF,BUF 30,Q4,,,BUF,Offside on Free Kick,5,REG
+2009,NE,JAC,16,JAC,NE 35,Q2,,12:46,JAC,False Start,5,REG
+2009,NE,JAC,16,NE,NE 10,Q3,1 and 10,6:26,NE,False Start,5,REG
+2009,NE,JAC,16,NE,JAC 12,Q4,2 and 3,15:00,NE,False Start,5,REG
+2009,HOU,NE,17,NE,HOU 43,Q2,3 and 8,11:40,HOU,Defensive Holding,5,REG
+2009,HOU,NE,17,HOU,NE 19,Q2,2 and 6,6:30,NE,Unnecessary Roughness,10,REG
+2009,HOU,NE,17,HOU,HOU 30,Q2,,,NE,Unnecessary Roughness,9,REG
+2009,HOU,NE,17,NE,NE 18,Q2,1 and 10,4:41,NE,Unnecessary Roughness,9,REG
+2009,HOU,NE,17,NE,NE 41,Q2,1 and 10,2:52,HOU,Roughing the Passer,15,REG
+2009,HOU,NE,17,NE,NE 38,Q3,2 and 1,14:07,HOU,Defensive Holding,5,REG
+2009,HOU,NE,17,HOU,NE 29,Q4,1 and 10,9:53,NE,Defensive Pass Interference,26,REG
+2009,HOU,NE,17,HOU,NE 3,Q4,1 and 3,9:53,HOU,False Start,5,REG
+2009,HOU,NE,17,NE,HOU 41,Q4,1 and 10,:50,HOU,Defensive 12 On-field,5,REG
+2009,HOU,NE,17,NE,HOU 36,Q4,1 and 5,:40,NE,Offensive Holding,10,REG
+2010,NE,CIN,1,NE,CIN 28,Q1,1 and 10,1:05,NE,False Start,5,REG
+2010,NE,CIN,1,NE,CIN 24,Q2,1 and 10,11:05,NE,Illegal Shift,5,REG
+2010,NE,CIN,1,CIN,CIN 32,Q2,3 and 6,4:16,NE,Encroachment,5,REG
+2010,NE,CIN,1,CIN,PENALTY ,Q3,,13:12,CIN,False Start,5,REG
+2010,NE,CIN,1,NE,NE 30,Q3,3 and 8,6:32,NE,Offensive Holding,10,REG
+2010,NE,CIN,1,CIN,NE 1,Q4,2 and 1,4:04,NE,Encroachment,0,REG
+2010,NE,CIN,1,CIN,CIN 30,Q4,,,CIN,Illegal Touch Kick,0,REG
+2010,NE,CIN,1,NE,CIN 15,Q4,2 and 10,2:08,NE,False Start,5,REG
+2010,NYJ,NE,2,NE,NE 39,Q1,1 and 10,14:34,NE,Illegal Formation,5,REG
+2010,NYJ,NE,2,NE,NYJ 14,Q1,4 and 1,8:38,NE,Delay of Game,5,REG
+2010,NYJ,NE,2,NE,NE 46,Q1,3 and 9,3:43,NYJ,Unnecessary Roughness,15,REG
+2010,NYJ,NE,2,NYJ,NE 46,Q2,1 and 10,9:37,NE,Unnecessary Roughness,15,REG
+2010,NYJ,NE,2,NYJ,NE 10,Q2,3 and 3,6:30,NYJ,Taunting,15,REG
+2010,NYJ,NE,2,NE,NE 42,Q2,4 and 2,5:30,NE,Fair Catch Interference,15,REG
+2010,NYJ,NE,2,NE,NE 37,Q3,2 and 3,12:41,NYJ,Encroachment,5,REG
+2010,NYJ,NE,2,NE,NE 11,Q4,1 and 10,13:24,NYJ,Illegal Contact,5,REG
+2010,NYJ,NE,2,NYJ,NE 49,Q4,2 and 7,8:27,NE,Defensive Pass Interference,23,REG
+2010,NYJ,NE,2,NYJ,NE 21,Q4,2 and 5,7:38,NE,Defensive Pass Interference,16,REG
+2010,NYJ,NE,2,NE,NE 45,Q4,3 and 10,5:26,NYJ,Defensive Pass Interference,8,REG
+2010,NYJ,NE,2,NYJ,NE 47,Q4,1 and 10,2:01,NYJ,Offensive Holding,10,REG
+2010,NE,BUF,3,BUF,BUF 27,Q1,1 and 10,5:09,BUF,False Start,5,REG
+2010,NE,BUF,3,BUF,BUF 25,Q1,2 and 12,4:27,BUF,Offensive Holding,10,REG
+2010,NE,BUF,3,NE,NE 23,Q1,1 and 10,1:35,NE,Offensive Holding,10,REG
+2010,NE,BUF,3,NE,NE 25,Q2,1 and 10,10:40,NE,Offensive Pass Interference,10,REG
+2010,NE,BUF,3,BUF,NE 36,Q3,3 and 7,9:29,BUF,False Start,5,REG
+2010,NE,BUF,3,NE,NE 47,Q4,3 and 9,13:04,BUF,Illegal Contact,5,REG
+2010,NE,BUF,3,NE,BUF 38,Q4,1 and 10,11:38,BUF,Neutral Zone Infraction,5,REG
+2010,NE,BUF,3,BUF,NE 37,Q4,1 and 10,4:15,BUF,Unsportsmanlike Conduct,15,REG
+2010,NE,BUF,3,NE,BUF 49,Q4,1 and 10,4:05,NE,False Start,5,REG
+2010,NE,BUF,3,NE,NE 39,Q4,2 and 22,3:30,NE,Offensive Pass Interference,10,REG
+2010,MIA,NE,4,MIA,NE 14,Q1,2 and 3,6:59,MIA,Offensive Holding,10,REG
+2010,MIA,NE,4,NE,NE 38,Q1,2 and 7,4:51,NE,Offensive Holding,10,REG
+2010,MIA,NE,4,MIA,MIA 39,Q2,3 and 10,4:23,NE,Defensive Pass Interference,16,REG
+2010,MIA,NE,4,MIA,NE 45,Q2,1 and 10,4:16,MIA,False Start,5,REG
+2010,MIA,NE,4,MIA,NE 23,Q3,1 and 10,9:21,MIA,False Start,5,REG
+2010,MIA,NE,4,MIA,MIA 20,Q3,1 and 10,4:02,MIA,Offensive Pass Interference,10,REG
+2010,MIA,NE,4,MIA,MIA 39,Q4,2 and 8,12:37,MIA,False Start,5,REG
+2010,MIA,NE,4,NE,NE 23,Q4,1 and 10,4:36,MIA,Defensive Holding,5,REG
+2010,NE,BAL,6,BAL,BAL 11,Q1,1 and 10,14:56,BAL,False Start,5,REG
+2010,NE,BAL,6,BAL,BAL 27,Q1,2 and 10,:15,NE,Defensive Pass Interference,18,REG
+2010,NE,BAL,6,BAL,NE 42,Q2,1 and 10,13:54,NE,Tripping,10,REG
+2010,NE,BAL,6,NE,NE 20,Q2,1 and 10,11:47,NE,False Start,5,REG
+2010,NE,BAL,6,BAL,BAL 23,Q2,2 and 7,8:45,NE,Personal Foul,15,REG
+2010,NE,BAL,6,BAL,BAL 38,Q2,1 and 10,8:40,BAL,Offensive Holding,10,REG
+2010,NE,BAL,6,BAL,BAL 35,Q2,3 and 13,6:43,BAL,False Start,5,REG
+2010,NE,BAL,6,BAL,BAL 37,Q2,4 and 11,5:47,NE,Illegal Block Above the Waist,5,REG
+2010,NE,BAL,6,NE,NE 33,Q3,2 and 8,12:49,NE,Illegal Formation,5,REG
+2010,NE,BAL,6,BAL,NE 36,Q3,1 and 10,11:42,BAL,False Start,5,REG
+2010,NE,BAL,6,NE,NE 30,Q3,,,BAL,Offensive Holding,9,REG
+2010,NE,BAL,6,BAL,NE 20,Q3,3 and 4,:53,NE,Illegal Contact,5,REG
+2010,NE,BAL,6,NE,BAL 47,Q4,2 and 8,13:41,BAL,Defensive Pass Interference,13,REG
+2010,NE,BAL,6,NE,BAL 35,Q4,1 and 10,5:59,NE,Offensive Holding,10,REG
+2010,NE,BAL,6,NE,BAL 45,Q4,1 and 20,5:59,NE,Delay of Game,5,REG
+2010,NE,BAL,6,NE,NE 32,Q5,4 and 13,12:23,BAL,Illegal Block Above the Waist,10,REG
+2010,NE,BAL,6,BAL,BAL 20,Q5,2 and 9,6:40,BAL,Personal Foul,10,REG
+2010,SD,NE,7,NE,NE 30,Q1,,,NE,Offside on Free Kick,5,REG
+2010,SD,NE,7,NE,NE 19,Q1,2 and 4,12:34,SD,Defensive Offside,5,REG
+2010,SD,NE,7,NE,NE 24,Q1,4 and 10,11:11,NE,Defensive Holding,10,REG
+2010,SD,NE,7,NE,NE 29,Q1,4 and 5,11:11,NE,False Start,5,REG
+2010,SD,NE,7,NE,SD 12,Q1,1 and 10,2:07,SD,Illegal Use of Hands,5,REG
+2010,SD,NE,7,NE,NE 44,Q2,4 and 7,13:15,NE,Delay of Game,5,REG
+2010,SD,NE,7,SD,SD 28,Q2,3 and 1,11:53,NE,Defensive 12 On-field,5,REG
+2010,SD,NE,7,SD,SD 29,Q2,1 and 10,6:44,SD,Offensive Holding,10,REG
+2010,SD,NE,7,NE,NE 48,Q2,3 and 4,4:19,NE,Offensive Pass Interference,10,REG
+2010,SD,NE,7,NE,PENALTY ,Q2,,1:32,SD,Defensive Pass Interference,29,REG
+2010,SD,NE,7,NE,NE 22,Q3,2 and 9,14:33,SD,Unnecessary Roughness,15,REG
+2010,SD,NE,7,NE,SD 34,Q3,2 and 3,12:32,NE,Offensive Holding,11,REG
+2010,SD,NE,7,SD,NE 27,Q4,4 and 2,:28,SD,False Start,5,REG
+2010,NE,MIN,8,NE,NE 43,Q1,3 and 2,12:00,NE,Illegal Motion,5,REG
+2010,NE,MIN,8,NE,NE 27,Q1,4 and 3,6:14,NE,False Start,5,REG
+2010,NE,MIN,8,MIN,NE 13,Q1,2 and 11,:29,NE,Roughing the Passer,7,REG
+2010,NE,MIN,8,MIN,NE 45,Q2,1 and 10,9:12,MIN,Illegal Formation,5,REG
+2010,NE,MIN,8,MIN,PENALTY ,Q2,,8:45,MIN,Intentional Grounding,10,REG
+2010,NE,MIN,8,MIN,MIN 45,Q3,3 and 6,7:10,MIN,False Start,5,REG
+2010,NE,MIN,8,MIN,NE 23,Q4,2 and 3,8:35,MIN,Intentional Grounding,10,REG
+2010,NE,MIN,8,MIN,NE 33,Q4,3 and 13,8:31,NE,Defensive Pass Interference,24,REG
+2010,NE,MIN,8,MIN,NE 3,Q4,3 and 3,7:35,NE,Illegal Contact,2,REG
+2010,NE,MIN,8,NE,NE 43,Q4,2 and 1,5:57,NE,False Start,4,REG
+2010,NE,MIN,8,MIN,NE 46,Q4,1 and 10,:41,MIN,False Start,5,REG
+2010,CLE,NE,9,CLE,NE 39,Q1,3 and 7,1:40,CLE,False Start,5,REG
+2010,CLE,NE,9,NE,NE 30,Q2,2 and 10,3:12,CLE,Defensive Offside,5,REG
+2010,CLE,NE,9,NE,NE 48,Q3,2 and 10,13:14,NE,False Start,5,REG
+2010,CLE,NE,9,CLE,NE 11,Q3,1 and 10,7:19,CLE,Delay of Game,5,REG
+2010,CLE,NE,9,NE,CLE 49,Q3,2 and 7,4:29,NE,Offensive Holding,10,REG
+2010,CLE,NE,9,NE,CLE 33,Q4,1 and 10,9:05,NE,False Start,5,REG
+2010,CLE,NE,9,NE,CLE 14,Q4,4 and 10,7:23,CLE,Defensive Pass Interference,13,REG
+2010,PIT,NE,10,PIT,NE 48,Q1,1 and 10,7:42,PIT,Offensive Holding,10,REG
+2010,PIT,NE,10,PIT,PIT 25,Q1,4 and 37,7:01,PIT,Ineligible Downfield Kick,5,REG
+2010,PIT,NE,10,NE,PIT 12,Q1,2 and 8,3:06,NE,Chop Block,15,REG
+2010,PIT,NE,10,NE,PIT 35,Q2,2 and 10,10:52,NE,False Start,5,REG
+2010,PIT,NE,10,PIT,NE 8,Q2,3 and 7,5:22,NE,Defensive Offside,4,REG
+2010,PIT,NE,10,PIT,PIT 21,Q2,2 and 7,2:19,PIT,Illegal Formation,5,REG
+2010,PIT,NE,10,PIT,PIT 16,Q2,4 and 12,1:47,PIT,Player Out of Bounds on Punt,5,REG
+2010,PIT,NE,10,NE,PIT 34,Q2,4 and 6,:55,NE,Offensive Pass Interference,10,REG
+2010,PIT,NE,10,NE,NE 40,Q3,1 and 10,8:01,NE,Offensive Holding,10,REG
+2010,PIT,NE,10,PIT,NE 46,Q3,1 and 10,4:46,NE,Defensive Pass Interference,38,REG
+2010,PIT,NE,10,NE,PIT 35,Q3,1 and 10,2:59,NE,False Start,5,REG
+2010,PIT,NE,10,NE,PIT 34,Q4,2 and 10,10:04,NE,Intentional Grounding,10,REG
+2010,PIT,NE,10,PIT,PIT 23,Q4,1 and 10,8:42,NE,Personal Foul,15,REG
+2010,PIT,NE,10,NE,PIT 25,Q4,3 and 5,4:31,PIT,Roughing the Passer,15,REG
+2010,PIT,NE,10,PIT,NE 2,Q4,,,NE,Illegal Contact,1,REG
+2010,PIT,NE,10,NE,PIT 33,Q4,1 and 10,2:57,PIT,Defensive Holding,5,REG
+2010,NE,IND,11,NE,NE 30,Q1,,,IND,Illegal Block Above the Waist,10,REG
+2010,NE,IND,11,NE,NE 30,Q1,,,IND,Offensive Holding,10,REG
+2010,NE,IND,11,NE,NE 18,Q1,1 and 10,6:01,IND,Defensive Pass Interference,6,REG
+2010,NE,IND,11,IND,IND 49,Q2,2 and 10,:54,IND,Offensive Holding,10,REG
+2010,NE,IND,11,NE,NE 41,Q3,4 and 7,12:05,IND,Offensive Holding,7,REG
+2010,NE,IND,11,IND,NE 33,Q4,,5:08,NE,Unnecessary Roughness,15,REG
+2010,NE,IND,11,IND,NE 34,Q4,2 and 1,1:04,IND,False Start,5,REG
+2010,DET,NE,12,NE,NE 15,Q2,2 and 13,14:12,NE,Chop Block,7,REG
+2010,DET,NE,12,NE,NE 33,Q2,3 and 6,3:53,DET,Defensive Pass Interference,6,REG
+2010,DET,NE,12,NE,NE 39,Q3,2 and 7,:33,DET,Neutral Zone Infraction,5,REG
+2010,DET,NE,12,NE,DET 30,Q4,1 and 10,15:00,NE,Illegal Block Above the Waist,10,REG
+2010,DET,NE,12,DET,DET 45,Q4,3 and 5,11:52,DET,Offensive Pass Interference,10,REG
+2010,DET,NE,12,DET,DET 35,Q4,4 and 15,11:17,NE,Illegal Block Above the Waist,10,REG
+2010,DET,NE,12,NE,NE 23,Q4,2 and 3,10:32,NE,Offensive Holding,10,REG
+2010,DET,NE,12,NE,NE 33,Q4,1 and 10,8:58,DET,Defensive Offside,5,REG
+2010,DET,NE,12,DET,DET 31,Q4,1 and 10,6:34,DET,Illegal Touch Pass,5,REG
+2010,DET,NE,12,NE,DET 12,Q4,1 and 10,5:43,DET,Defensive Offside,5,REG
+2010,DET,NE,12,NE,DET 1,Q4,2 and 1,3:16,DET,Unsportsmanlike Conduct,15,REG
+2010,DET,NE,12,NE,DET 2,Q4,,,DET,Unsportsmanlike Conduct,15,REG
+2010,DET,NE,12,DET,NE 39,Q4,2 and 15,2:09,NE,Roughing the Passer,13,REG
+2010,NE,NYJ,13,NE,NYJ 37,Q1,2 and 7,4:49,NYJ,Defensive Pass Interference,36,REG
+2010,NE,NYJ,13,NYJ,NYJ 25,Q1,2 and 6,3:10,NYJ,Delay of Game,5,REG
+2010,NE,NYJ,13,NE,NYJ 8,Q2,1 and 8,9:07,NE,Offensive Pass Interference,10,REG
+2010,NE,NYJ,13,NE,NE 34,Q2,4 and 1,4:06,NYJ,Illegal Block Above the Waist,10,REG
+2010,NE,NYJ,13,NE,NE 15,Q4,3 and 4,4:22,NYJ,Defensive 12 On-field,5,REG
+2010,CHI,NE,14,CHI,CHI 28,Q1,2 and 4,5:07,CHI,Offensive Holding,10,REG
+2010,CHI,NE,14,CHI,CHI 44,Q2,2 and 11,9:05,CHI,Offensive Holding,10,REG
+2010,CHI,NE,14,CHI,CHI 35,Q2,4 and 9,1:57,NE,Offensive Holding,10,REG
+2010,CHI,NE,14,NE,NE 39,Q3,2 and 12,6:49,NE,Offensive Holding,10,REG
+2010,CHI,NE,14,NE,CHI 45,Q3,1 and 10,5:00,CHI,Encroachment,5,REG
+2010,CHI,NE,14,CHI,NE 39,Q3,1 and 10,:38,NE,Defensive Pass Interference,13,REG
+2010,CHI,NE,14,NE,CHI 31,Q4,1 and 10,11:38,NE,Offensive Holding,10,REG
+2010,CHI,NE,14,NE,NE 42,Q4,1 and 10,4:46,CHI,Defensive Offside,5,REG
+2010,NE,GB,15,NE,NE 43,Q1,2 and 8,2:04,NE,False Start,5,REG
+2010,NE,GB,15,NE,NE 47,Q2,,10:41,NE,Offensive Holding,10,REG
+2010,NE,GB,15,NE,NE 49,Q2,4 and 11,8:52,GB,Neutral Zone Infraction,5,REG
+2010,NE,GB,15,GB,GB 19,Q2,3 and 9,7:59,NE,Defensive Offside,5,REG
+2010,NE,GB,15,GB,NE 45,Q2,1 and 10,5:31,NE,Unnecessary Roughness,15,REG
+2010,NE,GB,15,GB,NE 3,Q2,1 and 3,2:24,NE,Defensive Pass Interference,2,REG
+2010,NE,GB,15,NE,NE 30,Q3,,,GB,Offensive Holding,10,REG
+2010,NE,GB,15,GB,NE 22,Q3,2 and 10,6:25,NE,Face Mask (15 Yards),10,REG
+2010,NE,GB,15,GB,GB 48,Q4,2 and 5,3:42,NE,Illegal Use of Hands,5,REG
+2010,BUF,NE,16,BUF,BUF 13,Q1,1 and 10,6:24,BUF,False Start,5,REG
+2010,BUF,NE,16,NE,BUF 43,Q1,,:21,BUF,Defensive Holding,5,REG
+2010,BUF,NE,16,NE,BUF 38,Q1,1 and 10,:06,NE,False Start,5,REG
+2010,BUF,NE,16,BUF,NE 30,Q2,1 and 10,9:09,BUF,Offensive Holding,10,REG
+2010,BUF,NE,16,BUF,BUF 25,Q2,1 and 10,3:57,BUF,False Start,5,REG
+2010,BUF,NE,16,NE,BUF 2,Q2,,,BUF,Defensive Offside,5,REG
+2010,BUF,NE,16,NE,NE 35,Q3,1 and 10,14:53,NE,False Start,5,REG
+2010,BUF,NE,16,BUF,BUF 15,Q3,2 and 7,12:17,BUF,Chop Block,10,REG
+2010,BUF,NE,16,NE,BUF 34,Q3,1 and 10,8:00,NE,Offensive Holding,10,REG
+2010,BUF,NE,16,NE,BUF 44,Q3,1 and 20,7:49,NE,Offensive Pass Interference,10,REG
+2010,BUF,NE,16,BUF,NE 11,Q4,3 and 7,3:44,NE,Defensive Holding,5,REG
+2010,BUF,NE,16,NE,NE 20,Q4,1 and 10,3:31,NE,False Start,5,REG
+2010,NE,MIA,17,MIA,NE 45,Q1,2 and 3,1:33,MIA,Offensive Holding,10,REG
+2010,NE,MIA,17,NE,NE 33,Q2,2 and 3,8:46,MIA,Encroachment,5,REG
+2010,NE,MIA,17,MIA,MIA 25,Q2,1 and 10,1:35,MIA,Ineligible Downfield Pass,5,REG
+2010,NE,MIA,17,NE,NE 27,Q3,2 and 5,14:40,NE,Illegal Use of Hands,10,REG
+2010,NE,MIA,17,MIA,MIA 42,Q3,1 and 10,11:23,NE,Personal Foul,15,REG
+2010,NE,MIA,17,NE,MIA 47,Q3,4 and 1,6:58,MIA,Encroachment,5,REG
+2010,NE,MIA,17,NE,MIA 42,Q3,1 and 10,6:39,MIA,Roughing the Passer,15,REG
+2010,NE,MIA,17,NE,MIA 12,Q3,2 and 9,1:09,NE,Offensive Holding,10,REG
+2010,NE,MIA,17,NE,MIA 16,Q4,2 and 6,3:36,NE,Delay of Game,5,REG
+2010,NE,MIA,17,MIA,MIA 34,Q4,3 and 10,2:34,NE,Defensive Pass Interference,32,REG
+2011,MIA,NE,1,MIA,NE 19,Q1,1 and 10,11:06,MIA,Offensive Holding,10,REG
+2011,MIA,NE,1,NE,NE 22,Q1,1 and 10,7:35,MIA,Defensive Offside,5,REG
+2011,MIA,NE,1,NE,NE 35,Q1,1 and 10,2:03,NE,Illegal Formation,5,REG
+2011,MIA,NE,1,NE,NE 35,Q2,,,MIA,Offensive Holding,10,REG
+2011,MIA,NE,1,NE,MIA 42,Q2,1 and 10,7:45,NE,False Start,5,REG
+2011,MIA,NE,1,MIA,MIA 5,Q2,4 and 9,5:43,NE,Illegal Block Above the Waist,10,REG
+2011,MIA,NE,1,MIA,NE 49,Q2,2 and 13,3:36,MIA,Offensive Holding,10,REG
+2011,MIA,NE,1,NE,MIA 19,Q2,2 and 10,:26,NE,Offensive Holding,10,REG
+2011,MIA,NE,1,NE,MIA 43,Q3,1 and 10,14:37,MIA,Defensive 12 On-field,5,REG
+2011,MIA,NE,1,NE,MIA 38,Q3,1 and 5,14:14,NE,False Start,5,REG
+2011,MIA,NE,1,NE,NE 33,Q3,2 and 4,11:52,MIA,Encroachment,5,REG
+2011,MIA,NE,1,NE,NE 35,Q3,,,MIA,Offensive Holding,10,REG
+2011,MIA,NE,1,NE,MIA 21,Q3,2 and 1,:50,NE,Offensive Holding,10,REG
+2011,MIA,NE,1,MIA,MIA 17,Q3,1 and 10,:05,MIA,False Start,5,REG
+2011,MIA,NE,1,NE,MIA 39,Q4,2 and 2,2:53,NE,False Start,5,REG
+2011,NE,SD,2,SD,SD 31,Q1,1 and 10,13:47,SD,False Start,5,REG
+2011,NE,SD,2,NE,SD 47,Q1,1 and 10,1:32,NE,Offensive Holding,10,REG
+2011,NE,SD,2,NE,SD 12,Q2,2 and 7,14:26,SD,Illegal Contact,4,REG
+2011,NE,SD,2,SD,SD 24,Q2,1 and 10,13:16,NE,Roughing the Passer,15,REG
+2011,NE,SD,2,NE,SD 10,Q2,1 and 10,2:52,SD,Unnecessary Roughness,15,REG
+2011,NE,SD,2,SD,SD 20,Q2,1 and 10,2:49,SD,Offensive Holding,10,REG
+2011,NE,SD,2,SD,SD 36,Q2,3 and 4,1:04,NE,Defensive Holding,5,REG
+2011,NE,SD,2,SD,NE 41,Q2,2 and 10,:27,SD,False Start,5,REG
+2011,NE,SD,2,SD,NE 29,Q2,1 and 10,:19,NE,Illegal Block Above the Waist,10,REG
+2011,NE,SD,2,NE,SD 43,Q3,2 and 11,12:34,NE,False Start,5,REG
+2011,NE,SD,2,SD,NE 48,Q3,2 and 1,6:44,NE,Defensive Holding,5,REG
+2011,NE,SD,2,SD,NE 24,Q4,2 and 3,15:00,NE,Defensive Pass Interference,20,REG
+2011,NE,SD,2,NE,PENALTY ,Q4,,12:16,NE,Offensive Holding,10,REG
+2011,NE,SD,2,NE,SD 21,Q4,2 and 7,2:00,SD,Neutral Zone Infraction,5,REG
+2011,BUF,NE,3,NE,BUF 9,Q1,2 and 9,10:11,NE,False Start,5,REG
+2011,BUF,NE,3,NE,BUF 6,Q1,2 and 6,7:12,BUF,Defensive Holding,0,REG
+2011,BUF,NE,3,BUF,NE 25,Q1,3 and 4,1:30,BUF,Chop Block,15,REG
+2011,BUF,NE,3,NE,NE 30,Q2,2 and 9,11:16,NE,Illegal Use of Hands,10,REG
+2011,BUF,NE,3,BUF,BUF 29,Q2,1 and 10,9:33,BUF,Offensive Holding,10,REG
+2011,BUF,NE,3,NE,NE 35,Q2,,,BUF,Illegal Block Above the Waist,4,REG
+2011,BUF,NE,3,BUF,BUF 36,Q2,1 and 10,4:39,BUF,Offensive Holding,10,REG
+2011,BUF,NE,3,BUF,BUF 26,Q2,1 and 20,4:07,NE,Roughing the Passer,15,REG
+2011,BUF,NE,3,NE,NE 20,Q2,1 and 10,1:56,BUF,Unnecessary Roughness,15,REG
+2011,BUF,NE,3,NE,BUF 37,Q2,1 and 10,1:17,BUF,Unnecessary Roughness,13,REG
+2011,BUF,NE,3,NE,BUF 32,Q3,2 and 1,:27,NE,Offensive Holding,10,REG
+2011,BUF,NE,3,NE,BUF 23,Q4,1 and 10,11:38,BUF,Illegal Block Above the Waist,5,REG
+2011,BUF,NE,3,BUF,BUF 5,Q4,1 and 10,11:27,NE,Roughing the Passer,15,REG
+2011,BUF,NE,3,BUF,NE 32,Q4,1 and 10,10:50,NE,Defensive Pass Interference,31,REG
+2011,BUF,NE,3,NE,BUF 1,Q4,3 and 1,3:37,NE,False Start,5,REG
+2011,BUF,NE,3,BUF,NE 1,Q4,2 and 1,1:37,NE,Unsportsmanlike Conduct,2,REG
+2011,BUF,NE,3,BUF,NE 4,Q4,2 and 4,:48,BUF,False Start,5,REG
+2011,OAK,NE,4,OAK,NE 13,Q1,1 and 10,12:23,OAK,Illegal Block Above the Waist,10,REG
+2011,OAK,NE,4,NE,NE 20,Q1,1 and 10,10:26,NE,Offensive Holding,10,REG
+2011,OAK,NE,4,NE,NE 21,Q1,3 and 9,9:20,OAK,Unnecessary Roughness,15,REG
+2011,OAK,NE,4,NE,OAK 47,Q1,,7:43,OAK,Face Mask (15 Yards),15,REG
+2011,OAK,NE,4,OAK,OAK 23,Q1,2 and 7,6:01,OAK,Illegal Substitution,5,REG
+2011,OAK,NE,4,OAK,NE 40,Q1,4 and 2,1:12,OAK,Delay of Game,5,REG
+2011,OAK,NE,4,OAK,OAK 35,Q2,,,OAK,Unnecessary Roughness,15,REG
+2011,OAK,NE,4,NE,OAK 40,Q2,1 and 10,9:40,OAK,Illegal Contact,5,REG
+2011,OAK,NE,4,OAK,OAK 49,Q2,1 and 10,5:40,NE,Defensive 12 On-field,5,REG
+2011,OAK,NE,4,NE,OAK 46,Q3,1 and 10,12:57,OAK,Defensive Offside,5,REG
+2011,OAK,NE,4,NE,NE 20,Q3,1 and 10,3:21,NE,Illegal Motion,5,REG
+2011,OAK,NE,4,OAK,NE 45,Q4,3 and 12,10:36,NE,Unnecessary Roughness,15,REG
+2011,OAK,NE,4,NE,NE 48,Q4,2 and 11,9:44,NE,Offensive Holding,10,REG
+2011,OAK,NE,4,NE,NE 37,Q4,4 and 10,4:19,OAK,Illegal Block Above the Waist,10,REG
+2011,NE,NYJ,5,NYJ,NYJ 18,Q1,2 and 1,11:16,NYJ,False Start,4,REG
+2011,NE,NYJ,5,NYJ,NYJ 18,Q1,4 and 1,10:16,NE,Offensive Holding,10,REG
+2011,NE,NYJ,5,NE,NE 36,Q1,1 and 10,10:06,NYJ,Illegal Substitution,5,REG
+2011,NE,NYJ,5,NE,NE 28,Q1,1 and 10,5:03,NE,Face Mask (15 Yards),14,REG
+2011,NE,NYJ,5,NE,NE 17,Q1,3 and 21,3:22,NE,False Start,5,REG
+2011,NE,NYJ,5,NE,NE 12,Q1,3 and 26,3:03,NYJ,Defensive Pass Interference,38,REG
+2011,NE,NYJ,5,NE,NE 46,Q1,2 and 14,2:12,NE,Offensive Holding,10,REG
+2011,NE,NYJ,5,NYJ,NYJ 29,Q2,4 and 1,14:30,NYJ,Unnecessary Roughness,15,REG
+2011,NE,NYJ,5,NE,NYJ 39,Q2,3 and 5,12:59,NYJ,Illegal Contact,5,REG
+2011,NE,NYJ,5,NYJ,NYJ 35,Q2,,,NE,Offensive Holding,7,REG
+2011,NE,NYJ,5,NE,NE 25,Q2,1 and 10,2:26,NYJ,Illegal Contact,5,REG
+2011,NE,NYJ,5,NE,NYJ 48,Q2,2 and 2,1:06,NE,False Start,4,REG
+2011,NE,NYJ,5,NE,NYJ 26,Q3,2 and 5,1:39,NYJ,Defensive Pass Interference,10,REG
+2011,NE,NYJ,5,NE,NE 35,Q3,,,NYJ,Offensive Holding,7,REG
+2011,NE,DAL,6,DAL,DAL 20,Q1,1 and 10,15:00,DAL,Offensive Holding,10,REG
+2011,NE,DAL,6,DAL,DAL 39,Q1,2 and 8,6:15,DAL,Offensive Holding,10,REG
+2011,NE,DAL,6,DAL,DAL 35,Q1,4 and 12,5:03,NE,Illegal Block Above the Waist,10,REG
+2011,NE,DAL,6,DAL,NE 22,Q1,3 and 9,3:56,DAL,False Start,5,REG
+2011,NE,DAL,6,NE,DAL 8,Q2,2 and 8,13:04,NE,Offensive Holding,10,REG
+2011,NE,DAL,6,NE,DAL 48,Q2,2 and 9,9:36,DAL,Roughing the Passer,15,REG
+2011,NE,DAL,6,NE,DAL 33,Q2,2 and 10,9:29,NE,False Start,5,REG
+2011,NE,DAL,6,NE,NE 35,Q2,,,DAL,Illegal Block Above the Waist,7,REG
+2011,NE,DAL,6,DAL,NE 44,Q3,1 and 10,9:47,NE,Illegal Substitution,5,REG
+2011,NE,DAL,6,NE,DAL 39,Q3,4 and 5,1:44,DAL,Running Into the Kicker,5,REG
+2011,NE,DAL,6,DAL,NE 45,Q4,4 and 10,13:03,DAL,Ineligible Downfield Kick,5,REG
+2011,NE,DAL,6,NE,NE 25,Q4,2 and 10,12:50,DAL,Illegal Substitution,5,REG
+2011,NE,DAL,6,NE,NE 44,Q4,2 and 3,11:33,NE,False Start,5,REG
+2011,NE,DAL,6,DAL,DAL 39,Q4,2 and 3,8:34,DAL,Offensive Holding,10,REG
+2011,NE,DAL,6,DAL,DAL 25,Q4,3 and 13,2:47,DAL,False Start,5,REG
+2011,PIT,NE,8,NE,NE 43,Q2,1 and 10,12:19,PIT,Defensive Holding,5,REG
+2011,PIT,NE,8,NE,NE 50,Q2,2 and 8,11:15,PIT,Defensive Pass Interference,7,REG
+2011,PIT,NE,8,NE,PIT 43,Q2,1 and 10,11:10,NE,False Start,5,REG
+2011,PIT,NE,8,NE,NE 46,Q2,2 and 7,2:00,NE,False Start,5,REG
+2011,PIT,NE,8,PIT,NE 43,Q3,1 and 10,10:50,PIT,Offensive Pass Interference,10,REG
+2011,PIT,NE,8,NE,NE 21,Q3,1 and 10,6:06,PIT,Unnecessary Roughness,15,REG
+2011,PIT,NE,8,NE,PIT 24,Q3,1 and 10,4:11,NE,False Start,5,REG
+2011,PIT,NE,8,PIT,NE 26,Q4,2 and 1,14:27,NE,Face Mask (15 Yards),12,REG
+2011,PIT,NE,8,PIT,NE 7,Q4,3 and 5,12:34,PIT,False Start,5,REG
+2011,PIT,NE,8,NE,PIT 7,Q4,3 and 2,4:21,PIT,Neutral Zone Infraction,3,REG
+2011,PIT,NE,8,NE,PIT 4,Q4,2 and 4,4:15,NE,False Start,5,REG
+2011,PIT,NE,8,NE,PIT 1,Q4,4 and 1,2:48,PIT,Defensive Holding,0,REG
+2011,PIT,NE,8,NE,NE 35,Q4,,,NE,Illegal Onside Kick,5,REG
+2011,PIT,NE,8,PIT,NE 47,Q4,4 and 30,:29,PIT,Delay of Game,5,REG
+2011,NE,NYG,9,NYG,NYG 45,Q1,4 and 2,13:30,NE,Offensive Holding,5,REG
+2011,NE,NYG,9,NYG,NYG 33,Q2,3 and 5,14:10,NE,Encroachment,6,REG
+2011,NE,NYG,9,NYG,NYG 39,Q2,1 and 10,14:10,NYG,Offensive Holding,10,REG
+2011,NE,NYG,9,NYG,NE 46,Q2,1 and 10,8:24,NYG,Offensive Holding,10,REG
+2011,NE,NYG,9,NE,NE 19,Q2,3 and 2,5:51,NE,Illegal Substitution,5,REG
+2011,NE,NYG,9,NE,NE 16,Q3,2 and 10,9:59,NE,Delay of Game,5,REG
+2011,NE,NYG,9,NE,NE 17,Q3,2 and 10,9:03,NYG,Illegal Substitution,5,REG
+2011,NE,NYG,9,NYG,NE 2,Q3,2 and 2,2:55,NYG,Delay of Game,5,REG
+2011,NE,NYG,9,NE,NYG 39,Q4,1 and 10,10:20,NE,False Start,5,REG
+2011,NE,NYG,9,NYG,NYG 25,Q4,1 and 10,5:51,NE,Defensive Pass Interference,35,REG
+2011,NE,NYG,9,NYG,NE 10,Q4,3 and 5,3:07,NYG,Unsportsmanlike Conduct,15,REG
+2011,NE,NYG,9,NYG,NE 2,Q4,,,NYG,False Start,5,REG
+2011,NE,NYG,9,NYG,NE 21,Q4,1 and 10,:35,NE,Defensive Pass Interference,20,REG
+2011,NYJ,NE,10,NE,NYJ 27,Q1,3 and 12,8:19,NE,Illegal Substitution,5,REG
+2011,NYJ,NE,10,NYJ,NYJ 26,Q2,3 and 14,15:00,NYJ,Offensive Pass Interference,10,REG
+2011,NYJ,NE,10,NYJ,NE 46,Q2,2 and 4,10:01,NYJ,Intentional Grounding,11,REG
+2011,NYJ,NE,10,NE,NE 12,Q2,2 and 5,8:30,NE,Offensive Holding,6,REG
+2011,NYJ,NE,10,NE,NE 13,Q2,4 and 4,7:02,NYJ,Illegal Block Above the Waist,10,REG
+2011,NYJ,NE,10,NYJ,NYJ 35,Q2,1 and 10,6:55,NE,Unnecessary Roughness,15,REG
+2011,NYJ,NE,10,NE,NE 5,Q2,3 and 13,4:48,NE,Intentional Grounding,5,REG
+2011,NYJ,NE,10,NYJ,NYJ 48,Q2,1 and 10,3:27,NE,Defensive Offside,5,REG
+2011,NYJ,NE,10,NYJ,NE 2,Q2,,,NE,Unnecessary Roughness,15,REG
+2011,NYJ,NE,10,NE,NYJ 31,Q2,1 and 10,:42,NYJ,Face Mask (15 Yards),15,REG
+2011,NYJ,NE,10,NYJ,NYJ 35,Q3,,,NE,Illegal Block Above the Waist,9,REG
+2011,NYJ,NE,10,NE,NYJ 14,Q3,3 and 11,10:48,NE,Illegal Touch Pass,5,REG
+2011,NYJ,NE,10,NE,NYJ 5,Q3,3 and 3,4:47,NE,Unsportsmanlike Conduct,15,REG
+2011,NYJ,NE,10,NYJ,NYJ 20,Q4,1 and 10,8:04,NYJ,Illegal Use of Hands,10,REG
+2011,NE,KC,11,NE,NE 36,Q1,3 and 8,12:54,NE,Intentional Grounding,10,REG
+2011,NE,KC,11,NE,NE 26,Q1,4 and 18,12:50,KC,Illegal Block Above the Waist,10,REG
+2011,NE,KC,11,KC,NE 36,Q1,4 and 1,9:52,KC,Delay of Game,4,REG
+2011,NE,KC,11,KC,NE 5,Q1,1 and 5,3:50,KC,Illegal Shift,5,REG
+2011,NE,KC,11,KC,NE 45,Q2,3 and 11,8:46,KC,Offensive Holding,10,REG
+2011,NE,KC,11,NE,KC 6,Q2,1 and 6,:59,NE,False Start,5,REG
+2011,NE,KC,11,KC,NE 33,Q4,4 and 7,6:42,KC,Delay of Game,5,REG
+2011,NE,KC,11,NE,KC 1,Q4,3 and 1,1:14,NE,Illegal Shift,5,REG
+2011,PHI,NE,12,NE,NE 28,Q1,3 and 2,7:16,PHI,Defensive 12 On-field,5,REG
+2011,PHI,NE,12,NE,PHI 27,Q1,3 and 1,3:27,PHI,Defensive Offside,5,REG
+2011,PHI,NE,12,NE,NE 31,Q2,2 and 18,14:20,PHI,Defensive Offside,5,REG
+2011,PHI,NE,12,NE,PHI 2,Q2,,,NE,False Start,5,REG
+2011,PHI,NE,12,NE,NE 34,Q2,1 and 10,1:58,PHI,Neutral Zone Infraction,5,REG
+2011,PHI,NE,12,NE,PHI 48,Q2,1 and 10,1:35,PHI,Illegal Use of Hands,5,REG
+2011,PHI,NE,12,PHI,PHI 24,Q2,3 and 6,:18,PHI,False Start,5,REG
+2011,PHI,NE,12,PHI,NE 49,Q3,4 and 10,1:09,PHI,Offensive Holding,10,REG
+2011,PHI,NE,12,PHI,PHI 36,Q4,1 and 10,8:03,NE,Illegal Contact,5,REG
+2011,PHI,NE,12,PHI,PHI 41,Q4,2 and 10,7:34,PHI,False Start,5,REG
+2011,PHI,NE,12,NE,NE 45,Q4,1 and 10,6:54,NE,Offensive Holding,10,REG
+2011,PHI,NE,12,PHI,PHI 48,Q4,1 and 10,2:28,PHI,Offensive Holding,10,REG
+2011,PHI,NE,12,PHI,PHI 38,Q4,1 and 20,2:22,PHI,False Start,5,REG
+2011,NE,IND,13,IND,IND 20,Q1,1 and 10,15:00,IND,Offensive Holding,10,REG
+2011,NE,IND,13,NE,IND 29,Q1,1 and 10,10:39,IND,Illegal Substitution,5,REG
+2011,NE,IND,13,IND,NE 1,Q2,3 and 1,14:35,IND,False Start,4,REG
+2011,NE,IND,13,NE,NE 43,Q2,4 and 2,11:24,NE,Delay of Game,5,REG
+2011,NE,IND,13,NE,IND 29,Q2,1 and 10,5:28,NE,Offensive Holding,10,REG
+2011,NE,IND,13,IND,IND 21,Q2,2 and 9,2:14,IND,False Start,5,REG
+2011,NE,IND,13,IND,IND 17,Q3,2 and 7,3:23,IND,False Start,5,REG
+2011,NE,IND,13,IND,IND 35,Q4,,,NE,Encroachment,5,REG
+2011,WAS,NE,14,WAS,NE 1,Q1,3 and 1,7:16,WAS,False Start,5,REG
+2011,WAS,NE,14,WAS,WAS 16,Q1,2 and 10,5:10,WAS,Offensive Holding,8,REG
+2011,WAS,NE,14,WAS,WAS 8,Q1,3 and 18,4:36,NE,Defensive Pass Interference,11,REG
+2011,WAS,NE,14,WAS,NE 22,Q2,3 and 9,4:26,NE,Roughing the Passer,11,REG
+2011,WAS,NE,14,NE,WAS 23,Q2,2 and 4,1:07,WAS,Unnecessary Roughness,10,REG
+2011,WAS,NE,14,NE,NE 34,Q3,1 and 10,14:21,WAS,Unsportsmanlike Conduct,15,REG
+2011,WAS,NE,14,NE,WAS 27,Q3,2 and 2,12:46,NE,Offensive Holding,10,REG
+2011,WAS,NE,14,WAS,NE 29,Q3,2 and 10,9:30,NE,Unnecessary Roughness,15,REG
+2011,WAS,NE,14,NE,NE 35,Q3,,,WAS,Offensive Holding,10,REG
+2011,WAS,NE,14,WAS,WAS 20,Q4,1 and 10,12:43,WAS,Offensive Holding,10,REG
+2011,WAS,NE,14,WAS,NE 5,Q4,2 and 5,1:15,WAS,Offensive Pass Interference,10,REG
+2011,DEN,NE,15,NE,NE 23,Q1,3 and 7,4:16,DEN,Defensive Holding,5,REG
+2011,DEN,NE,15,NE,DEN 40,Q2,2 and 10,3:57,DEN,Neutral Zone Infraction,5,REG
+2011,DEN,NE,15,NE,NE 11,Q3,3 and 19,13:42,NE,Delay of Game,5,REG
+2011,DEN,NE,15,NE,NE 6,Q3,3 and 24,13:21,DEN,Illegal Use of Hands,5,REG
+2011,DEN,NE,15,DEN,DEN 40,Q3,4 and 18,4:37,DEN,False Start,5,REG
+2011,DEN,NE,15,NE,DEN 37,Q3,1 and 10,1:37,DEN,Face Mask (15 Yards),15,REG
+2011,DEN,NE,15,DEN,DEN 8,Q3,1 and 10,:36,DEN,Offensive Holding,4,REG
+2011,DEN,NE,15,NE,DEN 13,Q4,2 and 4,6:01,NE,Offensive Holding,10,REG
+2011,DEN,NE,15,NE,DEN 1,Q4,1 and 1,4:47,DEN,Defensive 12 On-field,0,REG
+2011,DEN,NE,15,DEN,DEN 35,Q4,1 and 10,3:48,NE,Defensive Holding,5,REG
+2011,DEN,NE,15,NE,DEN 34,Q4,1 and 10,2:17,NE,Offensive Holding,10,REG
+2011,NE,MIA,16,MIA,MIA 37,Q1,2 and 10,3:04,MIA,False Start,5,REG
+2011,NE,MIA,16,MIA,MIA 7,Q2,2 and 14,11:42,MIA,Personal Foul,9,REG
+2011,NE,MIA,16,MIA,MIA 9,Q2,3 and 12,11:09,NE,Defensive Pass Interference,18,REG
+2011,NE,MIA,16,MIA,NE 20,Q2,3 and 3,7:28,NE,Defensive Pass Interference,17,REG
+2011,NE,MIA,16,NE,NE 41,Q2,4 and 8,5:38,NE,False Start,5,REG
+2011,NE,MIA,16,MIA,MIA 45,Q2,2 and 7,1:08,MIA,False Start,5,REG
+2011,NE,MIA,16,NE,MIA 39,Q3,3 and 6,13:10,MIA,Neutral Zone Infraction,5,REG
+2011,NE,MIA,16,NE,MIA 38,Q3,1 and 10,10:45,MIA,Encroachment,5,REG
+2011,NE,MIA,16,MIA,MIA 46,Q3,1 and 10,:25,MIA,Offensive Holding,10,REG
+2011,NE,MIA,16,NE,NE 49,Q4,2 and 10,10:59,NE,False Start,5,REG
+2011,NE,MIA,16,NE,MIA 14,Q4,1 and 10,10:49,NE,Illegal Formation,5,REG
+2011,NE,BUF,17,BUF,BUF 49,Q1,1 and 10,11:33,NE,Defensive Pass Interference,47,REG
+2011,NE,BUF,17,BUF,NE 18,Q1,2 and 6,5:24,BUF,"enforced between downs. BUF 13-St. Johnson 1,004 receiving yds",2,REG
+2011,NE,BUF,17,NE,NE 39,Q1,1 and 10,5:14,BUF,Illegal Contact,5,REG
+2011,NE,BUF,17,NE,BUF 32,Q2,3 and 4,1:10,NE,Offensive Holding,10,REG
+2011,NE,BUF,17,NE,BUF 42,Q2,3 and 14,1:05,BUF,Personal Foul,15,REG
+2011,NE,BUF,17,BUF,BUF 28,Q3,2 and 2,4:25,BUF,Delay of Game,5,REG
+2011,NE,BUF,17,NE,BUF 30,Q3,3 and 15,2:47,BUF,Illegal Contact,5,REG
+2011,NE,BUF,17,BUF,NE 48,Q4,3 and 5,13:33,NE,Illegal Use of Hands,5,REG
+2011,NE,BUF,17,BUF,BUF 41,Q4,2 and 5,1:56,NE,Personal Foul,15,REG
+2012,TEN,NE,1,TEN,TEN 45,Q1,2 and 5,12:35,NE,Defensive Pass Interference,9,REG
+2012,TEN,NE,1,NE,NE 35,Q2,,,TEN,Offensive Holding,10,REG
+2012,TEN,NE,1,TEN,TEN 38,Q2,4 and 1,7:27,TEN,Interference with Opportunity to Catch,15,REG
+2012,TEN,NE,1,TEN,TEN 10,Q3,3 and 10,4:53,TEN,Offensive Holding,5,REG
+2012,TEN,NE,1,TEN,TEN 47,Q4,2 and 6,14:34,NE,Defensive Offside,5,REG
+2012,TEN,NE,1,TEN,NE 19,Q4,2 and 8,11:59,NE,Defensive Pass Interference,6,REG
+2012,NE,ARI,2,ARI,NE 34,Q1,3 and 8,7:51,NE,Encroachment,5,REG
+2012,NE,ARI,2,NE,ARI 33,Q1,3 and 7,2:37,ARI,Encroachment,5,REG
+2012,NE,ARI,2,ARI,ARI 18,Q2,3 and 8,13:21,ARI,Offensive Holding,9,REG
+2012,NE,ARI,2,NE,ARI 11,Q2,4 and 2,9:12,NE,False Start,5,REG
+2012,NE,ARI,2,NE,NE 35,Q2,,,ARI,Offensive Holding,10,REG
+2012,NE,ARI,2,NE,NE 38,Q2,2 and 20,5:35,NE,False Start,5,REG
+2012,NE,ARI,2,NE,ARI 39,Q3,4 and 15,2:53,NE,Illegal Formation,5,REG
+2012,NE,ARI,2,ARI,ARI 38,Q3,2 and 8,1:41,ARI,Offensive Holding,10,REG
+2012,NE,ARI,2,ARI,ARI 28,Q3,2 and 18,1:13,NE,Personal Foul,15,REG
+2012,NE,ARI,2,ARI,ARI 17,Q4,2 and 2,11:10,ARI,False Start,5,REG
+2012,NE,ARI,2,ARI,ARI 22,Q4,4 and 8,5:54,NE,Illegal Block Above the Waist,10,REG
+2012,NE,ARI,2,NE,ARI 30,Q4,2 and 10,:58,NE,Offensive Holding,0,REG
+2012,NE,ARI,2,NE,ARI 18,Q4,1 and 10,:46,NE,False Start,5,REG
+2012,BAL,NE,3,BAL,BAL 41,Q1,4 and 2,5:14,NE,Illegal Block Above the Waist,9,REG
+2012,BAL,NE,3,NE,NE 49,Q1,1 and 10,3:10,BAL,Personal Foul,15,REG
+2012,BAL,NE,3,NE,BAL 27,Q1,2 and 8,2:14,NE,Offensive Holding,10,REG
+2012,BAL,NE,3,NE,BAL 30,Q1,3 and 11,1:48,NE,Offensive Pass Interference,10,REG
+2012,BAL,NE,3,BAL,BAL 22,Q2,3 and 6,15:00,NE,Defensive Pass Interference,2,REG
+2012,BAL,NE,3,BAL,BAL 28,Q2,2 and 6,14:20,BAL,Offensive Holding,10,REG
+2012,BAL,NE,3,BAL,NE 49,Q2,1 and 10,12:11,BAL,False Start,5,REG
+2012,BAL,NE,3,NE,NE 20,Q2,1 and 10,9:45,NE,False Start,5,REG
+2012,BAL,NE,3,NE,NE 31,Q2,1 and 10,1:14,BAL,Defensive Holding,5,REG
+2012,BAL,NE,3,NE,NE 49,Q2,1 and 10,:35,BAL,Illegal Contact,5,REG
+2012,BAL,NE,3,NE,BAL 2,Q2,,,BAL,Personal Foul,15,REG
+2012,BAL,NE,3,BAL,BAL 37,Q3,2 and 8,14:06,NE,Defensive Holding,5,REG
+2012,BAL,NE,3,NE,BAL 39,Q3,1 and 10,8:49,BAL,Personal Foul,15,REG
+2012,BAL,NE,3,BAL,BAL 20,Q3,1 and 10,6:48,BAL,False Start,5,REG
+2012,BAL,NE,3,BAL,NE 42,Q3,2 and 5,5:54,BAL,Offensive Holding,10,REG
+2012,BAL,NE,3,BAL,BAL 48,Q3,4 and 15,5:15,NE,Defensive Offside,5,REG
+2012,BAL,NE,3,NE,BAL 45,Q3,1 and 10,2:53,BAL,Defensive Holding,5,REG
+2012,BAL,NE,3,NE,BAL 33,Q3,3 and 3,1:28,BAL,Unnecessary Roughness,15,REG
+2012,BAL,NE,3,BAL,BAL 20,Q4,1 and 10,6:55,BAL,Offensive Holding,10,REG
+2012,BAL,NE,3,BAL,BAL 16,Q4,2 and 14,6:18,NE,Defensive Holding,5,REG
+2012,BAL,NE,3,BAL,NE 10,Q4,2 and 10,4:15,NE,Defensive Holding,5,REG
+2012,BAL,NE,3,NE,NE 32,Q4,3 and 9,2:28,BAL,Illegal Contact,5,REG
+2012,BAL,NE,3,NE,NE 37,Q4,1 and 10,2:23,BAL,Unsportsmanlike Conduct,15,REG
+2012,BAL,NE,3,BAL,NE 34,Q4,3 and 9,:52,NE,Defensive Pass Interference,27,REG
+2012,BUF,NE,4,BUF,BUF 17,Q3,2 and 10,13:06,BUF,False Start,5,REG
+2012,BUF,NE,4,BUF,BUF 21,Q3,4 and 9,7:19,NE,Offensive Holding,10,REG
+2012,BUF,NE,4,NE,BUF 32,Q3,2 and 6,4:49,BUF,Roughing the Passer,7,REG
+2012,BUF,NE,4,BUF,BUF 20,Q4,2 and 10,11:37,BUF,False Start,5,REG
+2012,NE,DEN,5,DEN,NE 20,Q2,3 and 6,14:15,NE,Defensive Pass Interference,19,REG
+2012,NE,DEN,5,NE,DEN 22,Q2,1 and 10,9:53,NE,False Start,5,REG
+2012,NE,DEN,5,NE,NE 39,Q3,1 and 10,11:14,DEN,Defensive 12 On-field,5,REG
+2012,NE,DEN,5,NE,DEN 47,Q3,3 and 7,9:24,NE,Offensive Holding,10,REG
+2012,NE,DEN,5,NE,DEN 17,Q3,2 and 10,7:01,DEN,Encroachment,5,REG
+2012,NE,DEN,5,NE,DEN 1,Q3,2 and 1,5:37,DEN,Defensive Offside,0,REG
+2012,NE,DEN,5,NE,DEN 14,Q3,1 and 10,4:51,DEN,Defensive Pass Interference,11,REG
+2012,NE,DEN,5,NE,DEN 3,Q3,1 and 3,4:47,NE,False Start,5,REG
+2012,NE,DEN,5,NE,NE 20,Q3,2 and 10,:34,NE,Offensive Pass Interference,10,REG
+2012,NE,DEN,5,NE,NE 44,Q4,4 and 20,13:09,NE,Offensive Holding,10,REG
+2012,SEA,NE,6,SEA,SEA 16,Q1,1 and 10,12:52,NE,Defensive Offside,5,REG
+2012,SEA,NE,6,SEA,NE 11,Q1,4 and 3,8:36,SEA,False Start,5,REG
+2012,SEA,NE,6,SEA,NE 19,Q1,1 and 10,2:15,SEA,False Start,5,REG
+2012,SEA,NE,6,NE,NE 20,Q1,1 and 10,1:50,NE,False Start,5,REG
+2012,SEA,NE,6,NE,SEA 3,Q2,1 and 3,11:42,NE,Illegal Shift,5,REG
+2012,SEA,NE,6,SEA,SEA 42,Q3,3 and 10,8:08,SEA,Offensive Holding,10,REG
+2012,SEA,NE,6,NE,SEA 34,Q3,3 and 7,:30,SEA,Unnecessary Roughness,15,REG
+2012,SEA,NE,6,SEA,SEA 20,Q4,1 and 10,13:29,NE,Defensive Pass Interference,40,REG
+2012,SEA,NE,6,SEA,SEA 17,Q4,1 and 10,9:17,NE,Unnecessary Roughness,15,REG
+2012,SEA,NE,6,NE,NE 47,Q4,2 and 10,4:52,NE,Intentional Grounding,10,REG
+2012,NE,NYJ,7,NYJ,NE 17,Q1,3 and 8,10:25,NE,Defensive Holding,5,REG
+2012,NE,NYJ,7,NE,NE 35,Q1,,,NYJ,Offensive Holding,10,REG
+2012,NE,NYJ,7,NYJ,NYJ 41,Q1,1 and 10,4:03,NYJ,False Start,5,REG
+2012,NE,NYJ,7,NE,NE 22,Q1,2 and 8,2:23,NYJ,Encroachment,5,REG
+2012,NE,NYJ,7,NE,NYJ 50,Q2,2 and 10,14:31,NE,Offensive Holding,10,REG
+2012,NE,NYJ,7,NE,NE 32,Q2,4 and 3,5:11,NYJ,Face Mask (15 Yards),15,REG
+2012,NE,NYJ,7,NYJ,NE 44,Q2,2 and 10,:32,NE,Defensive Holding,5,REG
+2012,NE,NYJ,7,NE,NE 17,Q3,1 and 10,9:26,NYJ,Defensive Holding,5,REG
+2012,NE,NYJ,7,NE,NE 47,Q3,1 and 10,6:32,NE,False Start,5,REG
+2012,NE,NYJ,7,NYJ,NYJ 24,Q3,3 and 6,2:01,NYJ,Offensive Holding,10,REG
+2012,NE,NYJ,7,NYJ,NYJ 8,Q4,1 and 10,12:42,NYJ,False Start,4,REG
+2012,NE,NYJ,7,NE,NE 21,Q4,1 and 10,5:39,NE,Offensive Pass Interference,10,REG
+2012,NE,NYJ,7,NE,NE 44,Q5,3 and 7,12:45,NYJ,Defensive Pass Interference,6,REG
+2012,NE,NYJ,7,NYJ,NYJ 20,Q5,3 and 5,9:33,NE,Defensive Holding,5,REG
+2012,STL,NE,8,STL,STL 20,Q1,1 and 10,15:00,NE,Encroachment,5,REG
+2012,STL,NE,8,NE,NE 30,Q1,3 and 2,11:06,STL,Defensive Pass Interference,10,REG
+2012,STL,NE,8,STL,STL 42,Q1,1 and 10,5:55,STL,Illegal Touch Pass,5,REG
+2012,STL,NE,8,STL,STL 47,Q1,3 and 5,3:59,STL,Intentional Grounding,12,REG
+2012,STL,NE,8,STL,STL 34,Q2,1 and 10,12:02,STL,False Start,5,REG
+2012,STL,NE,8,NE,NE 35,Q2,,,NE,Offside on Free Kick,5,REG
+2012,STL,NE,8,STL,NE 41,Q2,1 and 10,3:04,STL,Offensive Holding,10,REG
+2012,STL,NE,8,NE,STL 35,Q2,3 and 4,:53,STL,Defensive Pass Interference,15,REG
+2012,STL,NE,8,NE,STL 8,Q2,3 and 8,:17,STL,Defensive Pass Interference,7,REG
+2012,STL,NE,8,STL,STL 24,Q3,2 and 6,11:48,STL,Illegal Forward Pass,5,REG
+2012,STL,NE,8,STL,STL 28,Q3,4 and 2,10:21,STL,Offensive Holding,10,REG
+2012,STL,NE,8,STL,STL 32,Q3,1 and 10,5:49,STL,False Start,5,REG
+2012,STL,NE,8,STL,STL 27,Q3,1 and 15,5:29,NE,Defensive Holding,5,REG
+2012,STL,NE,8,STL,STL 32,Q3,2 and 14,1:31,NE,Encroachment,5,REG
+2012,STL,NE,8,NE,STL 48,Q4,3 and 3,13:34,NE,Illegal Formation,5,REG
+2012,STL,NE,8,NE,STL 28,Q4,1 and 10,12:01,STL,Unnecessary Roughness,8,REG
+2012,STL,NE,8,NE,STL 9,Q4,1 and 9,11:42,NE,False Start,5,REG
+2012,STL,NE,8,STL,STL 44,Q4,1 and 10,10:17,NE,Encroachment,5,REG
+2012,STL,NE,8,NE,NE 15,Q4,3 and 7,7:09,NE,Offensive Pass Interference,7,REG
+2012,STL,NE,8,NE,NE 30,Q4,4 and 5,5:24,STL,Offensive Holding,10,REG
+2012,NE,BUF,10,BUF,BUF 40,Q1,3 and 1,12:29,BUF,False Start,5,REG
+2012,NE,BUF,10,BUF,BUF 35,Q1,3 and 6,12:04,BUF,Offensive Holding,10,REG
+2012,NE,BUF,10,BUF,BUF 25,Q1,3 and 16,11:37,BUF,False Start,5,REG
+2012,NE,BUF,10,NE,BUF 9,Q1,2 and 6,4:49,BUF,Defensive Pass Interference,8,REG
+2012,NE,BUF,10,NE,BUF 3,Q1,2 and 3,4:01,BUF,Defensive Pass Interference,2,REG
+2012,NE,BUF,10,BUF,BUF 20,Q1,1 and 10,3:54,BUF,Offensive Holding,10,REG
+2012,NE,BUF,10,BUF,NE 36,Q2,1 and 10,15:00,NE,Face Mask (15 Yards),15,REG
+2012,NE,BUF,10,BUF,NE 11,Q2,3 and 2,13:07,BUF,Offensive Holding,10,REG
+2012,NE,BUF,10,NE,NE 18,Q2,3 and 10,5:46,BUF,Defensive Pass Interference,17,REG
+2012,NE,BUF,10,NE,NE 36,Q2,2 and 9,5:03,BUF,Face Mask (15 Yards),15,REG
+2012,NE,BUF,10,NE,BUF 38,Q2,1 and 10,4:42,BUF,Defensive Pass Interference,37,REG
+2012,NE,BUF,10,BUF,NE 41,Q2,2 and 1,1:01,NE,Unnecessary Roughness,15,REG
+2012,NE,BUF,10,BUF,BUF 7,Q3,3 and 16,9:44,BUF,Delay of Game,3,REG
+2012,NE,BUF,10,BUF,BUF 8,Q3,4 and 15,8:53,BUF,Unnecessary Roughness,15,REG
+2012,NE,BUF,10,BUF,NE 2,Q3,1 and 2,3:15,BUF,False Start,5,REG
+2012,NE,BUF,10,NE,NE 35,Q4,,,BUF,Illegal Block Above the Waist,6,REG
+2012,NE,BUF,10,BUF,BUF 42,Q4,2 and 9,10:40,NE,Encroachment,5,REG
+2012,NE,BUF,10,BUF,BUF 47,Q4,2 and 4,10:36,NE,Roughing the Passer,15,REG
+2012,NE,BUF,10,BUF,NE 45,Q4,1 and 10,9:16,NE,Unnecessary Roughness,15,REG
+2012,NE,BUF,10,BUF,NE 5,Q4,2 and 5,8:21,NE,Encroachment,3,REG
+2012,NE,BUF,10,NE,BUF 4,Q4,2 and 4,2:21,NE,False Start,5,REG
+2012,NE,IND,11,IND,NE 46,Q1,2 and 10,11:43,NE,Defensive Pass Interference,40,REG
+2012,NE,IND,11,NE,IND 39,Q2,1 and 10,15:00,NE,Offensive Holding,10,REG
+2012,NE,IND,11,IND,IND 26,Q2,4 and 10,12:14,IND,False Start,5,REG
+2012,NE,IND,11,IND,IND 10,Q2,1 and 10,1:47,NE,Illegal Contact,5,REG
+2012,NE,IND,11,IND,IND 20,Q3,2 and 10,3:18,NE,Roughing the Passer,15,REG
+2012,NYJ,NE,12,NE,NE 19,Q1,1 and 10,14:53,NE,Intentional Grounding,9,REG
+2012,NYJ,NE,12,NYJ,NYJ 30,Q1,1 and 10,10:05,NE,Encroachment,5,REG
+2012,NYJ,NE,12,NYJ,NE 32,Q1,2 and 7,7:03,NE,Defensive Holding,5,REG
+2012,NYJ,NE,12,NE,NE 16,Q1,2 and 10,5:55,NYJ,Defensive 12 On-field,5,REG
+2012,NYJ,NE,12,NE,NYJ 49,Q1,3 and 4,3:42,NYJ,Neutral Zone Infraction,5,REG
+2012,NYJ,NE,12,NE,NYJ 32,Q1,2 and 10,1:07,NYJ,Face Mask (15 Yards),10,REG
+2012,NYJ,NE,12,NYJ,NE 6,Q3,3 and 2,8:24,NE,Encroachment,3,REG
+2012,NYJ,NE,12,NE,NE 1,Q3,1 and 10,6:52,NE,Chop Block,0,REG
+2012,NYJ,NE,12,NYJ,NE 7,Q3,1 and 7,5:01,NE,Defensive Holding,3,REG
+2012,NYJ,NE,12,NE,NYJ 7,Q4,2 and 2,13:14,NE,Offensive Pass Interference,10,REG
+2012,NYJ,NE,12,NE,NE 35,Q4,,,NYJ,Personal Foul,10,REG
+2012,NYJ,NE,12,NYJ,NYJ 19,Q4,3 and 1,10:09,NYJ,Illegal Motion,5,REG
+2012,NYJ,NE,12,NYJ,NE 13,Q4,2 and 10,2:34,NE,Unnecessary Roughness,1,REG
+2012,MIA,NE,13,NE,MIA 12,Q1,1 and 10,13:57,NE,Offensive Holding,10,REG
+2012,MIA,NE,13,NE,MIA 35,Q1,1 and 10,8:36,NE,Offensive Holding,10,REG
+2012,MIA,NE,13,NE,NE 25,Q1,1 and 10,3:22,MIA,Low Block,15,REG
+2012,MIA,NE,13,MIA,NE 23,Q1,1 and 10,1:52,MIA,Offensive Holding,10,REG
+2012,MIA,NE,13,NE,NE 34,Q2,4 and 1,13:21,NE,False Start,5,REG
+2012,MIA,NE,13,NE,NE 29,Q2,4 and 6,13:13,MIA,Roughing the Kicker,15,REG
+2012,MIA,NE,13,NE,MIA 35,Q2,2 and 3,11:57,MIA,Defensive Pass Interference,4,REG
+2012,MIA,NE,13,MIA,MIA 20,Q2,1 and 10,6:53,MIA,Offensive Holding,10,REG
+2012,MIA,NE,13,MIA,MIA 10,Q2,1 and 20,6:47,MIA,False Start,5,REG
+2012,MIA,NE,13,MIA,MIA 35,Q2,1 and 10,5:28,NE,Defensive 12 On-field,5,REG
+2012,MIA,NE,13,NE,NE 31,Q3,2 and 10,12:29,MIA,Defensive Pass Interference,31,REG
+2012,MIA,NE,13,NE,NE 13,Q3,1 and 10,5:45,NE,Offensive Holding,6,REG
+2012,MIA,NE,13,NE,MIA 35,Q4,3 and 1,15:00,MIA,Face Mask (15 Yards),0,REG
+2012,MIA,NE,13,MIA,NE 45,Q4,1 and 10,11:40,NE,Defensive Pass Interference,14,REG
+2012,NE,HOU,14,HOU,HOU 20,Q1,1 and 10,15:00,HOU,Illegal Formation,5,REG
+2012,NE,HOU,14,NE,HOU 34,Q1,3 and 6,11:05,HOU,Defensive Holding,5,REG
+2012,NE,HOU,14,NE,NE 43,Q2,3 and 10,12:22,HOU,Defensive Pass Interference,26,REG
+2012,NE,HOU,14,NE,NE 37,Q2,3 and 6,3:58,NE,Offensive Pass Interference,10,REG
+2012,NE,HOU,14,HOU,NE 43,Q2,3 and 10,2:00,NE,Neutral Zone Infraction,5,REG
+2012,NE,HOU,14,NE,NE 35,Q3,4 and 8,13:13,HOU,Offensive Holding,9,REG
+2012,NE,HOU,14,HOU,HOU 33,Q3,2 and 5,8:28,NE,Defensive Pass Interference,15,REG
+2012,NE,HOU,14,HOU,NE 29,Q3,1 and 10,7:49,HOU,Offensive Pass Interference,10,REG
+2012,NE,HOU,14,HOU,NE 2,Q3,1 and 2,6:42,NE,Defensive 12 On-field,1,REG
+2012,NE,HOU,14,NE,NE 20,Q3,4 and 10,5:00,HOU,Illegal Block Above the Waist,10,REG
+2012,NE,HOU,14,NE,NE 30,Q3,2 and 8,2:51,HOU,Illegal Contact,5,REG
+2012,NE,HOU,14,HOU,HOU 20,Q4,1 and 10,7:23,NE,Face Mask (15 Yards),15,REG
+2012,NE,HOU,14,NE,NE 21,Q4,1 and 10,3:54,NE,Offensive Holding,10,REG
+2012,NE,SF,15,SF,SF 14,Q1,4 and 4,8:25,NE,Offensive Holding,10,REG
+2012,NE,SF,15,NE,NE 37,Q1,2 and 3,1:48,NE,False Start,5,REG
+2012,NE,SF,15,SF,SF 20,Q2,1 and 10,8:26,NE,Defensive Pass Interference,35,REG
+2012,NE,SF,15,NE,NE 22,Q2,4 and 6,6:16,SF,Offensive Holding,10,REG
+2012,NE,SF,15,SF,NE 4,Q2,1 and 4,:18,SF,Offensive Pass Interference,10,REG
+2012,NE,SF,15,SF,NE 38,Q3,1 and 10,12:10,NE,Defensive Offside,5,REG
+2012,NE,SF,15,NE,SF 40,Q3,1 and 10,11:00,NE,Low Block,3,REG
+2012,NE,SF,15,NE,NE 20,Q3,1 and 10,10:38,SF,Unnecessary Roughness,15,REG
+2012,NE,SF,15,NE,SF 22,Q3,1 and 10,7:01,NE,Illegal Shift,5,REG
+2012,NE,SF,15,NE,SF 43,Q4,2 and 10,12:23,SF,Defensive Pass Interference,38,REG
+2012,NE,SF,15,SF,SF 25,Q4,1 and 10,12:07,SF,Illegal Use of Hands,10,REG
+2012,NE,SF,15,SF,SF 21,Q4,4 and 14,10:07,NE,Offensive Holding,7,REG
+2012,NE,SF,15,NE,SF 11,Q4,1 and 10,7:26,SF,Encroachment,5,REG
+2012,NE,SF,15,SF,SF 35,Q4,4 and 3,3:09,NE,Offensive Holding,3,REG
+2012,JAC,NE,16,NE,NE 22,Q1,1 and 10,9:29,JAC,Defensive Pass Interference,8,REG
+2012,JAC,NE,16,JAC,NE 12,Q2,2 and 1,14:28,JAC,Offensive Holding,10,REG
+2012,JAC,NE,16,NE,JAC 25,Q2,3 and 8,6:06,NE,Illegal Motion,5,REG
+2012,JAC,NE,16,JAC,JAC 21,Q2,1 and 10,5:20,JAC,Offensive Holding,10,REG
+2012,JAC,NE,16,JAC,JAC 25,Q3,3 and 5,11:02,NE,Defensive Pass Interference,5,REG
+2012,JAC,NE,16,NE,NE 40,Q3,1 and 10,6:39,JAC,Roughing the Passer,15,REG
+2012,JAC,NE,16,JAC,NE 1,Q4,3 and 1,4:06,JAC,False Start,4,REG
+2012,JAC,NE,16,JAC,NE 10,Q4,4 and 10,3:32,NE,Unnecessary Roughness,14,REG
+2012,JAC,NE,16,JAC,JAC 38,Q4,1 and 10,:54,NE,Unnecessary Roughness,15,REG
+2012,NE,MIA,17,NE,NE 35,Q1,,,MIA,Offensive Holding,8,REG
+2012,NE,MIA,17,MIA,MIA 39,Q1,4 and 11,3:04,NE,Illegal Block Above the Waist,8,REG
+2012,NE,MIA,17,NE,NE 45,Q1,1 and 10,1:13,NE,False Start,5,REG
+2012,NE,MIA,17,NE,MIA 21,Q2,3 and 8,13:28,NE,False Start,5,REG
+2012,NE,MIA,17,MIA,MIA 39,Q2,3 and 3,8:45,NE,Roughing the Passer,15,REG
+2012,NE,MIA,17,NE,MIA 15,Q2,1 and 10,2:00,NE,False Start,5,REG
+2012,NE,MIA,17,MIA,MIA 30,Q2,2 and 2,:34,MIA,Offensive Holding,10,REG
+2012,NE,MIA,17,NE,NE 30,Q3,1 and 10,9:24,MIA,Defensive Holding,5,REG
+2012,NE,MIA,17,NE,MIA 45,Q3,1 and 10,:24,NE,Offensive Holding,10,REG
+2013,BUF,NE,1,NE,NE 14,Q1,1 and 10,14:56,BUF,Neutral Zone Infraction,5,REG
+2013,BUF,NE,1,BUF,BUF 43,Q1,2 and 8,9:07,BUF,False Start,5,REG
+2013,BUF,NE,1,BUF,BUF 38,Q1,4 and 13,8:42,BUF,Face Mask (15 Yards),15,REG
+2013,BUF,NE,1,BUF,BUF 31,Q1,1 and 10,4:00,BUF,Illegal Use of Hands,10,REG
+2013,BUF,NE,1,NE,BUF 29,Q2,1 and 10,9:07,BUF,Defensive 12 On-field,5,REG
+2013,BUF,NE,1,NE,NE 33,Q2,3 and 4,7:15,BUF,Neutral Zone Infraction,5,REG
+2013,BUF,NE,1,BUF,BUF 16,Q2,2 and 5,4:38,NE,Unnecessary Roughness,15,REG
+2013,BUF,NE,1,BUF,BUF 38,Q2,2 and 8,4:10,BUF,Illegal Block Above the Waist,10,REG
+2013,BUF,NE,1,BUF,BUF 42,Q3,3 and 1,2:18,BUF,Illegal Use of Hands,10,REG
+2013,BUF,NE,1,NE,NE 3,Q3,1 and 10,1:15,NE,False Start,1,REG
+2013,BUF,NE,1,BUF,NE 44,Q4,4 and 12,14:28,BUF,Illegal Formation,5,REG
+2013,BUF,NE,1,NE,BUF 10,Q4,2 and 10,11:35,BUF,Defensive 12 On-field,5,REG
+2013,BUF,NE,1,BUF,BUF 12,Q4,1 and 10,10:44,NE,Unnecessary Roughness,15,REG
+2013,BUF,NE,1,NE,BUF 41,Q4,1 and 10,1:58,NE,False Start,5,REG
+2013,NE,NYJ,2,NE,NE 26,Q1,2 and 3,14:25,NYJ,Defensive Pass Interference,16,REG
+2013,NE,NYJ,2,NYJ,NYJ 23,Q1,3 and 7,8:10,NE,Roughing the Passer,15,REG
+2013,NE,NYJ,2,NYJ,NE 9,Q1,4 and 7,4:10,NYJ,Offensive Holding,10,REG
+2013,NE,NYJ,2,NE,NE 39,Q2,2 and 10,14:42,NE,False Start,5,REG
+2013,NE,NYJ,2,NE,NE 34,Q2,3 and 15,14:36,NE,Offensive Holding,10,REG
+2013,NE,NYJ,2,NYJ,NYJ 46,Q2,1 and 10,10:17,NYJ,False Start,6,REG
+2013,NE,NYJ,2,NYJ,NYJ 34,Q2,2 and 10,7:12,NYJ,False Start,5,REG
+2013,NE,NYJ,2,NYJ,NYJ 27,Q4,3 and 5,7:43,NYJ,Delay of Game,5,REG
+2013,NE,NYJ,2,NYJ,NYJ 29,Q4,2 and 10,:48,NYJ,Unsportsmanlike Conduct,9,REG
+2013,NE,TB,3,TB,NE 28,Q1,2 and 10,10:58,TB,False Start,5,REG
+2013,NE,TB,3,TB,NE 41,Q1,1 and 10,3:22,NE,Defensive 12 On-field,5,REG
+2013,NE,TB,3,TB,NE 35,Q1,2 and 4,2:45,NE,Defensive Pass Interference,20,REG
+2013,NE,TB,3,NE,PENALTY ,Q2,,3:16,NE,False Start,5,REG
+2013,NE,TB,3,NE,NE 45,Q2,2 and 15,3:16,TB,Illegal Contact,5,REG
+2013,NE,TB,3,NE,TB 45,Q2,3 and 5,2:00,TB,Defensive Pass Interference,28,REG
+2013,NE,TB,3,NE,TB 21,Q3,3 and 6,11:29,NE,False Start,5,REG
+2013,NE,TB,3,TB,TB 20,Q3,1 and 10,3:38,NE,Neutral Zone Infraction,5,REG
+2013,NE,TB,3,TB,NE 24,Q4,2 and 3,13:44,TB,Offensive Holding,10,REG
+2013,NE,TB,3,TB,TB 21,Q4,4 and 9,7:45,NE,Offensive Holding,10,REG
+2013,ATL,NE,4,NE,NE 40,Q1,1 and 10,8:11,ATL,Neutral Zone Infraction,5,REG
+2013,ATL,NE,4,NE,NE 49,Q1,3 and 1,6:55,NE,Illegal Shift,5,REG
+2013,ATL,NE,4,NE,NE 44,Q1,4 and 6,6:23,NE,Illegal Formation,5,REG
+2013,ATL,NE,4,ATL,ATL 25,Q1,1 and 10,6:15,ATL,Offensive Holding,10,REG
+2013,ATL,NE,4,ATL,ATL 21,Q1,2 and 14,5:06,ATL,Face Mask (15 Yards),10,REG
+2013,ATL,NE,4,ATL,ATL 28,Q2,3 and 8,11:50,NE,Face Mask (15 Yards),15,REG
+2013,ATL,NE,4,NE,NE 20,Q3,1 and 10,15:00,NE,Offensive Holding,10,REG
+2013,ATL,NE,4,NE,NE 19,Q3,1 and 10,10:19,NE,Delay of Game,5,REG
+2013,ATL,NE,4,NE,NE 16,Q3,3 and 5,:35,ATL,Defensive Holding,5,REG
+2013,ATL,NE,4,NE,NE 17,Q4,3 and 14,15:00,NE,False Start,5,REG
+2013,ATL,NE,4,NE,NE 12,Q4,3 and 19,15:00,ATL,Personal Foul,15,REG
+2013,ATL,NE,4,ATL,ATL 39,Q4,1 and 10,13:24,NE,Defensive Pass Interference,38,REG
+2013,ATL,NE,4,NE,ATL 36,Q4,1 and 10,8:12,NE,Illegal Shift,5,REG
+2013,ATL,NE,4,ATL,NE 23,Q4,1 and 10,5:12,ATL,Offensive Pass Interference,10,REG
+2013,ATL,NE,4,ATL,NE 41,Q4,1 and 10,3:51,NE,Defensive Holding,5,REG
+2013,CIN,NE,5,NE,NE 15,Q1,4 and 8,13:21,CIN,Offensive Holding,10,REG
+2013,CIN,NE,5,CIN,CIN 27,Q2,4 and 5,9:13,CIN,Player Out of Bounds on Punt,5,REG
+2013,CIN,NE,5,NE,CIN 49,Q2,2 and 5,8:32,CIN,Horse Collar Tackle,15,REG
+2013,CIN,NE,5,NE,NE 42,Q3,3 and 10,3:34,CIN,Defensive Offside,5,REG
+2013,CIN,NE,5,CIN,NE 1,Q4,3 and 1,10:14,CIN,False Start,4,REG
+2013,CIN,NE,5,NE,NE 41,Q4,4 and 4,:53,CIN,Defensive Offside,5,REG
+2013,CIN,NE,5,NE,CIN 42,Q4,2 and 10,:30,CIN,Roughing the Passer,15,REG
+2013,NE,NO,6,NO,NO 27,Q1,1 and 10,7:09,NO,Offensive Holding,10,REG
+2013,NE,NO,6,NE,NO 7,Q2,3 and 2,13:48,NO,Defensive Pass Interference,6,REG
+2013,NE,NO,6,NE,NO 2,Q2,,,NE,False Start,5,REG
+2013,NE,NO,6,NO,NE 38,Q2,4 and 1,2:03,NO,False Start,5,REG
+2013,NE,NO,6,NE,NE 13,Q2,2 and 10,1:47,NO,Defensive Holding,5,REG
+2013,NE,NO,6,NE,NE 31,Q2,3 and 16,:48,NO,Illegal Substitution,5,REG
+2013,NE,NO,6,NE,NE 20,Q3,1 and 10,11:27,NE,Offensive Pass Interference,10,REG
+2013,NE,NO,6,NO,NO 35,Q3,,,NE,Illegal Block Above the Waist,8,REG
+2013,NE,NO,6,NE,NE 37,Q3,2 and 6,4:48,NO,Unnecessary Roughness,15,REG
+2013,NE,NO,6,NE,NO 32,Q3,2 and 10,2:58,NE,Offensive Holding,10,REG
+2013,NE,NO,6,NO,NE 24,Q4,1 and 10,3:55,NO,Offensive Holding,10,REG
+2013,NYJ,NE,7,NE,NYJ 36,Q1,3 and 5,7:18,NYJ,Defensive Offside,5,REG
+2013,NYJ,NE,7,NE,NYJ 1,Q1,1 and 1,6:37,NYJ,Defensive Offside,0,REG
+2013,NYJ,NE,7,NE,NYJ 28,Q2,1 and 10,7:49,NYJ,Neutral Zone Infraction,5,REG
+2013,NYJ,NE,7,NE,NYJ 12,Q2,2 and 5,5:43,NE,Offensive Holding,10,REG
+2013,NYJ,NE,7,NE,NYJ 22,Q2,2 and 15,5:26,NYJ,Defensive Holding,5,REG
+2013,NYJ,NE,7,NE,PENALTY ,Q2,,4:18,NYJ,Defensive 12 On-field,5,REG
+2013,NYJ,NE,7,NE,NYJ 45,Q2,2 and 5,4:18,NE,Offensive Holding,10,REG
+2013,NYJ,NE,7,NYJ,NYJ 24,Q2,4 and 16,1:08,NE,Illegal Block Above the Waist,10,REG
+2013,NYJ,NE,7,NYJ,NYJ 35,Q3,,,NE,Offensive Holding,10,REG
+2013,NYJ,NE,7,NYJ,NYJ 38,Q3,2 and 13,12:06,NE,Defensive Pass Interference,30,REG
+2013,NYJ,NE,7,NYJ,NE 19,Q3,3 and 9,5:51,NYJ,False Start,5,REG
+2013,NYJ,NE,7,NE,NYJ 47,Q4,2 and 2,15:00,NYJ,Defensive Offside,5,REG
+2013,NYJ,NE,7,NYJ,NYJ 20,Q4,1 and 10,12:58,NE,Personal Foul,15,REG
+2013,NYJ,NE,7,NYJ,NE 38,Q4,1 and 10,10:07,NYJ,Offensive Pass Interference,10,REG
+2013,NYJ,NE,7,NYJ,NE 48,Q4,1 and 20,10:07,NYJ,False Start,5,REG
+2013,NYJ,NE,7,NYJ,NE 38,Q5,4 and 7,7:17,NE,Unsportsmanlike Conduct,15,REG
+2013,NE,MIA,8,MIA,NE 2,Q2,,,MIA,Illegal Use of Hands,10,REG
+2013,NE,MIA,8,MIA,NE 12,Q2,,,NE,Running Into the Kicker,5,REG
+2013,NE,MIA,8,NE,NE 42,Q2,1 and 10,7:41,NE,False Start,5,REG
+2013,NE,MIA,8,NE,NE 39,Q2,2 and 13,6:56,MIA,Encroachment,5,REG
+2013,NE,MIA,8,NE,NE 46,Q2,3 and 6,6:09,MIA,Defensive Pass Interference,21,REG
+2013,NE,MIA,8,NE,NE 35,Q2,,,NE,Illegal Use of Hands,5,REG
+2013,NE,MIA,8,MIA,MIA 20,Q3,4 and 2,2:34,NE,Illegal Block Above the Waist,10,REG
+2013,NE,MIA,8,NE,MIA 35,Q3,3 and 5,:48,MIA,Defensive Holding,5,REG
+2013,NE,MIA,8,NE,MIA 30,Q3,1 and 10,:39,NE,Offensive Holding,10,REG
+2013,NE,MIA,8,NE,NE 33,Q4,1 and 10,12:49,MIA,Illegal Use of Hands,5,REG
+2013,NE,MIA,8,NE,MIA 23,Q4,2 and 7,9:09,MIA,Illegal Bat,10,REG
+2013,NE,MIA,8,MIA,MIA 43,Q4,3 and 18,4:45,MIA,Delay of Game,5,REG
+2013,NE,PIT,9,NE,NE 33,Q1,1 and 10,7:53,NE,Clipping,15,REG
+2013,NE,PIT,9,NE,PIT 1,Q1,4 and 1,4:29,PIT,Defensive Offside,0,REG
+2013,NE,PIT,9,PIT,PIT 1,Q1,1 and 10,4:12,PIT,False Start,0,REG
+2013,NE,PIT,9,PIT,PIT 49,Q1,1 and 10,1:12,PIT,Chop Block,16,REG
+2013,NE,PIT,9,NE,PIT 19,Q2,1 and 10,10:35,PIT,Unnecessary Roughness,15,REG
+2013,NE,PIT,9,NE,NE 33,Q2,1 and 10,1:08,PIT,Defensive Pass Interference,15,REG
+2013,NE,PIT,9,NE,PIT 19,Q2,1 and 10,:24,PIT,Defensive Pass Interference,18,REG
+2013,NE,PIT,9,PIT,PIT 35,Q3,,,NE,Offensive Holding,10,REG
+2013,NE,PIT,9,PIT,NE 46,Q3,1 and 10,9:28,PIT,Illegal Block Above the Waist,10,REG
+2013,NE,PIT,9,NE,NE 42,Q3,1 and 10,6:26,NE,False Start,5,REG
+2013,NE,PIT,9,NE,NE 49,Q4,2 and 11,11:37,PIT,Defensive Pass Interference,22,REG
+2013,CAR,NE,11,NE,NE 33,Q1,2 and 7,12:54,NE,Illegal Block Above the Waist,10,REG
+2013,CAR,NE,11,CAR,NE 39,Q1,3 and 3,5:05,NE,Unnecessary Roughness,15,REG
+2013,CAR,NE,11,CAR,NE 4,Q1,2 and 4,3:22,CAR,Illegal Formation,5,REG
+2013,CAR,NE,11,NE,CAR 35,Q2,4 and 2,13:09,CAR,Illegal Use of Hands,5,REG
+2013,CAR,NE,11,NE,CAR 24,Q2,3 and 4,11:56,CAR,Face Mask (15 Yards),12,REG
+2013,CAR,NE,11,CAR,NE 30,Q2,3 and 10,6:08,NE,Defensive Holding,5,REG
+2013,CAR,NE,11,NE,CAR 26,Q2,1 and 10,2:25,NE,Unnecessary Roughness,15,REG
+2013,CAR,NE,11,NE,CAR 19,Q3,2 and 1,11:11,CAR,Defensive 12 On-field,5,REG
+2013,CAR,NE,11,NE,CAR 14,Q3,1 and 10,10:41,CAR,Defensive Holding,5,REG
+2013,CAR,NE,11,CAR,NE 36,Q4,3 and 7,2:06,NE,Defensive Holding,5,REG
+2013,CAR,NE,11,CAR,NE 20,Q4,1 and 10,1:17,CAR,False Start,5,REG
+2013,CAR,NE,11,NE,CAR 46,Q4,3 and 10,:17,CAR,Defensive Pass Interference,10,REG
+2013,NE,DEN,12,NE,NE 29,Q1,1 and 10,2:52,NE,False Start,5,REG
+2013,NE,DEN,12,NE,NE 28,Q1,2 and 11,2:52,DEN,Face Mask (15 Yards),15,REG
+2013,NE,DEN,12,DEN,DEN 47,Q2,4 and 11,13:07,DEN,Player Out of Bounds on Punt,5,REG
+2013,NE,DEN,12,DEN,DEN 43,Q2,1 and 10,9:03,DEN,Intentional Grounding,10,REG
+2013,NE,DEN,12,NE,NE 21,Q2,2 and 9,5:35,DEN,Unnecessary Roughness,15,REG
+2013,NE,DEN,12,NE,NE 21,Q2,2 and 9,:36,NE,Offensive Pass Interference,10,REG
+2013,NE,DEN,12,NE,NE 35,Q3,,,DEN,Offensive Holding,10,REG
+2013,NE,DEN,12,NE,DEN 23,Q4,1 and 10,10:12,NE,Offensive Holding,10,REG
+2013,NE,DEN,12,NE,DEN 32,Q4,1 and 19,9:45,DEN,Illegal Use of Hands,5,REG
+2013,NE,DEN,12,DEN,DEN 20,Q4,1 and 10,7:37,NE,Defensive Holding,5,REG
+2013,NE,DEN,12,DEN,NE 36,Q4,2 and 10,4:48,DEN,Offensive Holding,10,REG
+2013,NE,DEN,12,DEN,NE 17,Q4,3 and 7,3:15,NE,Defensive Pass Interference,6,REG
+2013,NE,DEN,12,DEN,NE 48,Q5,3 and 4,13:04,DEN,Offensive Pass Interference,10,REG
+2013,NE,DEN,12,DEN,NE 37,Q5,4 and 8,5:01,DEN,Delay of Game,5,REG
+2013,HOU,NE,13,HOU,NE 31,Q1,1 and 10,5:42,HOU,Offensive Pass Interference,10,REG
+2013,HOU,NE,13,NE,NE 49,Q2,3 and 8,6:56,HOU,Roughing the Passer,15,REG
+2013,NE,CLE,14,CLE,CLE 48,Q1,2 and 4,5:52,CLE,False Start,5,REG
+2013,NE,CLE,14,CLE,NE 21,Q1,1 and 10,1:00,NE,Defensive 12 On-field,5,REG
+2013,NE,CLE,14,CLE,NE 14,Q2,3 and 3,14:54,CLE,False Start,5,REG
+2013,NE,CLE,14,CLE,CLE 36,Q2,2 and 6,:40,NE,Defensive Holding,5,REG
+2013,NE,CLE,14,NE,NE 31,Q3,1 and 10,14:24,NE,Offensive Holding,10,REG
+2013,NE,CLE,14,NE,NE 35,Q3,2 and 8,8:40,CLE,Defensive Pass Interference,10,REG
+2013,NE,CLE,14,NE,CLE 2,Q3,,,CLE,Defensive Holding,1,REG
+2013,NE,CLE,14,CLE,CLE 36,Q4,1 and 10,13:39,NE,Defensive Holding,5,REG
+2013,NE,CLE,14,NE,CLE 31,Q4,1 and 10,7:15,NE,Intentional Grounding,11,REG
+2013,NE,CLE,14,CLE,NE 30,Q4,2 and 7,4:12,CLE,Intentional Grounding,10,REG
+2013,NE,CLE,14,CLE,NE 2,Q4,,,NE,Defensive Offside,5,REG
+2013,NE,CLE,14,NE,CLE 2,Q4,3 and 2,1:04,CLE,Unnecessary Roughness,15,REG
+2013,NE,CLE,14,NE,CLE 30,Q4,1 and 10,:40,CLE,Defensive Pass Interference,29,REG
+2013,MIA,NE,15,NE,NE 35,Q1,,,MIA,Illegal Block Above the Waist,6,REG
+2013,MIA,NE,15,NE,NE 35,Q1,1 and 10,2:25,MIA,Defensive Pass Interference,5,REG
+2013,MIA,NE,15,MIA,NE 7,Q3,3 and 4,:35,NE,Defensive Pass Interference,2,REG
+2013,MIA,NE,15,NE,MIA 27,Q4,1 and 10,9:43,MIA,Defensive 12 On-field,5,REG
+2013,MIA,NE,15,NE,MIA 19,Q4,2 and 10,:21,MIA,Defensive Offside,5,REG
+2013,BAL,NE,16,NE,NE 27,Q1,4 and 5,13:32,BAL,Personal Foul,6,REG
+2013,BAL,NE,16,NE,BAL 35,Q1,1 and 10,9:52,BAL,Defensive Pass Interference,34,REG
+2013,BAL,NE,16,NE,NE 50,Q1,2 and 7,7:41,BAL,Illegal Contact,5,REG
+2013,BAL,NE,16,BAL,BAL 30,Q1,4 and 11,2:39,BAL,False Start,5,REG
+2013,BAL,NE,16,NE,NE 35,Q2,2 and 8,10:14,BAL,Illegal Use of Hands,5,REG
+2013,BAL,NE,16,NE,NE 46,Q2,3 and 4,9:02,NE,False Start,5,REG
+2013,BAL,NE,16,BAL,BAL 41,Q2,4 and 11,4:46,BAL,Illegal Formation,5,REG
+2013,BAL,NE,16,NE,BAL 45,Q2,1 and 10,2:29,NE,Offensive Holding,10,REG
+2013,BAL,NE,16,NE,NE 45,Q2,1 and 20,2:00,NE,Offensive Holding,10,REG
+2013,BAL,NE,16,NE,BAL 42,Q2,4 and 7,:31,BAL,Running Into the Kicker,5,REG
+2013,BAL,NE,16,NE,BAL 37,Q2,4 and 2,:25,NE,False Start,5,REG
+2013,BAL,NE,16,NE,BAL 42,Q2,4 and 7,:25,NE,Illegal Touch Kick,0,REG
+2013,BAL,NE,16,BAL,BAL 29,Q3,2 and 9,6:43,BAL,Illegal Use of Hands,10,REG
+2013,BAL,NE,16,BAL,BAL 3,Q4,3 and 17,11:41,NE,Neutral Zone Infraction,5,REG
+2013,BAL,NE,16,BAL,NE 25,Q4,1 and 10,10:05,NE,Defensive Pass Interference,23,REG
+2013,BAL,NE,16,NE,BAL 16,Q4,1 and 10,2:18,BAL,Personal Foul,8,REG
+2013,NE,BUF,17,NE,BUF 43,Q1,3 and 3,11:46,BUF,Defensive Holding,5,REG
+2013,NE,BUF,17,NE,NE 24,Q1,1 and 10,6:09,BUF,Defensive Pass Interference,9,REG
+2013,NE,BUF,17,NE,NE 35,Q3,1 and 10,9:57,BUF,Unsportsmanlike Conduct,15,REG
+2013,NE,BUF,17,NE,BUF 32,Q3,1 and 10,9:25,NE,Offensive Holding,10,REG
+2013,NE,BUF,17,NE,BUF 42,Q3,1 and 20,8:54,NE,Offensive Holding,10,REG
+2013,NE,BUF,17,BUF,NE 21,Q3,3 and 4,2:30,NE,Illegal Use of Hands,6,REG
+2013,NE,BUF,17,NE,BUF 11,Q4,4 and 1,15:00,BUF,Encroachment,6,REG
+2013,NE,BUF,17,BUF,NE 1,Q4,1 and 1,10:31,BUF,False Start,4,REG
+2013,NE,BUF,17,NE,BUF 41,Q4,3 and 1,5:22,NE,Illegal Formation,5,REG
+2014,MIA,NE,1,NE,MIA 31,Q1,2 and 7,8:35,MIA,Defensive Holding,6,REG
+2014,MIA,NE,1,NE,MIA 20,Q1,3 and 6,1:40,NE,Face Mask (15 Yards),15,REG
+2014,MIA,NE,1,MIA,MIA 28,Q2,2 and 7,5:53,NE,Roughing the Passer,15,REG
+2014,MIA,NE,1,MIA,NE 26,Q2,3 and 3,3:15,NE,Neutral Zone Infraction,5,REG
+2014,MIA,NE,1,NE,NE 28,Q2,2 and 8,1:29,MIA,Defensive 12 On-field,5,REG
+2014,MIA,NE,1,NE,MIA 35,Q2,1 and 10,:42,NE,Offensive Holding,10,REG
+2014,MIA,NE,1,NE,NE 35,Q3,,,NE,Offside on Free Kick,5,REG
+2014,MIA,NE,1,MIA,NE 45,Q3,2 and 7,13:40,NE,Roughing the Passer,15,REG
+2014,MIA,NE,1,MIA,NE 21,Q3,2 and 1,12:58,MIA,False Start,5,REG
+2014,MIA,NE,1,MIA,NE 5,Q3,1 and 5,4:21,MIA,Offensive Holding,10,REG
+2014,MIA,NE,1,NE,NE 32,Q3,1 and 10,1:39,NE,Offensive Holding,10,REG
+2014,MIA,NE,1,NE,MIA 41,Q4,2 and 6,10:30,NE,Offensive Pass Interference,10,REG
+2014,MIA,NE,1,MIA,MIA 15,Q4,1 and 10,9:30,NE,Roughing the Passer,15,REG
+2014,MIN,NE,2,MIN,MIN 46,Q1,3 and 1,12:10,NE,Defensive Offside,5,REG
+2014,MIN,NE,2,MIN,MIN 17,Q1,2 and 5,9:25,MIN,False Start,5,REG
+2014,MIN,NE,2,MIN,MIN 12,Q1,2 and 10,8:41,NE,Illegal Use of Hands,5,REG
+2014,MIN,NE,2,MIN,MIN 20,Q1,2 and 11,7:37,MIN,False Start,5,REG
+2014,MIN,NE,2,MIN,MIN 21,Q1,4 and 9,4:54,NE,Offensive Holding,10,REG
+2014,MIN,NE,2,NE,MIN 27,Q1,2 and 10,1:42,NE,Offensive Holding,10,REG
+2014,MIN,NE,2,MIN,MIN 20,Q2,3 and 10,14:18,NE,Defensive Holding,5,REG
+2014,MIN,NE,2,NE,NE 45,Q2,3 and 4,12:04,NE,Offensive Pass Interference,10,REG
+2014,MIN,NE,2,MIN,NE 20,Q2,3 and 6,:33,MIN,Offensive Pass Interference,10,REG
+2014,MIN,NE,2,NE,NE 37,Q3,2 and 5,13:39,MIN,Defensive Pass Interference,12,REG
+2014,MIN,NE,2,NE,NE 35,Q3,,,NE,Offside on Free Kick,5,REG
+2014,MIN,NE,2,NE,NE 45,Q3,1 and 10,6:46,NE,Illegal Block Above the Waist,10,REG
+2014,MIN,NE,2,NE,NE 35,Q3,1 and 20,6:20,NE,False Start,5,REG
+2014,MIN,NE,2,NE,NE 39,Q3,2 and 16,5:21,MIN,Defensive Offside,5,REG
+2014,MIN,NE,2,NE,MIN 28,Q3,2 and 8,2:22,MIN,Defensive Pass Interference,16,REG
+2014,MIN,NE,2,NE,MIN 9,Q3,2 and 7,1:43,NE,Offensive Holding,10,REG
+2014,MIN,NE,2,MIN,MIN 26,Q4,2 and 6,10:29,MIN,False Start,5,REG
+2014,MIN,NE,2,MIN,MIN 29,Q4,4 and 3,9:37,NE,Illegal Block Above the Waist,10,REG
+2014,MIN,NE,2,MIN,MIN 34,Q4,2 and 9,6:37,NE,Unnecessary Roughness,15,REG
+2014,MIN,NE,2,NE,MIN 25,Q4,2 and 1,5:56,NE,False Start,5,REG
+2014,MIN,NE,2,MIN,MIN 36,Q4,1 and 10,1:28,NE,Defensive Pass Interference,24,REG
+2014,MIN,NE,2,MIN,PENALTY ,Q4,,:53,NE,Defensive Pass Interference,34,REG
+2014,NE,OAK,3,NE,NE 22,Q1,4 and 6,10:59,OAK,Illegal Block Above the Waist,10,REG
+2014,NE,OAK,3,NE,NE 41,Q1,1 and 10,2:45,NE,Offensive Holding,10,REG
+2014,NE,OAK,3,OAK,OAK 48,Q2,4 and 7,11:29,OAK,False Start,5,REG
+2014,NE,OAK,3,NE,OAK 28,Q2,3 and 2,5:44,OAK,Defensive Pass Interference,14,REG
+2014,NE,OAK,3,NE,NE 20,Q3,3 and 10,14:06,NE,False Start,5,REG
+2014,NE,OAK,3,OAK,NE 29,Q3,1 and 10,11:11,NE,Defensive Holding,5,REG
+2014,NE,OAK,3,NE,NE 20,Q3,1 and 10,9:39,NE,False Start,5,REG
+2014,NE,OAK,3,OAK,NE 37,Q3,2 and 10,3:11,OAK,False Start,5,REG
+2014,NE,OAK,3,NE,OAK 24,Q3,1 and 10,:55,OAK,Defensive 12 On-field,5,REG
+2014,NE,OAK,3,NE,NE 39,Q4,3 and 5,10:11,NE,Offensive Pass Interference,10,REG
+2014,NE,OAK,3,OAK,NE 30,Q4,3 and 7,1:08,NE,Defensive Pass Interference,24,REG
+2014,NE,OAK,3,OAK,NE 6,Q4,1 and 6,1:02,OAK,Offensive Holding,10,REG
+2014,KC,NE,4,KC,NE 2,Q1,,,KC,False Start,5,REG
+2014,KC,NE,4,NE,NE 41,Q2,3 and 3,9:04,KC,Illegal Use of Hands,5,REG
+2014,KC,NE,4,KC,KC 31,Q2,1 and 10,5:56,KC,Illegal Block Above the Waist,10,REG
+2014,KC,NE,4,KC,NE 9,Q2,3 and 5,:08,NE,Illegal Use of Hands,5,REG
+2014,KC,NE,4,NE,NE 26,Q4,3 and 4,10:44,KC,Unnecessary Roughness,15,REG
+2014,KC,NE,4,KC,KC 20,Q4,,,NE,Offensive Holding,10,REG
+2014,KC,NE,4,NE,NE 32,Q4,2 and 7,3:18,NE,Face Mask (15 Yards),15,REG
+2014,NE,CIN,5,CIN,CIN 34,Q1,3 and 1,9:43,NE,Illegal Substitution,5,REG
+2014,NE,CIN,5,CIN,NE 29,Q1,3 and 5,6:35,CIN,False Start,5,REG
+2014,NE,CIN,5,NE,NE 34,Q1,3 and 3,1:07,NE,Unsportsmanlike Conduct,15,REG
+2014,NE,CIN,5,NE,NE 26,Q2,2 and 17,15:00,CIN,Defensive Pass Interference,22,REG
+2014,NE,CIN,5,NE,PENALTY ,Q2,,14:07,NE,Intentional Grounding,10,REG
+2014,NE,CIN,5,CIN,CIN 22,Q2,3 and 14,12:51,CIN,False Start,5,REG
+2014,NE,CIN,5,NE,NE 38,Q2,1 and 10,10:57,NE,Chop Block,14,REG
+2014,NE,CIN,5,NE,NE 42,Q2,4 and 6,9:14,NE,Unnecessary Roughness,15,REG
+2014,NE,CIN,5,CIN,CIN 42,Q2,2 and 6,8:33,NE,Defensive Holding,5,REG
+2014,NE,CIN,5,CIN,CIN 47,Q2,1 and 10,8:29,NE,Unnecessary Roughness,15,REG
+2014,NE,CIN,5,CIN,NE 18,Q2,3 and 7,6:46,NE,Defensive Holding,5,REG
+2014,NE,CIN,5,CIN,CIN 24,Q3,4 and 5,14:02,NE,Offensive Holding,10,REG
+2014,NE,CIN,5,NE,NE 39,Q3,2 and 13,12:48,NE,False Start,5,REG
+2014,NE,CIN,5,NE,CIN 25,Q3,2 and 6,7:54,NE,Offensive Holding,10,REG
+2014,NE,CIN,5,CIN,CIN 25,Q3,3 and 3,5:27,NE,Defensive Holding,5,REG
+2014,NE,CIN,5,NE,CIN 40,Q4,2 and 8,9:26,CIN,Illegal Contact,5,REG
+2014,BUF,NE,6,NE,BUF 48,Q1,3 and 10,11:20,NE,False Start,5,REG
+2014,BUF,NE,6,NE,BUF 38,Q1,3 and 1,3:22,BUF,Unsportsmanlike Conduct,15,REG
+2014,BUF,NE,6,NE,BUF 14,Q1,4 and 1,1:06,NE,False Start,4,REG
+2014,BUF,NE,6,NE,BUF 30,Q2,1 and 10,13:16,BUF,Defensive Pass Interference,29,REG
+2014,BUF,NE,6,NE,NE 35,Q2,,,BUF,Offensive Holding,6,REG
+2014,BUF,NE,6,NE,NE 45,Q3,3 and 4,14:03,NE,False Start,5,REG
+2014,BUF,NE,6,NE,BUF 2,Q3,,,NE,False Start,5,REG
+2014,BUF,NE,6,NE,BUF 44,Q3,2 and 9,4:10,BUF,Defensive Pass Interference,17,REG
+2014,BUF,NE,6,BUF,BUF 41,Q3,3 and 2,1:38,BUF,Offensive Pass Interference,10,REG
+2014,BUF,NE,6,BUF,BUF 31,Q3,3 and 12,1:11,NE,Face Mask (15 Yards),15,REG
+2014,BUF,NE,6,BUF,NE 30,Q3,2 and 10,:48,BUF,Offensive Pass Interference,10,REG
+2014,BUF,NE,6,NE,NE 38,Q4,2 and 9,13:23,BUF,Roughing the Passer,15,REG
+2014,BUF,NE,6,NE,BUF 18,Q4,2 and 12,9:34,NE,Offensive Holding,10,REG
+2014,BUF,NE,6,BUF,BUF 35,Q4,,,NE,Illegal Block Above the Waist,6,REG
+2014,BUF,NE,6,NE,NE 15,Q4,2 and 2,5:19,BUF,Defensive Offside,5,REG
+2014,BUF,NE,6,NE,NE 20,Q4,1 and 10,5:13,NE,False Start,5,REG
+2014,BUF,NE,6,NE,NE 35,Q4,1 and 10,4:31,NE,False Start,5,REG
+2014,NE,NYJ,7,NYJ,NE 9,Q1,1 and 9,8:47,NYJ,Offensive Holding,10,REG
+2014,NE,NYJ,7,NYJ,NE 37,Q1,1 and 10,3:23,NE,Defensive Holding,5,REG
+2014,NE,NYJ,7,NYJ,NE 20,Q1,1 and 10,1:40,NYJ,Offensive Holding,10,REG
+2014,NE,NYJ,7,NYJ,NYJ 35,Q1,,,NE,Offensive Holding,9,REG
+2014,NE,NYJ,7,NYJ,NE 49,Q2,3 and 11,11:30,NE,Defensive Holding,5,REG
+2014,NE,NYJ,7,NE,NE 20,Q2,1 and 10,7:52,NE,False Start,5,REG
+2014,NE,NYJ,7,NE,NE 26,Q2,1 and 10,:55,NYJ,Neutral Zone Infraction,5,REG
+2014,NE,NYJ,7,NE,NYJ 44,Q2,3 and 10,:29,NYJ,Defensive Pass Interference,32,REG
+2014,NE,NYJ,7,NE,NYJ 12,Q2,2 and 10,:17,NE,Unnecessary Roughness,15,REG
+2014,NE,NYJ,7,NE,NE 46,Q3,1 and 10,7:33,NYJ,Defensive Offside,5,REG
+2014,NE,NYJ,7,NE,NYJ 49,Q3,1 and 5,7:04,NYJ,Illegal Contact,5,REG
+2014,NE,NYJ,7,NE,NE 38,Q4,4 and 6,12:43,NYJ,Offensive Holding,3,REG
+2014,NE,NYJ,7,NYJ,NYJ 5,Q4,2 and 9,11:53,NE,Defensive Holding,5,REG
+2014,NE,NYJ,7,NE,NYJ 4,Q4,2 and 4,8:42,NE,False Start,5,REG
+2014,NE,NYJ,7,NE,NYJ 9,Q4,2 and 9,8:22,NE,Offensive Pass Interference,10,REG
+2014,NE,NYJ,7,NYJ,NYJ 14,Q4,1 and 10,7:43,NE,Defensive Holding,5,REG
+2014,NE,CHI,8,CHI,CHI 32,Q1,2 and 9,12:42,CHI,Offensive Holding,10,REG
+2014,NE,CHI,8,CHI,CHI 20,Q1,1 and 10,9:41,CHI,False Start,5,REG
+2014,NE,CHI,8,NE,CHI 1,Q2,4 and 1,15:00,NE,False Start,4,REG
+2014,NE,CHI,8,NE,CHI 43,Q2,2 and 7,11:33,CHI,Defensive Pass Interference,13,REG
+2014,NE,CHI,8,NE,CHI 17,Q2,3 and 13,9:27,NE,False Start,5,REG
+2014,NE,CHI,8,NE,CHI 2,Q2,,,NE,False Start,5,REG
+2014,NE,CHI,8,CHI,CHI 41,Q2,1 and 10,7:43,NE,Illegal Contact,5,REG
+2014,NE,CHI,8,NE,NE 26,Q2,2 and 4,5:02,NE,Offensive Holding,10,REG
+2014,NE,CHI,8,CHI,CHI 15,Q2,2 and 6,1:42,CHI,Unnecessary Roughness,3,REG
+2014,NE,CHI,8,CHI,CHI 8,Q2,4 and 13,1:26,CHI,Offensive Holding,10,REG
+2014,NE,CHI,8,CHI,CHI 33,Q2,2 and 4,:17,NE,Illegal Use of Hands,5,REG
+2014,NE,CHI,8,CHI,CHI 20,Q4,1 and 10,9:59,NE,Defensive Pass Interference,4,REG
+2014,NE,DEN,9,DEN,DEN 23,Q1,3 and 7,13:24,DEN,Delay of Game,5,REG
+2014,NE,DEN,9,DEN,DEN 19,Q1,4 and 11,9:07,DEN,Interference with Opportunity to Catch,15,REG
+2014,NE,DEN,9,DEN,NE 13,Q1,3 and 10,4:03,NE,Defensive Pass Interference,12,REG
+2014,NE,DEN,9,NE,DEN 10,Q2,1 and 10,11:50,DEN,Defensive Holding,5,REG
+2014,NE,DEN,9,DEN,DEN 20,Q2,1 and 10,11:37,DEN,Illegal Formation,5,REG
+2014,NE,DEN,9,DEN,DEN 41,Q2,2 and 10,9:12,DEN,Offensive Holding,10,REG
+2014,NE,DEN,9,NE,NE 44,Q2,2 and 9,1:58,DEN,Defensive Holding,5,REG
+2014,NE,DEN,9,NE,DEN 38,Q2,1 and 10,1:14,NE,Intentional Grounding,11,REG
+2014,NE,DEN,9,NE,NE 38,Q3,2 and 10,13:51,DEN,Defensive Pass Interference,8,REG
+2014,NE,DEN,9,NE,NE 35,Q3,,,NE,Offside on Free Kick,5,REG
+2014,NE,DEN,9,DEN,NE 34,Q3,1 and 10,6:10,NE,Defensive Pass Interference,9,REG
+2014,NE,DEN,9,DEN,NE 25,Q3,1 and 10,6:05,NE,Encroachment,5,REG
+2014,NE,DEN,9,DEN,NE 20,Q3,1 and 5,6:05,NE,Defensive Holding,5,REG
+2014,NE,DEN,9,NE,NE 26,Q3,3 and 4,5:15,DEN,Defensive Offside,4,REG
+2014,NE,DEN,9,NE,NE 47,Q3,2 and 4,3:09,NE,Illegal Shift,5,REG
+2014,NE,DEN,9,NE,NE 13,Q4,4 and 6,10:34,DEN,Illegal Block Above the Waist,10,REG
+2014,NE,DEN,9,NE,DEN 43,Q4,4 and 1,6:32,NE,False Start,4,REG
+2014,NE,DEN,9,DEN,DEN 15,Q4,1 and 10,6:13,NE,Face Mask (15 Yards),15,REG
+2014,NE,DEN,9,DEN,NE 35,Q4,2 and 10,4:33,DEN,False Start,5,REG
+2014,IND,NE,11,IND,IND 27,Q1,4 and 3,13:03,NE,Illegal Block Above the Waist,10,REG
+2014,IND,NE,11,IND,IND 20,Q1,2 and 10,7:55,IND,False Start,5,REG
+2014,IND,NE,11,IND,IND 20,Q2,1 and 10,11:49,NE,Illegal Use of Hands,5,REG
+2014,IND,NE,11,NE,IND 13,Q2,2 and 7,4:29,IND,Illegal Contact,5,REG
+2014,IND,NE,11,IND,IND 28,Q2,4 and 2,2:25,NE,Offensive Holding,8,REG
+2014,IND,NE,11,IND,IND 25,Q3,1 and 10,11:04,NE,Face Mask (15 Yards),15,REG
+2014,IND,NE,11,NE,IND 29,Q4,3 and 2,10:31,IND,Face Mask (15 Yards),17,REG
+2014,IND,NE,11,NE,IND 3,Q4,1 and 3,8:50,IND,Defensive Pass Interference,2,REG
+2014,IND,NE,11,NE,IND 1,Q4,1 and 1,8:46,NE,Unnecessary Roughness,15,REG
+2014,NE,DET,12,NE,NE 27,Q1,3 and 3,10:50,NE,Illegal Use of Hands,10,REG
+2014,NE,DET,12,DET,NE 7,Q2,1 and 7,14:31,NE,Defensive Holding,4,REG
+2014,NE,DET,12,NE,DET 6,Q2,1 and 6,13:07,DET,Encroachment,3,REG
+2014,NE,DET,12,DET,DET 36,Q2,3 and 11,9:56,NE,Defensive Holding,5,REG
+2014,NE,DET,12,DET,NE 46,Q2,1 and 10,8:48,NE,Defensive Offside,5,REG
+2014,NE,DET,12,DET,DET 47,Q2,1 and 10,1:31,NE,Illegal Contact,5,REG
+2014,NE,DET,12,NE,NE 43,Q2,1 and 10,:35,NE,Offensive Holding,10,REG
+2014,NE,DET,12,NE,NE 41,Q2,2 and 12,:22,NE,False Start,5,REG
+2014,NE,DET,12,NE,NE 20,Q3,1 and 10,15:00,DET,Neutral Zone Infraction,5,REG
+2014,NE,DET,12,NE,DET 38,Q3,2 and 1,13:19,DET,Defensive Offside,5,REG
+2014,NE,DET,12,DET,DET 27,Q3,4 and 1,8:43,NE,Offensive Holding,10,REG
+2014,NE,DET,12,NE,NE 28,Q3,3 and 7,7:51,DET,Defensive Holding,5,REG
+2014,NE,DET,12,DET,DET 21,Q3,4 and 10,4:47,NE,Illegal Block Above the Waist,10,REG
+2014,NE,DET,12,DET,NE 26,Q4,2 and 9,15:00,DET,False Start,5,REG
+2014,NE,DET,12,DET,DET 31,Q4,2 and 10,13:53,NE,Defensive Pass Interference,10,REG
+2014,NE,DET,12,DET,DET 41,Q4,1 and 10,13:48,DET,Illegal Use of Hands,10,REG
+2014,NE,DET,12,DET,DET 28,Q4,1 and 10,6:39,NE,Illegal Block Above the Waist,10,REG
+2014,NE,DET,12,NE,DET 2,Q4,4 and 2,2:00,DET,Personal Foul,1,REG
+2014,NE,DET,12,DET,DET 40,Q4,2 and 4,1:02,DET,False Start,5,REG
+2014,NE,DET,12,DET,DET 46,Q4,1 and 10,:24,DET,Personal Foul,15,REG
+2014,GB,NE,13,GB,NE 21,Q1,3 and 8,12:51,NE,Defensive Holding,5,REG
+2014,GB,NE,13,GB,GB 17,Q1,2 and 10,9:09,NE,Illegal Use of Hands,5,REG
+2014,GB,NE,13,GB,NE 29,Q1,2 and 8,6:37,GB,Offensive Holding,10,REG
+2014,GB,NE,13,NE,GB 2,Q2,1 and 2,1:56,NE,False Start,5,REG
+2014,GB,NE,13,NE,GB 4,Q2,3 and 4,1:15,GB,Neutral Zone Infraction,2,REG
+2014,GB,NE,13,NE,NE 20,Q3,1 and 10,15:00,NE,Offensive Holding,10,REG
+2014,GB,NE,13,GB,NE 48,Q3,1 and 10,4:23,GB,Delay of Game,5,REG
+2014,GB,NE,13,NE,NE 26,Q3,3 and 6,1:34,GB,Illegal Contact,5,REG
+2014,SD,NE,14,NE,NE 49,Q1,1 and 10,8:14,SD,Illegal Use of Hands,5,REG
+2014,SD,NE,14,NE,SD 8,Q1,4 and 8,3:29,SD,Defensive Offside,4,REG
+2014,SD,NE,14,SD,SD 20,Q1,1 and 10,3:15,NE,Face Mask (15 Yards),15,REG
+2014,SD,NE,14,NE,SD 31,Q2,2 and 10,9:55,SD,Defensive Holding,5,REG
+2014,SD,NE,14,SD,SD 28,Q2,1 and 10,2:56,SD,Offensive Holding,10,REG
+2014,SD,NE,14,SD,SD 9,Q2,2 and 29,2:23,NE,Tripping,10,REG
+2014,SD,NE,14,NE,SD 49,Q2,1 and 10,:50,SD,Defensive Pass Interference,17,REG
+2014,SD,NE,14,NE,NE 44,Q3,1 and 10,8:21,NE,False Start,5,REG
+2014,SD,NE,14,NE,NE 40,Q3,4 and 14,6:55,NE,Unsportsmanlike Conduct,15,REG
+2014,SD,NE,14,SD,SD 33,Q3,1 and 10,6:44,NE,Unnecessary Roughness,15,REG
+2014,SD,NE,14,SD,NE 32,Q3,1 and 10,4:55,SD,Offensive Pass Interference,10,REG
+2014,SD,NE,14,NE,SD 44,Q4,1 and 10,13:34,SD,Defensive Holding,5,REG
+2014,SD,NE,14,SD,SD 17,Q4,4 and 6,9:05,NE,Offensive Holding,10,REG
+2014,SD,NE,14,NE,NE 23,Q4,2 and 12,4:02,SD,Illegal Contact,5,REG
+2014,NE,MIA,15,MIA,MIA 43,Q1,1 and 10,10:14,MIA,Face Mask (15 Yards),15,REG
+2014,NE,MIA,15,MIA,MIA 34,Q1,1 and 10,5:46,MIA,False Start,5,REG
+2014,NE,MIA,15,MIA,NE 37,Q1,1 and 10,3:52,NE,Defensive Holding,5,REG
+2014,NE,MIA,15,NE,NE 45,Q2,1 and 10,13:46,NE,False Start,5,REG
+2014,NE,MIA,15,MIA,MIA 10,Q2,1 and 10,12:09,NE,Defensive Pass Interference,6,REG
+2014,NE,MIA,15,MIA,PENALTY ,Q2,,9:48,MIA,False Start,5,REG
+2014,NE,MIA,15,MIA,MIA 39,Q2,1 and 10,6:03,NE,Defensive Pass Interference,25,REG
+2014,NE,MIA,15,NE,NE 36,Q3,2 and 10,8:38,MIA,Illegal Contact,5,REG
+2014,NE,MIA,15,MIA,NE 18,Q4,4 and 18,2:36,MIA,False Start,5,REG
+2014,NE,MIA,15,NE,NE 47,Q4,1 and 10,1:22,NE,Offensive Holding,10,REG
+2014,NYJ,NE,16,NE,NYJ 10,Q2,1 and 10,12:42,NYJ,Illegal Use of Hands,4,REG
+2014,NYJ,NE,16,NYJ,NYJ 35,Q2,,,NE,Offensive Holding,8,REG
+2014,NYJ,NE,16,NYJ,NE 47,Q2,3 and 7,2:17,NE,Illegal Contact,5,REG
+2014,NYJ,NE,16,NE,NE 30,Q3,4 and 11,13:00,NE,Personal Foul,15,REG
+2014,NYJ,NE,16,NYJ,NE 46,Q3,1 and 10,11:49,NYJ,Offensive Holding,10,REG
+2014,NYJ,NE,16,NE,NE 24,Q4,1 and 10,7:48,NE,Illegal Formation,5,REG
+2014,NYJ,NE,16,NE,NYJ 48,Q4,1 and 10,4:03,NE,False Start,5,REG
+2014,NE,BUF,17,NE,NE 29,Q1,4 and 1,10:57,BUF,Illegal Block Above the Waist,10,REG
+2014,NE,BUF,17,NE,BUF 22,Q1,2 and 8,4:49,BUF,Unnecessary Roughness,9,REG
+2014,NE,BUF,17,NE,NE 26,Q2,2 and 4,10:02,NE,Offensive Holding,10,REG
+2014,NE,BUF,17,NE,NE 31,Q2,1 and 10,1:05,NE,Offensive Holding,10,REG
+2014,NE,BUF,17,BUF,BUF 28,Q3,4 and 13,12:14,NE,Illegal Block Above the Waist,10,REG
+2014,NE,BUF,17,NE,BUF 40,Q3,3 and 6,9:35,BUF,Defensive Holding,5,REG
+2014,NE,BUF,17,NE,BUF 45,Q4,3 and 11,7:34,BUF,Unnecessary Roughness,15,REG
+2014,NE,BUF,17,NE,BUF 46,Q4,3 and 26,6:02,NE,Offensive Holding,10,REG
+2014,NE,BUF,17,BUF,BUF 13,Q4,2 and 8,4:08,BUF,False Start,5,REG
+2014,NE,BUF,17,BUF,BUF 27,Q4,3 and 6,2:28,NE,Roughing the Passer,15,REG
+2015,NE,PIT,1,PIT,NE 32,Q1,2 and 18,11:20,PIT,Offensive Holding,10,REG
+2015,NE,PIT,1,NE,NE 34,Q1,1 and 10,9:40,NE,Unnecessary Roughness,15,REG
+2015,NE,PIT,1,PIT,PIT 22,Q1,1 and 10,5:54,PIT,Illegal Formation,5,REG
+2015,NE,PIT,1,PIT,PIT 31,Q1,4 and 1,3:25,NE,Illegal Block Above the Waist,10,REG
+2015,NE,PIT,1,NE,NE 20,Q1,1 and 10,1:14,NE,Offensive Holding,10,REG
+2015,NE,PIT,1,PIT,PIT 22,Q2,2 and 5,3:20,PIT,Offensive Holding,10,REG
+2015,NE,PIT,1,NE,PIT 29,Q3,1 and 10,11:22,PIT,Defensive Pass Interference,28,REG
+2015,NE,PIT,1,PIT,NE 5,Q4,3 and 5,13:36,NE,Defensive Pass Interference,4,REG
+2015,NE,PIT,1,PIT,NE 1,Q4,3 and 1,12:49,PIT,False Start,4,REG
+2015,NE,PIT,1,NE,PIT 15,Q4,,,PIT,Defensive Holding,5,REG
+2015,NE,PIT,1,PIT,PIT 27,Q4,4 and 3,8:36,NE,Offensive Holding,10,REG
+2015,NE,PIT,1,NE,NE 24,Q4,4 and 12,7:45,NE,Illegal Formation,5,REG
+2015,NE,PIT,1,NE,NE 11,Q4,2 and 6,6:29,PIT,Defensive Holding,5,REG
+2015,NE,PIT,1,NE,NE 33,Q4,4 and 4,3:09,NE,Defensive Holding,10,REG
+2015,NE,PIT,1,PIT,NE 39,Q4,1 and 10,1:17,PIT,Illegal Use of Hands,10,REG
+2015,BUF,NE,2,NE,NE 22,Q1,4 and 8,8:39,BUF,Illegal Block Above the Waist,10,REG
+2015,BUF,NE,2,NE,BUF 10,Q1,1 and 10,5:52,NE,False Start,5,REG
+2015,BUF,NE,2,NE,NE 35,Q1,,,BUF,Offensive Holding,10,REG
+2015,BUF,NE,2,BUF,BUF 1,Q1,4 and 19,1:46,BUF,Delay of Game,0,REG
+2015,BUF,NE,2,BUF,BUF 1,Q1,4 and 19,1:41,BUF,Personal Foul,14,REG
+2015,BUF,NE,2,NE,BUF 15,Q1,,,BUF,Taunting,15,REG
+2015,BUF,NE,2,BUF,BUF 20,Q2,4 and 10,11:15,NE,Running Into the Kicker,5,REG
+2015,BUF,NE,2,NE,BUF 48,Q2,1 and 10,10:37,BUF,Unnecessary Roughness,15,REG
+2015,BUF,NE,2,BUF,NE 48,Q2,1 and 10,6:38,BUF,Illegal Formation,5,REG
+2015,BUF,NE,2,BUF,NE 48,Q2,2 and 10,5:22,NE,Defensive Pass Interference,39,REG
+2015,BUF,NE,2,BUF,NE 15,Q2,,,NE,Taunting,15,REG
+2015,BUF,NE,2,NE,NE 22,Q2,3 and 8,4:50,BUF,Defensive Holding,5,REG
+2015,BUF,NE,2,NE,NE 27,Q2,1 and 10,4:20,NE,Offensive Holding,10,REG
+2015,BUF,NE,2,NE,NE 34,Q2,1 and 10,:05,NE,Offensive 12 On-field,5,REG
+2015,BUF,NE,2,NE,NE 20,Q3,2 and 10,14:56,NE,Offensive Holding,10,REG
+2015,BUF,NE,2,NE,NE 29,Q3,3 and 1,13:55,NE,False Start,5,REG
+2015,BUF,NE,2,NE,BUF 8,Q3,1 and 8,11:16,NE,False Start,5,REG
+2015,BUF,NE,2,BUF,BUF 22,Q3,1 and 10,9:56,BUF,Offensive Pass Interference,10,REG
+2015,BUF,NE,2,BUF,BUF 12,Q3,1 and 20,9:47,BUF,Unsportsmanlike Conduct,9,REG
+2015,BUF,NE,2,BUF,BUF 34,Q3,1 and 10,8:38,BUF,Offensive Holding,10,REG
+2015,BUF,NE,2,NE,NE 17,Q3,2 and 10,6:32,BUF,Defensive Holding,5,REG
+2015,BUF,NE,2,BUF,BUF 10,Q3,4 and 20,1:38,NE,Offensive Holding,10,REG
+2015,BUF,NE,2,NE,BUF 44,Q4,2 and 4,10:08,NE,Offensive Pass Interference,10,REG
+2015,BUF,NE,2,BUF,NE 47,Q4,1 and 10,7:44,BUF,Illegal Use of Hands,10,REG
+2015,BUF,NE,2,NE,NE 32,Q4,1 and 10,3:24,BUF,Defensive Pass Interference,22,REG
+2015,NE,JAC,3,JAC,NE 44,Q1,1 and 10,9:11,JAC,Offensive Holding,10,REG
+2015,NE,JAC,3,NE,JAC 32,Q1,2 and 10,4:29,NE,Offensive Pass Interference,10,REG
+2015,NE,JAC,3,JAC,JAC 23,Q1,3 and 7,1:35,NE,Illegal Contact,5,REG
+2015,NE,JAC,3,JAC,NE 17,Q2,3 and 10,10:13,JAC,Illegal Formation,5,REG
+2015,NE,JAC,3,NE,JAC 33,Q2,1 and 10,:36,JAC,Roughing the Passer,3,REG
+2015,NE,JAC,3,JAC,JAC 23,Q3,4 and 7,10:02,JAC,Delay of Game,5,REG
+2015,NE,JAC,3,NE,NE 33,Q3,1 and 10,9:51,NE,Offensive Pass Interference,10,REG
+2015,NE,JAC,3,NE,NE 23,Q3,1 and 20,9:36,JAC,Defensive Pass Interference,52,REG
+2015,NE,JAC,3,NE,JAC 25,Q3,1 and 10,9:28,JAC,Defensive Pass Interference,24,REG
+2015,NE,JAC,3,NE,JAC 47,Q3,2 and 3,4:20,JAC,Horse Collar Tackle,15,REG
+2015,NE,JAC,3,NE,JAC 1,Q4,1 and 1,4:59,NE,False Start,5,REG
+2015,DAL,NE,5,NE,NE 32,Q1,1 and 10,13:58,DAL,Unnecessary Roughness,15,REG
+2015,DAL,NE,5,DAL,DAL 28,Q1,3 and 2,7:07,NE,Defensive Holding,5,REG
+2015,DAL,NE,5,DAL,DAL 35,Q1,3 and 8,5:20,NE,Neutral Zone Infraction,5,REG
+2015,DAL,NE,5,NE,NE 20,Q1,1 and 10,1:46,DAL,Illegal Use of Hands,5,REG
+2015,DAL,NE,5,NE,NE 32,Q2,2 and 8,10:30,NE,Offensive Pass Interference,10,REG
+2015,DAL,NE,5,DAL,DAL 11,Q2,3 and 12,7:13,DAL,Offensive Holding,5,REG
+2015,DAL,NE,5,NE,NE 45,Q2,1 and 10,5:57,DAL,Illegal Use of Hands,5,REG
+2015,DAL,NE,5,DAL,DAL 19,Q2,4 and 5,2:11,NE,Offensive Holding,10,REG
+2015,DAL,NE,5,NE,NE 20,Q3,1 and 10,15:00,NE,Offensive Holding,10,REG
+2015,DAL,NE,5,NE,DAL 16,Q3,2 and 3,10:20,DAL,Illegal Use of Hands,5,REG
+2015,DAL,NE,5,DAL,DAL 37,Q3,3 and 8,7:12,NE,Illegal Contact,5,REG
+2015,DAL,NE,5,DAL,DAL 42,Q3,1 and 10,7:12,DAL,False Start,5,REG
+2015,DAL,NE,5,NE,NE 44,Q4,1 and 10,14:22,NE,Offensive Pass Interference,10,REG
+2015,DAL,NE,5,DAL,DAL 20,Q4,1 and 10,12:58,DAL,Offensive Holding,10,REG
+2015,DAL,NE,5,NE,DAL 16,Q4,3 and 7,4:49,NE,False Start,5,REG
+2015,DAL,NE,5,DAL,NE 11,Q4,2 and 10,1:49,NE,Defensive Holding,5,REG
+2015,IND,NE,6,IND,NE 25,Q1,1 and 10,11:23,IND,False Start,5,REG
+2015,IND,NE,6,NE,NE 20,Q1,1 and 10,7:16,IND,Defensive Offside,5,REG
+2015,IND,NE,6,IND,IND 23,Q1,3 and 7,2:14,IND,False Start,5,REG
+2015,IND,NE,6,IND,IND 28,Q1,4 and 2,1:59,NE,Illegal Block Above the Waist,9,REG
+2015,IND,NE,6,NE,NE 31,Q2,2 and 14,10:48,IND,Face Mask (15 Yards),15,REG
+2015,IND,NE,6,IND,NE 18,Q2,1 and 10,4:36,IND,Offensive Holding,10,REG
+2015,IND,NE,6,IND,NE 26,Q2,1 and 18,4:10,NE,Defensive Pass Interference,18,REG
+2015,IND,NE,6,NE,IND 31,Q2,3 and 7,:33,NE,Illegal Use of Hands,10,REG
+2015,IND,NE,6,NE,IND 22,Q2,1 and 10,:17,IND,Defensive Pass Interference,15,REG
+2015,IND,NE,6,NE,IND 7,Q2,1 and 7,:12,NE,Offensive Pass Interference,10,REG
+2015,IND,NE,6,IND,IND 24,Q3,1 and 10,8:47,IND,Offensive Holding,10,REG
+2015,IND,NE,6,IND,IND 42,Q3,1 and 10,7:13,NE,Illegal Contact,5,REG
+2015,IND,NE,6,NE,NE 17,Q3,4 and 3,4:08,IND,Illegal Block Above the Waist,10,REG
+2015,IND,NE,6,IND,IND 16,Q4,3 and 14,12:15,IND,Offensive Holding,8,REG
+2015,IND,NE,6,IND,IND 13,Q4,4 and 17,11:37,NE,Illegal Block Above the Waist,10,REG
+2015,IND,NE,6,IND,IND 28,Q4,1 and 10,8:09,IND,Offensive Holding,10,REG
+2015,IND,NE,6,NE,NE 37,Q4,4 and 14,5:20,NE,False Start,5,REG
+2015,IND,NE,6,NE,NE 35,Q4,2 and 4,3:24,NE,Delay of Game,5,REG
+2015,IND,NE,6,NE,NE 36,Q4,4 and 3,3:13,IND,Offensive Holding,10,REG
+2015,NE,NYJ,7,NYJ,NE 12,Q1,2 and 10,8:46,NE,Illegal Use of Hands,5,REG
+2015,NE,NYJ,7,NYJ,NE 1,Q2,1 and 1,12:44,NYJ,False Start,4,REG
+2015,NE,NYJ,7,NYJ,NYJ 35,Q2,,,NYJ,Low Block,15,REG
+2015,NE,NYJ,7,NE,NYJ 29,Q2,1 and 10,3:53,NE,Offensive Holding,10,REG
+2015,NE,NYJ,7,NYJ,NE 43,Q4,1 and 10,15:00,NE,Defensive Holding,5,REG
+2015,NE,NYJ,7,NYJ,NE 33,Q4,2 and 8,13:52,NE,Defensive Pass Interference,18,REG
+2015,NE,NYJ,7,NYJ,NE 32,Q4,1 and 10,:23,NYJ,False Start,5,REG
+2015,NE,NYJ,7,NYJ,NE 37,Q4,1 and 10,:01,NYJ,False Start,5,REG
+2015,NE,MIA,8,NE,NE 39,Q1,2 and 3,13:14,NE,Illegal Crackback,15,REG
+2015,NE,MIA,8,MIA,MIA 29,Q1,3 and 1,9:13,MIA,Offensive Holding,10,REG
+2015,NE,MIA,8,MIA,MIA 34,Q1,2 and 10,7:44,MIA,False Start,5,REG
+2015,NE,MIA,8,NE,MIA 38,Q1,1 and 10,1:40,NE,Clipping,15,REG
+2015,NE,MIA,8,MIA,MIA 29,Q2,4 and 18,8:16,NE,Illegal Block Above the Waist,10,REG
+2015,NE,MIA,8,NE,NE 10,Q2,1 and 10,8:04,NE,Ineligible Downfield Pass,5,REG
+2015,NE,MIA,8,NE,NE 8,Q2,3 and 12,7:00,MIA,Neutral Zone Infraction,5,REG
+2015,NE,MIA,8,NE,NE 27,Q2,3 and 8,5:35,NE,False Start,5,REG
+2015,NE,MIA,8,NE,MIA 30,Q2,4 and 1,3:55,NE,False Start,4,REG
+2015,NE,MIA,8,MIA,MIA 22,Q2,3 and 8,2:12,MIA,False Start,5,REG
+2015,NE,MIA,8,NE,MIA 29,Q2,1 and 10,:42,MIA,Defensive Offside,5,REG
+2015,NE,MIA,8,NE,MIA 6,Q2,1 and 6,:34,NE,Offensive Pass Interference,10,REG
+2015,NE,MIA,8,NE,NE 31,Q3,1 and 10,11:25,NE,False Start,5,REG
+2015,NE,MIA,8,MIA,MIA 22,Q3,2 and 6,5:22,MIA,False Start,5,REG
+2015,NE,MIA,8,NE,NE 31,Q4,2 and 9,2:27,MIA,Defensive Offside,5,REG
+2015,NE,WAS,9,NE,WAS 23,Q1,3 and 5,9:32,WAS,Unnecessary Roughness,8,REG
+2015,NE,WAS,9,NE,WAS 42,Q2,2 and 4,11:19,WAS,Illegal Contact,5,REG
+2015,NE,WAS,9,NE,WAS 7,Q2,1 and 7,9:26,NE,Illegal Formation,5,REG
+2015,NE,WAS,9,WAS,WAS 22,Q3,3 and 9,6:47,WAS,False Start,4,REG
+2015,NE,WAS,9,NE,NE 27,Q3,1 and 10,6:05,NE,Offensive Holding,10,REG
+2015,NE,WAS,9,NE,WAS 20,Q4,1 and 10,12:38,NE,Offensive Holding,10,REG
+2015,NE,WAS,9,WAS,WAS 29,Q4,3 and 1,11:00,WAS,Offensive Holding,10,REG
+2015,NE,WAS,9,WAS,WAS 34,Q4,4 and 8,9:23,NE,Offensive Holding,10,REG
+2015,NE,WAS,9,NE,WAS 33,Q4,4 and 9,4:02,NE,Delay of Game,5,REG
+2015,NE,WAS,9,WAS,NE 6,Q4,2 and 6,:42,NE,Defensive Holding,3,REG
+2015,NYG,NE,10,NE,NYG 4,Q1,1 and 4,7:48,NYG,Defensive 12 On-field,2,REG
+2015,NYG,NE,10,NE,NE 35,Q1,,,NYG,Offensive Holding,9,REG
+2015,NYG,NE,10,NE,NE 23,Q1,4 and 7,5:02,NYG,Illegal Block Above the Waist,10,REG
+2015,NYG,NE,10,NE,NE 18,Q2,3 and 8,8:08,NE,Offensive Pass Interference,9,REG
+2015,NYG,NE,10,NE,NE 47,Q2,4 and 3,1:17,NE,Offensive Holding,10,REG
+2015,NYG,NE,10,NYG,NYG 41,Q3,3 and 1,12:45,NE,Defensive Pass Interference,15,REG
+2015,NYG,NE,10,NYG,NE 44,Q3,1 and 10,12:38,NYG,Illegal Use of Hands,10,REG
+2015,NYG,NE,10,NYG,NE 41,Q3,3 and 7,11:21,NE,Defensive Pass Interference,21,REG
+2015,NYG,NE,10,NYG,NE 19,Q3,2 and 9,10:50,NYG,False Start,5,REG
+2015,NYG,NE,10,NE,NYG 4,Q3,2 and 4,5:31,NYG,Defensive Pass Interference,3,REG
+2015,NYG,NE,10,NYG,NYG 37,Q3,2 and 7,3:10,NYG,False Start,5,REG
+2015,NYG,NE,10,NYG,NYG 32,Q3,2 and 12,2:43,NE,Defensive Pass Interference,18,REG
+2015,NYG,NE,10,NYG,NYG 20,Q4,4 and 10,11:14,NE,Illegal Block Above the Waist,10,REG
+2015,NYG,NE,10,NE,NYG 1,Q4,1 and 1,7:09,NE,Offensive Holding,10,REG
+2015,NYG,NE,10,NE,NYG 11,Q4,1 and 11,7:07,NYG,Illegal Use of Hands,5,REG
+2015,NE,BUF,11,NE,NE 47,Q1,2 and 9,12:04,NE,False Start,5,REG
+2015,NE,BUF,11,NE,BUF 46,Q1,3 and 2,11:01,NE,False Start,5,REG
+2015,NE,BUF,11,NE,BUF 39,Q1,3 and 9,8:59,BUF,Defensive Pass Interference,14,REG
+2015,NE,BUF,11,BUF,NE 47,Q1,3 and 3,2:49,BUF,Illegal Formation,5,REG
+2015,NE,BUF,11,NE,NE 20,Q3,1 and 10,15:00,BUF,Defensive Offside,5,REG
+2015,NE,BUF,11,NE,NE 31,Q3,1 and 10,14:05,BUF,Unsportsmanlike Conduct,15,REG
+2015,NE,BUF,11,NE,NE 39,Q3,3 and 5,3:53,NE,Offensive Holding,10,REG
+2015,NE,BUF,11,BUF,BUF 13,Q4,2 and 3,12:46,BUF,Ineligible Downfield Pass,5,REG
+2015,NE,BUF,11,BUF,BUF 8,Q4,2 and 8,12:09,NE,Defensive Pass Interference,31,REG
+2015,NE,BUF,11,NE,NE 24,Q4,1 and 10,9:28,NE,Offensive Holding,10,REG
+2015,DEN,NE,12,NE,DEN 42,Q2,4 and 1,13:33,DEN,Unnecessary Roughness,10,REG
+2015,DEN,NE,12,NE,DEN 15,Q2,1 and 10,12:12,DEN,Neutral Zone Infraction,5,REG
+2015,DEN,NE,12,NE,NE 21,Q3,2 and 9,14:17,DEN,Roughing the Passer,15,REG
+2015,DEN,NE,12,DEN,DEN 28,Q3,3 and 8,10:28,NE,Face Mask (15 Yards),15,REG
+2015,DEN,NE,12,DEN,NE 30,Q3,1 and 10,8:11,DEN,Offensive Holding,10,REG
+2015,DEN,NE,12,DEN,DEN 3,Q3,1 and 10,5:10,DEN,False Start,1,REG
+2015,DEN,NE,12,NE,NE 20,Q4,1 and 10,12:34,NE,Illegal Use of Hands,10,REG
+2015,DEN,NE,12,NE,NE 19,Q4,3 and 11,11:40,NE,Offensive Holding,9,REG
+2015,DEN,NE,12,NE,NE 25,Q4,3 and 5,5:22,NE,Offensive Pass Interference,10,REG
+2015,DEN,NE,12,DEN,NE 7,Q4,2 and 7,1:25,NE,Defensive Holding,3,REG
+2015,DEN,NE,12,NE,DEN 48,Q4,1 and 10,:15,DEN,Defensive Holding,5,REG
+2015,NE,PHI,13,PHI,PHI 49,Q1,3 and 4,12:51,PHI,Offensive Holding,10,REG
+2015,NE,PHI,13,NE,NE 30,Q1,4 and 11,9:26,PHI,Illegal Block Above the Waist,10,REG
+2015,NE,PHI,13,PHI,PHI 20,Q1,1 and 10,9:17,PHI,Delay of Game,5,REG
+2015,NE,PHI,13,PHI,PHI 15,Q1,1 and 15,9:17,PHI,False Start,5,REG
+2015,NE,PHI,13,PHI,PHI 31,Q1,2 and 9,7:57,PHI,Face Mask (15 Yards),15,REG
+2015,NE,PHI,13,NE,NE 15,Q2,2 and 15,11:58,PHI,Defensive Pass Interference,42,REG
+2015,NE,PHI,13,PHI,PHI 35,Q2,,,NE,Illegal Block Above the Waist,9,REG
+2015,NE,PHI,13,NE,NE 25,Q2,1 and 10,:06,PHI,Defensive 12 On-field,5,REG
+2015,NE,PHI,13,NE,NE 20,Q3,1 and 10,7:26,NE,Illegal Block Above the Waist,10,REG
+2015,NE,PHI,13,PHI,NE 48,Q4,3 and 3,13:07,NE,Defensive Pass Interference,11,REG
+2015,NE,PHI,13,PHI,PHI 31,Q4,4 and 13,8:03,PHI,Illegal Formation,5,REG
+2015,HOU,NE,14,HOU,HOU 14,Q1,4 and 16,13:16,NE,Illegal Block Above the Waist,10,REG
+2015,HOU,NE,14,NE,HOU 6,Q1,2 and 6,8:15,NE,Illegal Formation,5,REG
+2015,HOU,NE,14,NE,HOU 2,Q1,3 and 2,7:28,HOU,Roughing the Passer,15,REG
+2015,HOU,NE,14,HOU,HOU 41,Q1,3 and 3,5:13,HOU,Unnecessary Roughness,15,REG
+2015,HOU,NE,14,NE,HOU 47,Q2,2 and 6,6:05,NE,Offensive Holding,10,REG
+2015,HOU,NE,14,HOU,HOU 3,Q2,1 and 10,4:15,HOU,False Start,1,REG
+2015,HOU,NE,14,NE,HOU 36,Q3,3 and 8,12:48,HOU,Neutral Zone Infraction,5,REG
+2015,HOU,NE,14,HOU,HOU 29,Q3,2 and 1,11:16,NE,Defensive Holding,5,REG
+2015,HOU,NE,14,NE,NE 39,Q4,2 and 9,8:36,NE,Offensive Holding,11,REG
+2015,HOU,NE,14,NE,NE 28,Q4,2 and 20,8:36,NE,False Start,5,REG
+2015,NE,TEN,15,NE,NE 30,Q1,2 and 1,13:04,NE,Offensive Holding,10,REG
+2015,NE,TEN,15,TEN,TEN 48,Q1,3 and 14,3:47,TEN,Offensive Holding,10,REG
+2015,NE,TEN,15,NE,NE 37,Q1,2 and 10,1:52,NE,Illegal Formation,5,REG
+2015,NE,TEN,15,TEN,TEN 31,Q2,3 and 4,14:22,TEN,False Start,5,REG
+2015,NE,TEN,15,NE,NE 45,Q2,3 and 3,3:47,NE,False Start,5,REG
+2015,NE,TEN,15,NE,NE 41,Q3,1 and 10,7:26,TEN,Unnecessary Roughness,14,REG
+2015,NE,TEN,15,TEN,TEN 22,Q3,3 and 8,4:24,NE,Defensive Holding,5,REG
+2015,NE,TEN,15,NE,NE 24,Q4,3 and 6,8:24,NE,Offensive Pass Interference,10,REG
+2015,NYJ,NE,16,NE,NE 26,Q1,3 and 8,2:05,NYJ,Encroachment,5,REG
+2015,NYJ,NE,16,NYJ,NE 43,Q2,4 and 9,14:51,NYJ,Illegal Use of Hands,5,REG
+2015,NYJ,NE,16,NYJ,NE 30,Q3,2 and 8,10:29,NYJ,Offensive Holding,10,REG
+2015,NYJ,NE,16,NYJ,NYJ 41,Q3,1 and 10,2:02,NYJ,False Start,5,REG
+2015,NYJ,NE,16,NE,NE 42,Q4,2 and 10,8:15,NYJ,Defensive Pass Interference,9,REG
+2015,NYJ,NE,16,NYJ,NYJ 26,Q4,3 and 4,1:25,NE,Defensive Pass Interference,7,REG
+2015,NYJ,NE,16,NYJ,NE 49,Q4,4 and 8,:34,NYJ,Delay of Game,5,REG
+2015,MIA,NE,17,MIA,NE 18,Q1,2 and 5,9:14,MIA,False Start,5,REG
+2015,MIA,NE,17,MIA,MIA 25,Q1,2 and 5,4:01,NE,Defensive Offside,4,REG
+2015,MIA,NE,17,NE,NE 41,Q2,2 and 5,13:51,NE,Offensive Holding,10,REG
+2015,MIA,NE,17,NE,MIA 32,Q2,2 and 8,11:30,MIA,Encroachment,5,REG
+2015,MIA,NE,17,NE,NE 34,Q2,2 and 11,5:24,MIA,Defensive Holding,5,REG
+2015,MIA,NE,17,NE,NE 47,Q2,3 and 2,4:18,MIA,Neutral Zone Infraction,5,REG
+2015,MIA,NE,17,NE,MIA 48,Q2,1 and 10,3:53,MIA,Defensive Pass Interference,24,REG
+2015,MIA,NE,17,NE,MIA 6,Q3,1 and 6,12:59,MIA,Illegal Use of Hands,4,REG
+2015,MIA,NE,17,MIA,NE 40,Q3,4 and 9,7:53,MIA,Delay of Game,5,REG
+2015,MIA,NE,17,NE,NE 19,Q3,3 and 11,7:07,MIA,Roughing the Passer,15,REG
+2015,MIA,NE,17,NE,NE 43,Q3,3 and 1,6:16,NE,Offensive Pass Interference,10,REG
+2015,MIA,NE,17,MIA,NE 48,Q3,2 and 10,3:31,MIA,Face Mask (15 Yards),15,REG
+2015,MIA,NE,17,NE,NE 41,Q3,3 and 8,1:25,NE,False Start,5,REG
+2015,MIA,NE,17,MIA,NE 15,Q4,,13:18,NE,Running Into the Kicker,5,REG
+2015,MIA,NE,17,MIA,NE 45,Q4,4 and 7,13:04,NE,Offensive Holding,4,REG
+2015,MIA,NE,17,NE,NE 7,Q4,4 and 23,5:05,NE,False Start,3,REG
+2015,MIA,NE,17,NE,NE 4,Q4,4 and 26,4:49,MIA,Offensive Holding,10,REG
+2016,ARI,NE,1,ARI,ARI 49,Q1,4 and 1,12:09,ARI,Delay of Game,5,REG
+2016,ARI,NE,1,NE,NE 37,Q1,1 and 10,10:29,NE,Offensive Holding,9,REG
+2016,ARI,NE,1,NE,NE 30,Q1,3 and 9,4:57,ARI,Neutral Zone Infraction,5,REG
+2016,ARI,NE,1,NE,NE 16,Q2,1 and 10,12:22,NE,False Start,5,REG
+2016,ARI,NE,1,NE,NE 41,Q2,3 and 9,10:32,ARI,Unsportsmanlike Conduct,15,REG
+2016,ARI,NE,1,NE,NE 32,Q2,2 and 9,:47,NE,Tripping,10,REG
+2016,ARI,NE,1,NE,NE 25,Q2,2 and 16,:39,NE,Offensive Holding,10,REG
+2016,ARI,NE,1,NE,ARI 46,Q4,3 and 3,15:00,ARI,Roughing the Passer,15,REG
+2016,ARI,NE,1,NE,ARI 25,Q4,3 and 4,13:18,NE,Offensive Holding,10,REG
+2016,ARI,NE,1,ARI,ARI 38,Q4,1 and 10,11:13,NE,Defensive Holding,5,REG
+2016,ARI,NE,1,ARI,NE 15,Q4,,,NE,Leaping,15,REG
+2016,ARI,NE,1,NE,ARI 22,Q4,1 and 10,4:45,NE,Delay of Game,5,REG
+2016,ARI,NE,1,NE,NE 35,Q4,,,ARI,Offensive Holding,8,REG
+2016,ARI,NE,1,ARI,NE 33,Q4,2 and 9,1:55,ARI,Offensive Holding,10,REG
+2016,NE,MIA,2,MIA,MIA 25,Q1,1 and 10,10:53,NE,Defensive Holding,5,REG
+2016,NE,MIA,2,NE,MIA 29,Q1,1 and 10,1:12,NE,Offensive Holding,10,REG
+2016,NE,MIA,2,NE,MIA 42,Q2,4 and 4,10:18,NE,False Start,5,REG
+2016,NE,MIA,2,NE,NE 36,Q2,3 and 5,7:24,MIA,Illegal Use of Hands,5,REG
+2016,NE,MIA,2,NE,NE 48,Q2,2 and 10,5:45,MIA,Unnecessary Roughness,15,REG
+2016,NE,MIA,2,MIA,MIA 14,Q2,1 and 10,:58,NE,Defensive 12 On-field,5,REG
+2016,NE,MIA,2,MIA,MIA 25,Q3,1 and 10,15:00,MIA,Offensive Holding,10,REG
+2016,NE,MIA,2,NE,MIA 30,Q3,2 and 9,10:22,NE,Offensive Holding,10,REG
+2016,NE,MIA,2,NE,MIA 25,Q3,3 and 4,9:16,MIA,Unsportsmanlike Conduct,9,REG
+2016,NE,MIA,2,NE,NE 41,Q3,4 and 17,2:18,MIA,Illegal Block Above the Waist,10,REG
+2016,NE,MIA,2,MIA,NE 32,Q4,1 and 10,15:00,NE,Defensive Pass Interference,20,REG
+2016,NE,MIA,2,NE,MIA 35,Q4,2 and 5,12:33,NE,Offensive Holding,10,REG
+2016,NE,HOU,3,HOU,HOU 37,Q1,4 and 19,12:25,HOU,Interference with Opportunity to Catch,15,REG
+2016,NE,HOU,3,NE,NE 25,Q1,3 and 5,5:52,HOU,Defensive Pass Interference,12,REG
+2016,NE,HOU,3,NE,HOU 22,Q1,1 and 10,2:01,NE,False Start,5,REG
+2016,NE,HOU,3,HOU,NE 45,Q2,,14:17,HOU,Illegal Formation,5,REG
+2016,NE,HOU,3,NE,NE 18,Q2,2 and 10,8:10,NE,False Start,5,REG
+2016,NE,HOU,3,NE,HOU 7,Q3,2 and 7,6:32,HOU,Defensive Pass Interference,6,REG
+2016,NE,HOU,3,NE,HOU 2,Q3,3 and 2,5:49,HOU,Defensive Pass Interference,1,REG
+2016,NE,HOU,3,HOU,HOU 4,Q4,2 and 20,12:49,HOU,Unnecessary Roughness,4,REG
+2016,NE,HOU,3,NE,HOU 39,Q4,4 and 5,1:15,NE,Delay of Game,5,REG
+2016,NE,BUF,4,NE,NE 9,Q1,1 and 10,14:56,NE,Offensive Pass Interference,4,REG
+2016,NE,BUF,4,BUF,NE 14,Q1,2 and 2,8:35,BUF,Offensive Holding,10,REG
+2016,NE,BUF,4,BUF,NE 18,Q1,1 and 10,:10,BUF,Unnecessary Roughness,15,REG
+2016,NE,BUF,4,NE,NE 35,Q2,3 and 10,13:23,NE,False Start,5,REG
+2016,NE,BUF,4,NE,NE 34,Q2,4 and 11,12:34,BUF,Unsportsmanlike Conduct,5,REG
+2016,NE,BUF,4,BUF,NE 48,Q2,3 and 4,9:43,NE,Defensive Holding,5,REG
+2016,NE,BUF,4,NE,BUF 8,Q2,3 and 1,5:38,NE,Offensive Holding,10,REG
+2016,NE,BUF,4,BUF,BUF 21,Q2,1 and 10,3:09,BUF,Offensive Holding,10,REG
+2016,NE,BUF,4,NE,BUF 47,Q3,1 and 10,6:40,NE,Chop Block,15,REG
+2016,NE,BUF,4,NE,NE 44,Q3,4 and 19,5:06,NE,False Start,5,REG
+2016,NE,BUF,4,BUF,BUF 45,Q3,2 and 6,2:30,NE,Roughing the Passer,15,REG
+2016,NE,BUF,4,NE,NE 38,Q4,1 and 10,13:55,NE,False Start,5,REG
+2016,NE,BUF,4,BUF,BUF 23,Q4,2 and 14,11:30,BUF,Offensive Holding,10,REG
+2016,NE,BUF,4,BUF,BUF 46,Q4,2 and 2,8:58,BUF,Offensive Holding,10,REG
+2016,NE,BUF,4,NE,NE 40,Q4,1 and 10,6:43,NE,Offensive Holding,10,REG
+2016,CLE,NE,5,CLE,CLE 48,Q1,2 and 3,9:02,NE,Defensive Holding,5,REG
+2016,CLE,NE,5,NE,NE 25,Q1,1 and 10,6:09,CLE,Encroachment,5,REG
+2016,CLE,NE,5,CLE,CLE 2,Q2,2 and 10,5:28,NE,Defensive Pass Interference,21,REG
+2016,CLE,NE,5,NE,NE 33,Q3,3 and 2,14:24,CLE,Defensive Holding,5,REG
+2016,CLE,NE,5,CLE,CLE 27,Q3,3 and 7,10:59,NE,Disqualification,15,REG
+2016,CLE,NE,5,NE,NE 34,Q3,1 and 10,8:06,NE,Offensive Holding,10,REG
+2016,CLE,NE,5,NE,NE 30,Q3,4 and 14,6:53,CLE,Offensive Holding,10,REG
+2016,CLE,NE,5,CLE,NE 12,Q4,1 and 10,15:00,CLE,Offensive Holding,10,REG
+2016,CLE,NE,5,NE,CLE 28,Q4,1 and 10,10:52,NE,Offensive Holding,10,REG
+2016,CLE,NE,5,NE,CLE 35,Q4,2 and 17,9:51,CLE,Illegal Use of Hands,5,REG
+2016,NE,CIN,6,NE,CIN 45,Q1,1 and 10,5:00,NE,Offensive Holding,10,REG
+2016,NE,CIN,6,CIN,CIN 31,Q1,3 and 2,:38,NE,Illegal Use of Hands,5,REG
+2016,NE,CIN,6,CIN,NE 40,Q2,1 and 10,12:52,CIN,False Start,5,REG
+2016,NE,CIN,6,CIN,NE 44,Q2,2 and 14,12:03,CIN,Offensive Holding,10,REG
+2016,NE,CIN,6,NE,NE 17,Q2,3 and 18,2:31,CIN,Illegal Contact,5,REG
+2016,NE,CIN,6,NE,NE 40,Q3,2 and 12,10:02,NE,False Start,5,REG
+2016,NE,CIN,6,CIN,CIN 16,Q3,2 and 10,7:40,CIN,Offensive Holding,8,REG
+2016,NE,CIN,6,NE,CIN 47,Q4,3 and 7,9:45,NE,False Start,5,REG
+2016,NE,CIN,6,NE,NE 48,Q4,3 and 12,9:23,CIN,Defensive Holding,5,REG
+2016,NE,CIN,6,NE,CIN 20,Q4,1 and 10,8:14,NE,Taunting,15,REG
+2016,NE,CIN,6,CIN,CIN 25,Q4,1 and 10,6:04,CIN,False Start,5,REG
+2016,NE,CIN,6,NE,CIN 28,Q4,3 and 5,2:22,CIN,Face Mask (15 Yards),8,REG
+2016,NE,CIN,6,NE,CIN 1,Q4,4 and 1,1:05,NE,Unnecessary Roughness,15,REG
+2016,PIT,NE,7,PIT,NE 20,Q1,1 and 10,12:02,PIT,False Start,5,REG
+2016,PIT,NE,7,PIT,PIT 30,Q1,2 and 8,2:13,PIT,Offensive Pass Interference,10,REG
+2016,PIT,NE,7,PIT,PIT 34,Q1,4 and 4,1:00,PIT,Illegal Formation,5,REG
+2016,PIT,NE,7,NE,NE 45,Q2,1 and 10,13:53,PIT,Unnecessary Roughness,15,REG
+2016,PIT,NE,7,NE,PIT 27,Q2,2 and 10,13:18,NE,False Start,5,REG
+2016,PIT,NE,7,PIT,PIT 48,Q2,2 and 9,7:26,NE,Unnecessary Roughness,15,REG
+2016,PIT,NE,7,PIT,NE 14,Q2,3 and 3,5:00,PIT,Offensive Holding,10,REG
+2016,PIT,NE,7,NE,NE 25,Q3,2 and 10,14:54,NE,Offensive Holding,10,REG
+2016,PIT,NE,7,NE,NE 23,Q3,4 and 12,13:42,PIT,Offensive Holding,10,REG
+2016,PIT,NE,7,PIT,PIT 42,Q3,1 and 10,4:57,PIT,False Start,5,REG
+2016,PIT,NE,7,PIT,NE 40,Q3,2 and 7,1:50,PIT,False Start,5,REG
+2016,PIT,NE,7,NE,NE 44,Q4,1 and 10,9:00,NE,Offensive Holding,10,REG
+2016,PIT,NE,7,PIT,PIT 20,Q4,1 and 10,6:57,PIT,Offensive Holding,10,REG
+2016,PIT,NE,7,PIT,NE 44,Q4,2 and 10,1:13,PIT,Offensive Pass Interference,10,REG
+2016,BUF,NE,8,NE,NE 30,Q1,2 and 10,10:50,BUF,Defensive 12 On-field,5,REG
+2016,BUF,NE,8,NE,NE 35,Q1,,,BUF,Offensive Holding,6,REG
+2016,BUF,NE,8,NE,BUF 45,Q1,1 and 10,3:41,NE,Offensive Pass Interference,10,REG
+2016,BUF,NE,8,NE,NE 45,Q1,1 and 20,3:05,BUF,Defensive Holding,5,REG
+2016,BUF,NE,8,NE,BUF 48,Q1,3 and 8,2:18,NE,Ineligible Downfield Pass,5,REG
+2016,BUF,NE,8,BUF,BUF 45,Q2,2 and 9,12:01,BUF,Illegal Formation,5,REG
+2016,BUF,NE,8,BUF,BUF 40,Q2,2 and 14,11:34,BUF,Offensive Pass Interference,10,REG
+2016,BUF,NE,8,BUF,BUF 41,Q2,1 and 10,8:40,BUF,Offensive Holding,10,REG
+2016,BUF,NE,8,BUF,BUF 39,Q2,3 and 12,7:33,NE,Defensive Pass Interference,29,REG
+2016,BUF,NE,8,BUF,NE 7,Q2,1 and 7,6:51,NE,Defensive 12 On-field,4,REG
+2016,BUF,NE,8,BUF,BUF 41,Q2,1 and 10,3:34,BUF,Offensive Holding,10,REG
+2016,BUF,NE,8,BUF,NE 36,Q2,1 and 10,:55,NE,Illegal Contact,5,REG
+2016,BUF,NE,8,NE,BUF 29,Q3,3 and 5,4:43,BUF,Defensive 12 On-field,5,REG
+2016,BUF,NE,8,NE,BUF 17,Q3,3 and 3,3:57,BUF,Unnecessary Roughness,6,REG
+2016,BUF,NE,8,NE,BUF 3,Q3,2 and 3,3:14,BUF,Defensive Holding,2,REG
+2016,BUF,NE,8,BUF,NE 25,Q3,1 and 10,1:39,NE,Defensive Pass Interference,19,REG
+2016,BUF,NE,8,NE,NE 29,Q4,3 and 7,12:47,BUF,Roughing the Passer,15,REG
+2016,BUF,NE,8,NE,BUF 20,Q4,3 and 12,9:34,BUF,Defensive Holding,5,REG
+2016,BUF,NE,8,NE,BUF 11,Q4,2 and 6,8:56,NE,False Start,5,REG
+2016,BUF,NE,8,BUF,BUF 35,Q4,1 and 10,6:37,NE,Illegal Contact,5,REG
+2016,BUF,NE,8,BUF,NE 37,Q4,2 and 4,5:29,NE,Illegal Use of Hands,5,REG
+2016,BUF,NE,8,BUF,NE 30,Q4,3 and 12,1:08,NE,Defensive Pass Interference,29,REG
+2016,NE,SEA,10,NE,SEA 10,Q1,2 and 8,10:35,SEA,Defensive Pass Interference,9,REG
+2016,NE,SEA,10,SEA,SEA 27,Q1,3 and 4,4:38,NE,Defensive Pass Interference,20,REG
+2016,NE,SEA,10,SEA,NE 31,Q2,1 and 10,13:37,SEA,False Start,5,REG
+2016,NE,SEA,10,SEA,SEA 38,Q2,3 and 8,7:00,NE,Defensive Offside,5,REG
+2016,NE,SEA,10,NE,NE 34,Q2,2 and 7,4:32,SEA,Face Mask (15 Yards),15,REG
+2016,NE,SEA,10,NE,SEA 2,Q2,2 and 2,1:22,SEA,Defensive Holding,1,REG
+2016,NE,SEA,10,SEA,SEA 32,Q3,4 and 3,13:39,NE,Clipping,9,REG
+2016,NE,SEA,10,NE,NE 17,Q3,3 and 2,12:25,SEA,Roughing the Passer,15,REG
+2016,NE,SEA,10,SEA,NE 27,Q3,2 and 7,5:49,NE,Defensive Pass Interference,7,REG
+2016,NE,SEA,10,SEA,NE 13,Q3,3 and 13,3:09,SEA,Intentional Grounding,10,REG
+2016,NE,SEA,10,NE,SEA 27,Q3,2 and 10,:52,NE,Offensive Holding,10,REG
+2016,NE,SEA,10,NE,SEA 37,Q3,2 and 20,:33,NE,False Start,5,REG
+2016,NE,SEA,10,SEA,NE 1,Q4,3 and 1,9:03,SEA,False Start,4,REG
+2016,NE,SEA,10,NE,SEA 49,Q4,3 and 5,2:34,NE,False Start,5,REG
+2016,NE,SEA,10,NE,SEA 2,Q4,4 and 2,:14,SEA,Defensive 12 On-field,1,REG
+2016,SF,NE,11,SF,SF 31,Q1,2 and 4,9:35,SF,False Start,5,REG
+2016,SF,NE,11,NE,SF 40,Q2,2 and 6,9:48,SF,Defensive Offside,5,REG
+2016,SF,NE,11,NE,SF 35,Q2,2 and 1,9:38,NE,Offensive Holding,10,REG
+2016,SF,NE,11,NE,SF 45,Q2,2 and 11,9:31,NE,Intentional Grounding,10,REG
+2016,SF,NE,11,SF,NE 23,Q2,2 and 9,5:13,NE,Defensive Holding,5,REG
+2016,SF,NE,11,SF,SF 35,Q2,,,SF,Low Block,15,REG
+2016,SF,NE,11,NE,NE 40,Q2,2 and 10,4:46,NE,False Start,5,REG
+2016,SF,NE,11,NE,NE 27,Q2,1 and 10,1:48,SF,Defensive Offside,5,REG
+2016,SF,NE,11,SF,SF 39,Q3,4 and 2,10:58,NE,Illegal Block Above the Waist,10,REG
+2016,SF,NE,11,NE,NE 30,Q3,2 and 9,8:23,SF,Unsportsmanlike Conduct,15,REG
+2016,SF,NE,11,NE,NE 37,Q4,3 and 3,11:26,SF,Defensive Offside,5,REG
+2016,SF,NE,11,SF,SF 25,Q4,2 and 10,6:11,SF,False Start,5,REG
+2016,SF,NE,11,NE,SF 41,Q4,2 and 3,1:55,SF,Defensive Offside,5,REG
+2016,SF,NE,11,NE,SF 7,Q4,1 and 7,1:34,SF,Unnecessary Roughness,3,REG
+2016,NYJ,NE,12,NE,NYJ 39,Q2,1 and 10,11:46,NYJ,Defensive Pass Interference,31,REG
+2016,NYJ,NE,12,NYJ,NYJ 30,Q2,3 and 1,5:13,NE,Neutral Zone Infraction,5,REG
+2016,NYJ,NE,12,NYJ,NYJ 25,Q3,1 and 10,15:00,NYJ,Offensive Holding,10,REG
+2016,NYJ,NE,12,NE,NYJ 18,Q3,4 and 1,8:41,NYJ,Neutral Zone Infraction,5,REG
+2016,NYJ,NE,12,NE,NE 12,Q3,2 and 10,1:43,NYJ,Neutral Zone Infraction,5,REG
+2016,NYJ,NE,12,NE,NE 35,Q4,,,NYJ,Illegal Block Above the Waist,8,REG
+2016,NYJ,NE,12,NYJ,NYJ 37,Q4,2 and 4,5:27,NYJ,Intentional Grounding,7,REG
+2016,NYJ,NE,12,NYJ,NYJ 30,Q4,4 and 11,5:16,NE,Offensive Holding,10,REG
+2016,NE,LA,13,NE,NE 35,Q1,1 and 10,9:38,NE,Offensive Holding,10,REG
+2016,NE,LA,13,NE,NE 31,Q2,3 and 1,10:25,NE,Offensive Holding,10,REG
+2016,NE,LA,13,NE,LA 28,Q2,1 and 10,2:08,LA,Neutral Zone Infraction,5,REG
+2016,NE,LA,13,LA,LA 23,Q3,1 and 10,14:57,LA,False Start,5,REG
+2016,NE,LA,13,NE,NE 16,Q3,1 and 10,14:03,NE,Illegal Shift,5,REG
+2016,NE,LA,13,LA,NE 30,Q3,2 and 7,9:48,LA,Offensive Holding,10,REG
+2016,NE,LA,13,LA,LA 35,Q3,2 and 10,1:34,LA,Offensive Holding,10,REG
+2016,NE,LA,13,NE,LA 26,Q4,2 and 6,11:59,NE,Offensive Holding,10,REG
+2016,NE,LA,13,LA,LA 15,Q4,4 and 17,9:24,NE,Offensive Holding,5,REG
+2016,NE,LA,13,NE,NE 30,Q4,4 and 2,3:43,NE,False Start,5,REG
+2016,NE,LA,13,LA,NE 2,Q4,2 and 2,1:20,NE,Defensive 12 On-field,1,REG
+2016,NE,LA,13,LA,NE 1,Q4,2 and 1,1:20,NE,Encroachment,0,REG
+2016,NE,BAL,14,NE,NE 46,Q1,2 and 9,9:00,BAL,Defensive Holding,5,REG
+2016,NE,BAL,14,NE,BAL 31,Q1,2 and 10,8:10,NE,Intentional Grounding,10,REG
+2016,NE,BAL,14,BAL,BAL 24,Q1,3 and 6,7:11,NE,Unnecessary Roughness,15,REG
+2016,NE,BAL,14,BAL,BAL 49,Q2,2 and 4,15:00,BAL,False Start,5,REG
+2016,NE,BAL,14,BAL,NE 41,Q2,4 and 7,13:02,BAL,False Start,5,REG
+2016,NE,BAL,14,NE,BAL 22,Q2,1 and 10,11:48,NE,Illegal Shift,5,REG
+2016,NE,BAL,14,BAL,BAL 26,Q2,2 and 9,8:53,NE,Offensive Holding,10,REG
+2016,NE,BAL,14,BAL,BAL 39,Q2,4 and 2,2:28,BAL,False Start,5,REG
+2016,NE,BAL,14,NE,NE 17,Q2,1 and 10,2:18,NE,Offensive Holding,8,REG
+2016,NE,BAL,14,NE,NE 35,Q3,,,BAL,Offensive Holding,7,REG
+2016,NE,BAL,14,BAL,BAL 34,Q3,2 and 1,8:10,BAL,False Start,4,REG
+2016,NE,BAL,14,NE,NE 45,Q3,2 and 6,4:23,NE,Offensive Holding,10,REG
+2016,NE,BAL,14,BAL,BAL 30,Q4,2 and 4,12:14,BAL,Illegal Motion,6,REG
+2016,NE,BAL,14,BAL,BAL 34,Q4,1 and 10,11:03,BAL,Offensive Holding,10,REG
+2016,DEN,NE,15,NE,NE 47,Q1,2 and 2,5:55,DEN,Defensive Holding,5,REG
+2016,DEN,NE,15,NE,DEN 33,Q2,1 and 10,13:37,NE,Offensive Holding,10,REG
+2016,DEN,NE,15,DEN,DEN 31,Q2,3 and 3,9:40,NE,Neutral Zone Infraction,5,REG
+2016,DEN,NE,15,DEN,DEN 39,Q3,2 and 8,11:54,DEN,Offensive Holding,10,REG
+2016,DEN,NE,15,DEN,DEN 28,Q3,4 and 7,4:38,NE,Offensive Holding,10,REG
+2016,DEN,NE,15,NE,NE 10,Q3,1 and 10,4:25,NE,False Start,5,REG
+2016,DEN,NE,15,NE,NE 30,Q4,2 and 10,5:30,DEN,Defensive Holding,5,REG
+2016,DEN,NE,15,NE,DEN 48,Q4,3 and 3,3:46,DEN,Unnecessary Roughness,15,REG
+2016,DEN,NE,15,DEN,NE 28,Q4,1 and 10,:43,DEN,Intentional Grounding,14,REG
+2016,NE,NYJ,16,NYJ,NYJ 37,Q2,1 and 10,2:00,NE,Illegal Use of Hands,5,REG
+2016,NE,NYJ,16,NE,NE 28,Q2,1 and 10,:38,NYJ,Defensive Pass Interference,47,REG
+2016,NE,NYJ,16,NE,NE 36,Q3,1 and 10,13:29,NE,Illegal Use of Hands,10,REG
+2016,NE,NYJ,16,NE,NYJ 41,Q3,1 and 10,9:05,NYJ,Defensive 12 On-field,5,REG
+2016,NE,NYJ,16,NE,NYJ 2,Q3,3 and 2,4:11,NYJ,Defensive Holding,1,REG
+2016,NE,NYJ,16,NE,NE 35,Q3,,,NE,Offensive Offside,5,REG
+2016,NE,NYJ,16,NYJ,NYJ 14,Q3,1 and 10,3:09,NYJ,False Start,5,REG
+2016,NE,NYJ,16,NYJ,NYJ 47,Q3,1 and 10,:38,NYJ,Face Mask (15 Yards),15,REG
+2016,NE,NYJ,16,NE,NYJ 7,Q4,3 and 7,13:32,NYJ,Defensive Holding,4,REG
+2016,MIA,NE,17,MIA,MIA 27,Q1,3 and 8,6:22,MIA,False Start,5,REG
+2016,MIA,NE,17,MIA,MIA 22,Q1,4 and 13,5:51,MIA,Offensive Holding,10,REG
+2016,MIA,NE,17,NE,MIA 24,Q1,1 and 10,:59,NE,Unsportsmanlike Conduct,15,REG
+2016,MIA,NE,17,MIA,MIA 31,Q2,2 and 4,14:22,MIA,False Start,5,REG
+2016,MIA,NE,17,MIA,MIA 46,Q2,4 and 4,11:48,NE,Offensive Holding,10,REG
+2016,MIA,NE,17,NE,MIA 37,Q2,3 and 3,7:10,MIA,Defensive Pass Interference,8,REG
+2016,MIA,NE,17,NE,MIA 12,Q2,2 and 5,5:07,MIA,Encroachment,5,REG
+2016,MIA,NE,17,MIA,NE 8,Q2,2 and 5,:36,MIA,Unsportsmanlike Conduct,15,REG
+2016,MIA,NE,17,MIA,NE 43,Q3,1 and 10,11:55,MIA,Illegal Shift,5,REG
+2016,MIA,NE,17,NE,NE 26,Q3,2 and 4,8:16,NE,Offensive Holding,10,REG
+2016,MIA,NE,17,MIA,MIA 28,Q3,4 and 4,4:44,NE,Offensive Holding,10,REG
+2016,MIA,NE,17,NE,NE 29,Q3,1 and 10,:52,NE,False Start,5,REG
+2016,MIA,NE,17,NE,NE 23,Q4,2 and 16,15:00,NE,Offensive Holding,10,REG
+2016,MIA,NE,17,MIA,NE 6,Q4,1 and 6,10:06,MIA,Illegal Motion,5,REG
+2016,MIA,NE,17,NE,MIA 2,Q4,,,MIA,Face Mask (15 Yards),15,REG
+2016,MIA,NE,17,NE,NE 6,Q4,1 and 10,3:43,NE,Face Mask (15 Yards),4,REG
+2017,NE,KC,1,NE,KC 14,Q1,1 and 10,12:24,KC,Defensive Pass Interference,12,REG
+2017,NE,KC,1,NE,KC 20,Q1,3 and 11,9:53,KC,Defensive Offside,5,REG
+2017,NE,KC,1,NE,KC 17,Q1,1 and 10,1:10,KC,Defensive 12 On-field,5,REG
+2017,NE,KC,1,NE,NE 35,Q2,,,NE,Unnecessary Roughness,15,REG
+2017,NE,KC,1,NE,KC 5,Q2,2 and 5,7:42,KC,Defensive Holding,3,REG
+2017,NE,KC,1,KC,KC 29,Q2,4 and 17,3:57,KC,Interference with Opportunity to Catch,15,REG
+2017,NE,KC,1,NE,NE 44,Q2,4 and 6,2:55,KC,Offensive Holding,9,REG
+2017,NE,KC,1,KC,KC 8,Q2,1 and 10,2:47,KC,Offensive Holding,4,REG
+2017,NE,KC,1,KC,NE 21,Q2,1 and 10,:28,NE,Defensive Pass Interference,20,REG
+2017,NE,KC,1,KC,KC 35,Q3,1 and 10,14:23,KC,Offensive Holding,10,REG
+2017,NE,KC,1,NE,NE 26,Q3,4 and 12,9:37,KC,Unnecessary Roughness,15,REG
+2017,NE,KC,1,NE,NE 46,Q3,1 and 10,6:22,KC,Defensive Holding,5,REG
+2017,NE,KC,1,NE,KC 27,Q3,1 and 10,5:40,KC,Defensive Pass Interference,26,REG
+2017,NE,KC,1,KC,KC 13,Q3,1 and 10,4:56,KC,Taunting,10,REG
+2017,NE,KC,1,KC,KC 11,Q3,4 and 12,3:22,NE,Running Into the Kicker,5,REG
+2017,NE,KC,1,KC,KC 16,Q3,4 and 7,3:13,NE,Running Into the Kicker,5,REG
+2017,NE,KC,1,NE,KC 10,Q3,3 and 10,:20,NE,Illegal Forward Pass,5,REG
+2017,NE,KC,1,KC,KC 10,Q3,1 and 10,:04,KC,False Start,5,REG
+2017,NE,KC,1,KC,KC 49,Q4,4 and 1,10:46,KC,Delay of Game,5,REG
+2017,NE,KC,1,NE,NE 18,Q4,4 and 17,4:31,KC,Illegal Block Above the Waist,10,REG
+2017,NE,KC,1,KC,NE 38,Q4,3 and 6,2:32,NE,Defensive 12 On-field,5,REG
+2017,NO,NE,2,NE,NE 35,Q1,,,NE,Face Mask (15 Yards),15,REG
+2017,NO,NE,2,NO,NO 28,Q1,1 and 10,5:23,NO,Offensive Holding,10,REG
+2017,NO,NE,2,NO,NO 35,Q2,2 and 10,14:29,NE,Defensive Offside,5,REG
+2017,NO,NE,2,NO,NE 16,Q2,4 and 8,8:28,NE,Defensive Offside,5,REG
+2017,NO,NE,2,NO,NE 11,Q2,4 and 3,8:23,NO,Delay of Game,5,REG
+2017,NO,NE,2,NE,NE 36,Q2,1 and 10,1:38,NE,Offensive Holding,10,REG
+2017,NO,NE,2,NE,NE 27,Q3,3 and 5,9:36,NO,Defensive 12 On-field,5,REG
+2017,NO,NE,2,NE,NE 33,Q3,3 and 9,8:52,NO,Defensive Holding,5,REG
+2017,NO,NE,2,NE,NE 44,Q3,4 and 4,7:42,NE,Offensive 12 On-field,5,REG
+2017,NO,NE,2,NO,NO 38,Q3,2 and 5,:07,NO,Illegal Use of Hands,10,REG
+2017,NO,NE,2,NE,NO 3,Q4,1 and 3,11:17,NE,Illegal Shift,6,REG
+2017,NO,NE,2,NE,NO 9,Q4,1 and 9,11:13,NE,Offensive Holding,10,REG
+2017,NO,NE,2,NE,NO 18,Q4,3 and 8,2:00,NE,False Start,5,REG
+2017,NO,NE,2,NE,NO 30,Q4,4 and 20,1:11,NE,Delay of Game,5,REG
+2017,NE,HOU,3,NE,HOU 10,Q1,2 and 10,11:09,HOU,Defensive Holding,5,REG
+2017,NE,HOU,3,HOU,HOU 23,Q1,2 and 9,9:52,NE,Defensive Pass Interference,34,REG
+2017,NE,HOU,3,NE,HOU 45,Q2,3 and 13,15:00,HOU,Neutral Zone Infraction,5,REG
+2017,NE,HOU,3,NE,HOU 12,Q2,1 and 10,12:57,HOU,Defensive Holding,5,REG
+2017,NE,HOU,3,HOU,HOU 38,Q2,2 and 7,11:10,HOU,False Start,5,REG
+2017,NE,HOU,3,HOU,HOU 33,Q2,2 and 12,10:49,HOU,Offensive Holding,10,REG
+2017,NE,HOU,3,HOU,HOU 46,Q2,1 and 10,8:57,NE,Unnecessary Roughness,15,REG
+2017,NE,HOU,3,HOU,HOU 21,Q2,2 and 5,3:17,HOU,Illegal Formation,5,REG
+2017,NE,HOU,3,NE,NE 30,Q2,1 and 10,1:02,HOU,Defensive Holding,5,REG
+2017,NE,HOU,3,NE,NE 35,Q3,,,NE,Offside on Free Kick,5,REG
+2017,NE,HOU,3,HOU,HOU 39,Q3,2 and 17,10:09,HOU,Delay of Game,5,REG
+2017,NE,HOU,3,HOU,NE 17,Q3,2 and 7,7:28,NE,Illegal Contact,5,REG
+2017,NE,HOU,3,NE,NE 46,Q3,3 and 4,4:22,HOU,Defensive 12 On-field,5,REG
+2017,NE,HOU,3,HOU,HOU 33,Q4,1 and 10,5:55,HOU,Offensive Pass Interference,10,REG
+2017,NE,HOU,3,NE,NE 25,Q4,2 and 10,2:20,NE,Offensive Holding,10,REG
+2017,NE,CAR,4,NE,NE 41,Q1,3 and 5,5:40,NE,Offensive Pass Interference,10,REG
+2017,NE,CAR,4,NE,CAR 42,Q2,2 and 6,15:00,NE,Offensive Pass Interference,10,REG
+2017,NE,CAR,4,NE,NE 48,Q2,2 and 16,14:35,CAR,Defensive Pass Interference,33,REG
+2017,NE,CAR,4,CAR,NE 37,Q3,3 and 8,4:49,NE,Illegal Use of Hands,5,REG
+2017,NE,CAR,4,NE,NE 41,Q3,4 and 10,:57,NE,Interference with Opportunity to Catch,15,REG
+2017,NE,CAR,4,CAR,CAR 36,Q3,2 and 10,:43,NE,Defensive Offside,5,REG
+2017,NE,CAR,4,CAR,CAR 27,Q4,3 and 7,2:23,NE,Illegal Use of Hands,5,REG
+2017,NE,CAR,4,CAR,NE 41,Q4,1 and 10,:47,NE,Defensive Holding,5,REG
+2017,TB,NE,5,NE,NE 42,Q1,3 and 4,4:36,TB,Defensive Holding,5,REG
+2017,TB,NE,5,NE,TB 40,Q1,1 and 10,3:50,NE,Offensive Holding,10,REG
+2017,TB,NE,5,NE,TB 36,Q1,,3:28,TB,Defensive Holding,5,REG
+2017,TB,NE,5,TB,TB 26,Q1,4 and 9,:33,NE,Illegal Block Above the Waist,10,REG
+2017,TB,NE,5,NE,NE 29,Q2,4 and 4,13:55,NE,False Start,5,REG
+2017,TB,NE,5,TB,TB 32,Q2,1 and 10,13:38,TB,Illegal Block Above the Waist,10,REG
+2017,TB,NE,5,TB,NE 23,Q2,2 and 10,10:43,TB,Offensive Holding,10,REG
+2017,TB,NE,5,TB,NE 33,Q2,3 and 20,10:08,NE,Illegal Use of Hands,5,REG
+2017,TB,NE,5,NE,NE 43,Q2,1 and 10,7:58,NE,Illegal Peelback,15,REG
+2017,TB,NE,5,TB,TB 26,Q2,4 and 9,2:28,TB,Unsportsmanlike Conduct,15,REG
+2017,TB,NE,5,TB,TB 27,Q2,2 and 5,:09,NE,Roughing the Passer,15,REG
+2017,TB,NE,5,TB,TB 47,Q2,1 and 10,:02,NE,Roughing the Passer,15,REG
+2017,TB,NE,5,TB,TB 32,Q3,4 and 3,13:32,NE,Offensive Holding,7,REG
+2017,TB,NE,5,NE,TB 33,Q3,1 and 10,11:48,NE,Illegal Block Above the Waist,10,REG
+2017,TB,NE,5,NE,TB 38,Q3,2 and 15,10:50,TB,Illegal Contact,5,REG
+2017,TB,NE,5,TB,TB 33,Q3,4 and 2,9:11,NE,Neutral Zone Infraction,5,REG
+2017,TB,NE,5,NE,NE 13,Q3,2 and 7,6:18,NE,Offensive Pass Interference,6,REG
+2017,TB,NE,5,NE,NE 37,Q3,1 and 10,4:37,NE,Illegal Shift,5,REG
+2017,TB,NE,5,TB,NE 3,Q4,3 and 3,5:56,TB,Illegal Use of Hands,10,REG
+2017,TB,NE,5,TB,TB 35,Q4,,,TB,Offside on Free Kick,5,REG
+2017,TB,NE,5,TB,TB 49,Q4,1 and 10,:44,TB,False Start,5,REG
+2017,NYJ,NE,6,NE,NYJ 25,Q2,2 and 8,5:30,NYJ,Defensive Pass Interference,24,REG
+2017,NYJ,NE,6,NE,NE 43,Q2,1 and 10,1:38,NYJ,Unnecessary Roughness,15,REG
+2017,NYJ,NE,6,NYJ,NE 47,Q2,1 and 10,:53,NYJ,Illegal Use of Hands,10,REG
+2017,NYJ,NE,6,NE,NYJ 41,Q3,2 and 3,13:21,NE,Offensive Pass Interference,10,REG
+2017,NYJ,NE,6,NE,NE 44,Q3,2 and 8,3:38,NYJ,Defensive Holding,5,REG
+2017,NYJ,NE,6,NE,NYJ 21,Q3,2 and 3,1:14,NYJ,Illegal Use of Hands,5,REG
+2017,NYJ,NE,6,NE,NYJ 6,Q4,2 and 5,15:00,NE,Offensive Pass Interference,10,REG
+2017,NYJ,NE,6,NYJ,NYJ 40,Q4,1 and 10,12:59,NE,Defensive Holding,5,REG
+2017,NYJ,NE,6,NYJ,NE 12,Q4,3 and 1,8:59,NE,Defensive Holding,5,REG
+2017,NYJ,NE,6,NE,NE 20,Q4,1 and 10,8:24,NE,Offensive Holding,10,REG
+2017,NYJ,NE,6,NE,NE 20,Q4,4 and 7,2:05,NE,False Start,5,REG
+2017,NYJ,NE,6,NE,NE 15,Q4,4 and 12,2:05,NYJ,Illegal Block Above the Waist,10,REG
+2017,NE,ATL,7,NE,NE 21,Q1,2 and 10,14:24,ATL,Defensive Holding,5,REG
+2017,NE,ATL,7,NE,NE 26,Q1,1 and 10,14:19,NE,Illegal Block Above the Waist,10,REG
+2017,NE,ATL,7,NE,NE 36,Q1,1 and 10,12:50,ATL,Defensive 12 On-field,5,REG
+2017,NE,ATL,7,NE,NE 43,Q1,2 and 3,11:51,NE,Offensive Holding,10,REG
+2017,NE,ATL,7,NE,NE 38,Q1,4 and 8,11:04,ATL,Neutral Zone Infraction,5,REG
+2017,NE,ATL,7,ATL,ATL 28,Q1,4 and 2,9:43,NE,Offensive Holding,10,REG
+2017,NE,ATL,7,NE,NE 20,Q1,2 and 17,8:52,NE,Offensive Pass Interference,10,REG
+2017,NE,ATL,7,NE,NE 25,Q2,3 and 11,15:00,NE,False Start,5,REG
+2017,NE,ATL,7,NE,ATL 31,Q2,2 and 6,13:27,ATL,Roughing the Passer,15,REG
+2017,NE,ATL,7,NE,ATL 44,Q2,3 and 3,8:05,NE,False Start,5,REG
+2017,NE,ATL,7,NE,ATL 11,Q2,1 and 10,:36,ATL,Illegal Use of Hands,5,REG
+2017,NE,ATL,7,NE,NE 26,Q3,1 and 10,10:35,NE,False Start,5,REG
+2017,NE,ATL,7,NE,PENALTY ,Q4,,12:12,ATL,Encroachment,5,REG
+2017,NE,ATL,7,NE,ATL 24,Q4,1 and 10,10:52,NE,Offensive Holding,10,REG
+2017,NE,LAC,8,LAC,NE 42,Q1,2 and 10,10:43,LAC,False Start,5,REG
+2017,NE,LAC,8,NE,LAC 34,Q1,3 and 4,3:23,LAC,Defensive 12 On-field,5,REG
+2017,NE,LAC,8,LAC,LAC 15,Q2,1 and 10,14:52,LAC,Offensive Pass Interference,7,REG
+2017,NE,LAC,8,LAC,LAC 24,Q2,4 and 1,12:51,NE,Illegal Block Above the Waist,10,REG
+2017,NE,LAC,8,NE,NE 21,Q2,2 and 1,12:12,NE,Offensive Holding,10,REG
+2017,NE,LAC,8,LAC,LAC 35,Q3,,,LAC,Offside on Free Kick,5,REG
+2017,NE,LAC,8,LAC,NE 42,Q3,1 and 10,13:28,LAC,Illegal Touch Pass,0,REG
+2017,NE,LAC,8,LAC,NE 41,Q3,3 and 3,2:48,LAC,Offensive Pass Interference,10,REG
+2017,NE,LAC,8,NE,NE 45,Q4,2 and 10,15:00,NE,Illegal Block Above the Waist,10,REG
+2017,NE,LAC,8,LAC,LAC 33,Q4,1 and 10,9:36,NE,Defensive Pass Interference,30,REG
+2017,NE,LAC,8,NE,NE 48,Q4,4 and 6,7:10,LAC,Illegal Block Above the Waist,9,REG
+2017,NE,LAC,8,NE,NE 34,Q4,1 and 10,4:41,LAC,Face Mask (15 Yards),15,REG
+2017,NE,LAC,8,NE,LAC 36,Q4,2 and 5,3:47,NE,Clipping,15,REG
+2017,NE,LAC,8,NE,LAC 20,Q4,3 and 5,3:21,LAC,Neutral Zone Infraction,4,REG
+2017,NE,LAC,8,LAC,LAC 36,Q4,2 and 10,:36,NE,Neutral Zone Infraction,5,REG
+2017,DEN,NE,10,NE,DEN 5,Q2,2 and 5,15:00,DEN,Defensive Pass Interference,3,REG
+2017,DEN,NE,10,DEN,DEN 35,Q2,3 and 6,12:18,NE,Defensive Holding,5,REG
+2017,DEN,NE,10,NE,DEN 38,Q2,1 and 10,1:16,DEN,Defensive Holding,5,REG
+2017,DEN,NE,10,DEN,NE 8,Q3,1 and 8,9:09,DEN,Offensive Holding,10,REG
+2017,DEN,NE,10,NE,NE 49,Q4,1 and 10,13:38,DEN,Illegal Contact,5,REG
+2017,DEN,NE,10,NE,DEN 41,Q4,4 and 5,12:23,DEN,Defensive 12 On-field,5,REG
+2017,OAK,NE,11,NE,OAK 24,Q1,3 and 6,5:04,OAK,Defensive Holding,5,REG
+2017,OAK,NE,11,OAK,OAK 36,Q1,1 and 10,2:58,OAK,False Start,5,REG
+2017,OAK,NE,11,NE,NE 33,Q2,3 and 5,15:00,OAK,Encroachment,5,REG
+2017,OAK,NE,11,OAK,NE 42,Q2,3 and 9,10:15,OAK,Offensive Pass Interference,10,REG
+2017,OAK,NE,11,OAK,OAK 39,Q3,4 and 6,4:55,NE,Running Into the Kicker,5,REG
+2017,OAK,NE,11,NE,OAK 32,Q3,1 and 10,4:01,OAK,Illegal Use of Hands,5,REG
+2017,OAK,NE,11,OAK,NE 35,Q4,1 and 10,14:11,NE,Defensive Holding,5,REG
+2017,OAK,NE,11,OAK,NE 30,Q4,1 and 10,13:40,OAK,Unsportsmanlike Conduct,15,REG
+2017,OAK,NE,11,NE,OAK 42,Q4,2 and 7,9:57,OAK,Roughing the Passer,15,REG
+2017,OAK,NE,11,OAK,NE 20,Q4,2 and 2,3:22,OAK,False Start,6,REG
+2017,NE,MIA,12,MIA,MIA 26,Q1,1 and 10,5:28,MIA,Illegal Block Above the Waist,10,REG
+2017,NE,MIA,12,NE,NE 32,Q2,1 and 10,14:09,NE,False Start,5,REG
+2017,NE,MIA,12,NE,NE 30,Q2,3 and 2,12:48,MIA,Defensive Holding,5,REG
+2017,NE,MIA,12,NE,NE 39,Q2,2 and 6,12:22,MIA,Defensive Holding,5,REG
+2017,NE,MIA,12,NE,NE 45,Q2,3 and 9,10:56,NE,False Start,5,REG
+2017,NE,MIA,12,MIA,NE 44,Q2,2 and 8,5:04,NE,Defensive Pass Interference,34,REG
+2017,NE,MIA,12,NE,NE 48,Q3,2 and 10,12:36,MIA,Face Mask (15 Yards),15,REG
+2017,NE,MIA,12,NE,MIA 29,Q3,3 and 2,11:24,MIA,Disqualification,12,REG
+2017,NE,MIA,12,NE,MIA 40,Q3,3 and 5,7:20,MIA,Neutral Zone Infraction,5,REG
+2017,NE,MIA,12,NE,MIA 29,Q3,3 and 4,5:38,NE,False Start,5,REG
+2017,NE,MIA,12,NE,MIA 34,Q3,4 and 9,5:13,NE,Delay of Game,5,REG
+2017,NE,MIA,12,NE,MIA 49,Q3,2 and 13,2:38,NE,Offensive Pass Interference,11,REG
+2017,NE,MIA,12,NE,MIA 15,Q4,,,NE,Delay of Game,5,REG
+2017,BUF,NE,13,NE,NE 47,Q1,2 and 10,3:38,NE,Illegal Block Above the Waist,10,REG
+2017,BUF,NE,13,BUF,BUF 27,Q2,2 and 10,10:49,BUF,Offensive Holding,10,REG
+2017,BUF,NE,13,NE,BUF 20,Q2,3 and 13,:25,NE,False Start,5,REG
+2017,BUF,NE,13,NE,NE 30,Q3,1 and 10,14:54,NE,Offensive Pass Interference,10,REG
+2017,BUF,NE,13,NE,BUF 26,Q3,1 and 10,11:07,NE,False Start,5,REG
+2017,BUF,NE,13,BUF,BUF 19,Q3,1 and 10,8:55,BUF,Illegal Use of Hands,9,REG
+2017,BUF,NE,13,BUF,BUF 18,Q3,4 and 25,5:54,NE,Offensive Holding,10,REG
+2017,BUF,NE,13,BUF,BUF 39,Q4,3 and 10,12:21,NE,Defensive Holding,5,REG
+2017,BUF,NE,13,NE,NE 33,Q4,1 and 10,6:41,NE,Offensive Holding,10,REG
+2017,BUF,NE,13,NE,NE 41,Q4,3 and 2,5:01,NE,False Start,5,REG
+2017,BUF,NE,13,NE,NE 36,Q4,3 and 7,4:50,BUF,Unsportsmanlike Conduct,15,REG
+2017,BUF,NE,13,NE,BUF 47,Q4,2 and 12,2:53,NE,False Start,6,REG
+2017,MIA,NE,14,MIA,MIA 29,Q1,1 and 10,2:47,NE,Neutral Zone Infraction,5,REG
+2017,MIA,NE,14,MIA,MIA 40,Q1,2 and 10,2:09,NE,Defensive Pass Interference,8,REG
+2017,MIA,NE,14,MIA,MIA 48,Q1,1 and 10,2:05,MIA,Offensive Holding,10,REG
+2017,MIA,NE,14,NE,MIA 43,Q2,2 and 2,8:48,NE,False Start,5,REG
+2017,MIA,NE,14,NE,MIA 23,Q2,3 and 5,6:29,MIA,Defensive Pass Interference,20,REG
+2017,MIA,NE,14,MIA,NE 16,Q2,1 and 10,5:12,MIA,Offensive Holding,10,REG
+2017,MIA,NE,14,NE,NE 24,Q3,3 and 6,9:35,MIA,Neutral Zone Infraction,5,REG
+2017,MIA,NE,14,MIA,MIA 27,Q3,3 and 1,7:50,NE,Defensive Pass Interference,21,REG
+2017,MIA,NE,14,NE,NE 15,Q3,3 and 10,4:30,MIA,Defensive Pass Interference,17,REG
+2017,MIA,NE,14,MIA,MIA 20,Q3,4 and 15,:46,MIA,Unsportsmanlike Conduct,15,REG
+2017,MIA,NE,14,MIA,MIA 17,Q4,3 and 11,12:08,NE,Neutral Zone Infraction,5,REG
+2017,MIA,NE,14,MIA,MIA 22,Q4,4 and 6,12:00,NE,Offensive Holding,10,REG
+2017,MIA,NE,14,NE,NE 15,Q4,4 and 10,10:34,MIA,Illegal Block Above the Waist,10,REG
+2017,MIA,NE,14,NE,NE 22,Q4,1 and 10,5:17,NE,Offensive Holding,10,REG
+2017,MIA,NE,14,NE,MIA 39,Q4,1 and 10,2:00,MIA,Roughing the Passer,15,REG
+2017,MIA,NE,14,NE,MIA 1,Q4,1 and 1,1:24,NE,Illegal Motion,4,REG
+2017,MIA,NE,14,NE,MIA 5,Q4,2 and 5,1:12,NE,Offensive Holding,10,REG
+2017,PIT,NE,15,PIT,PIT 38,Q1,2 and 5,13:34,PIT,Offensive Holding,10,REG
+2017,PIT,NE,15,NE,NE 45,Q1,3 and 1,10:23,PIT,Defensive Offside,5,REG
+2017,PIT,NE,15,PIT,NE 17,Q2,1 and 10,14:16,PIT,Offensive Pass Interference,10,REG
+2017,PIT,NE,15,NE,PIT 16,Q3,3 and 1,11:00,NE,False Start,4,REG
+2017,PIT,NE,15,PIT,PIT 38,Q4,1 and 10,10:17,PIT,Offensive Holding,10,REG
+2017,PIT,NE,15,PIT,PIT 30,Q4,2 and 18,9:29,PIT,False Start,5,REG
+2017,PIT,NE,15,NE,PIT 44,Q4,2 and 3,5:10,NE,Illegal Touch Pass,0,REG
+2017,PIT,NE,15,NE,PIT 44,Q4,3 and 3,4:50,PIT,Defensive Pass Interference,23,REG
+2017,NE,BUF,16,NE,NE 25,Q2,1 and 10,3:45,BUF,Defensive Pass Interference,44,REG
+2017,NE,BUF,16,BUF,NE 9,Q2,1 and 9,:13,NE,Encroachment,5,REG
+2017,NE,BUF,16,BUF,BUF 40,Q3,1 and 10,14:36,BUF,Offensive Holding,10,REG
+2017,NE,BUF,16,NE,BUF 30,Q3,1 and 10,1:27,BUF,Defensive Pass Interference,29,REG
+2017,NE,BUF,16,NE,BUF 1,Q3,1 and 1,1:19,BUF,Defensive 12 On-field,0,REG
+2017,NE,BUF,16,BUF,BUF 29,Q4,3 and 6,3:47,NE,Defensive Holding,5,REG
+2017,NE,NYJ,17,NYJ,NYJ 13,Q1,1 and 10,9:27,NYJ,False Start,5,REG
+2017,NE,NYJ,17,NE,NE 48,Q1,2 and 7,5:59,NYJ,Defensive Holding,5,REG
+2017,NE,NYJ,17,NYJ,NYJ 14,Q2,2 and 10,15:00,NE,Roughing the Passer,15,REG
+2017,NE,NYJ,17,NE,NE 27,Q2,3 and 10,8:24,NYJ,Defensive Holding,5,REG
+2017,NE,NYJ,17,NE,NE 44,Q2,2 and 8,6:13,NYJ,Defensive Pass Interference,39,REG
+2017,NE,NYJ,17,NE,NYJ 36,Q2,1 and 10,1:02,NYJ,Encroachment,5,REG
+2017,NE,NYJ,17,NE,NYJ 31,Q2,3 and 5,:51,NYJ,Defensive Holding,5,REG
+2017,NE,NYJ,17,NYJ,NYJ 38,Q3,4 and 3,13:02,NE,Illegal Block Above the Waist,9,REG
+2017,NE,NYJ,17,NE,NE 16,Q3,4 and 12,9:35,NYJ,Illegal Block Above the Waist,10,REG
+2017,NE,NYJ,17,NE,NYJ 24,Q4,3 and 7,13:43,NE,Intentional Grounding,10,REG
+2017,NE,NYJ,17,NYJ,NYJ 4,Q4,1 and 10,13:31,NE,Unnecessary Roughness,15,REG
+2017,NE,NYJ,17,NE,NE 29,Q4,3 and 9,9:42,NYJ,Illegal Use of Hands,5,REG
+2017,NE,NYJ,17,NE,NE 34,Q4,4 and 5,4:40,NYJ,Defensive 12 On-field,5,REG
+2018,NE,HOU,1,NE,HOU 16,Q1,3 and 7,12:09,NE,False Start,5,REG
+2018,NE,HOU,1,NE,NE 15,Q1,3 and 1,4:25,NE,Illegal Shift,5,REG
+2018,NE,HOU,1,NE,NE 41,Q1,2 and 4,1:19,HOU,Defensive Pass Interference,14,REG
+2018,NE,HOU,1,HOU,HOU 47,Q2,2 and 8,2:00,HOU,False Start,5,REG
+2018,NE,HOU,1,HOU,HOU 42,Q2,2 and 13,2:00,HOU,Illegal Block Above the Waist,10,REG
+2018,NE,HOU,1,NE,NE 35,Q2,,,NE,Illegal Formation,5,REG
+2018,NE,HOU,1,NE,HOU 41,Q3,3 and 5,7:22,HOU,Defensive Holding,5,REG
+2018,NE,HOU,1,HOU,NE 3,Q3,1 and 3,2:13,HOU,False Start,5,REG
+2018,NE,HOU,1,HOU,NE 17,Q4,2 and 11,3:58,NE,Defensive Holding,5,REG
+2018,NE,HOU,1,HOU,NE 5,Q4,1 and 5,3:50,HOU,False Start,5,REG
+2018,NE,HOU,1,HOU,NE 2,Q4,3 and 2,3:01,NE,Defensive Holding,1,REG
+2018,NE,HOU,1,HOU,HOU 1,Q4,2 and 10,:38,NE,Unnecessary Roughness,15,REG
+2018,JAX,NE,2,JAX,JAX 29,Q1,1 and 10,4:50,JAX,False Start,5,REG
+2018,JAX,NE,2,JAX,NE 42,Q2,3 and 7,12:23,JAX,Illegal Use of Hands,10,REG
+2018,JAX,NE,2,NE,JAX 28,Q2,2 and 5,4:14,JAX,Lowering the Head to Initiate Contact,11,REG
+2018,JAX,NE,2,JAX,JAX 35,Q3,,,NE,Illegal Block Above the Waist,10,REG
+2018,JAX,NE,2,NE,JAX 15,Q3,,,JAX,Unnecessary Roughness,15,REG
+2018,JAX,NE,2,NE,NE 35,Q4,,,JAX,Illegal Block Above the Waist,10,REG
+2018,JAX,NE,2,JAX,NE 43,Q4,4 and 1,9:47,JAX,False Start,5,REG
+2018,JAX,NE,2,JAX,NE 15,Q4,,,NE,Leverage,15,REG
+2018,JAX,NE,2,NE,JAX 15,Q4,,,JAX,Leverage,15,REG
+2018,DET,NE,3,DET,DET 48,Q1,2 and 2,4:18,DET,Offensive Holding,10,REG
+2018,DET,NE,3,NE,NE 33,Q2,4 and 2,12:41,DET,Illegal Block Above the Waist,10,REG
+2018,DET,NE,3,DET,DET 41,Q2,1 and 10,10:16,NE,Defensive Holding,5,REG
+2018,DET,NE,3,DET,DET 46,Q2,1 and 10,10:08,NE,Defensive Too Many Men on Field,5,REG
+2018,DET,NE,3,NE,DET 40,Q3,1 and 10,13:09,DET,Face Mask (15 Yards),15,REG
+2018,DET,NE,3,NE,DET 23,Q3,1 and 10,12:44,NE,Offensive Holding,10,REG
+2018,DET,NE,3,NE,NE 21,Q4,1 and 10,12:37,NE,Intentional Grounding,10,REG
+2018,DET,NE,3,NE,NE 20,Q4,4 and 11,11:14,DET,Illegal Block Above the Waist,10,REG
+2018,DET,NE,3,NE,NE 43,Q4,2 and 8,7:39,DET,Illegal Blindside Block,15,REG
+2018,DET,NE,3,DET,DET 45,Q4,3 and 8,5:02,DET,Offensive Holding,10,REG
+2018,DET,NE,3,DET,DET 35,Q4,,,NE,Illegal Block Above the Waist,8,REG
+2018,NE,MIA,4,MIA,NE 47,Q1,,13:44,MIA,Offensive Holding,10,REG
+2018,NE,MIA,4,NE,NE 29,Q1,3 and 5,10:57,MIA,Defensive Holding,5,REG
+2018,NE,MIA,4,NE,MIA 30,Q1,1 and 10,9:11,MIA,Defensive Offside,5,REG
+2018,NE,MIA,4,MIA,MIA 25,Q1,3 and 10,4:36,NE,Defensive Holding,5,REG
+2018,NE,MIA,4,MIA,MIA 38,Q1,3 and 8,:06,MIA,False Start,5,REG
+2018,NE,MIA,4,NE,NE 36,Q2,3 and 7,13:25,MIA,Illegal Contact,5,REG
+2018,NE,MIA,4,MIA,MIA 38,Q2,1 and 10,11:57,NE,Defensive Pass Interference,12,REG
+2018,NE,MIA,4,NE,NE 37,Q2,1 and 10,9:41,NE,Tripping,10,REG
+2018,NE,MIA,4,NE,NE 45,Q2,4 and 2,8:07,NE,Delay of Game,5,REG
+2018,NE,MIA,4,MIA,MIA 25,Q2,1 and 10,7:29,MIA,Unnecessary Roughness,12,REG
+2018,NE,MIA,4,MIA,MIA 20,Q2,4 and 15,5:58,NE,Unnecessary Roughness,15,REG
+2018,NE,MIA,4,NE,MIA 18,Q2,2 and 7,:48,MIA,Defensive Offside,5,REG
+2018,NE,MIA,4,MIA,MIA 40,Q3,1 and 10,14:06,MIA,Offensive Holding,10,REG
+2018,NE,MIA,4,MIA,MIA 29,Q3,4 and 21,11:59,MIA,Unsportsmanlike Conduct,15,REG
+2018,NE,MIA,4,NE,NE 41,Q3,1 and 10,11:50,NE,Offensive Holding,10,REG
+2018,NE,MIA,4,NE,NE 40,Q3,3 and 6,2:19,MIA,Defensive Pass Interference,17,REG
+2018,NE,IND,5,NE,IND 18,Q1,1 and 10,11:28,NE,False Start,5,REG
+2018,NE,IND,5,NE,IND 37,Q2,1 and 10,14:21,IND,Roughing the Passer,15,REG
+2018,NE,IND,5,IND,IND 26,Q2,2 and 6,7:29,IND,False Start,5,REG
+2018,NE,IND,5,IND,IND 25,Q2,3 and 7,6:34,IND,Offensive Holding,10,REG
+2018,NE,IND,5,IND,IND 12,Q2,4 and 20,5:35,NE,Illegal Block Above the Waist,10,REG
+2018,NE,IND,5,NE,IND 6,Q2,1 and 6,1:48,NE,Offensive Holding,10,REG
+2018,NE,IND,5,NE,NE 35,Q2,,,IND,Illegal Formation,5,REG
+2018,NE,IND,5,NE,NE 40,Q2,,,NE,Illegal Formation,5,REG
+2018,NE,IND,5,NE,IND 27,Q2,3 and 4,:22,NE,False Start,5,REG
+2018,NE,IND,5,NE,IND 15,Q3,1 and 10,3:08,NE,Offensive Holding,10,REG
+2018,NE,IND,5,IND,NE 24,Q4,1 and 10,4:07,NE,Illegal Contact,5,REG
+2018,NE,KC,6,NE,NE 25,Q1,1 and 10,9:05,KC,Defensive Holding,5,REG
+2018,NE,KC,6,KC,NE 42,Q2,1 and 10,10:10,KC,False Start,5,REG
+2018,NE,KC,6,NE,KC 38,Q2,2 and 8,3:34,KC,Defensive Pass Interference,37,REG
+2018,NE,KC,6,NE,KC 2,Q2,2 and 2,2:53,KC,Neutral Zone Infraction,1,REG
+2018,NE,KC,6,KC,KC 35,Q2,1 and 10,1:28,KC,Illegal Use of Hands,10,REG
+2018,CHI,NE,7,CHI,NE 13,Q2,2 and 10,12:14,NE,Defensive Holding,5,REG
+2018,CHI,NE,7,CHI,NE 5,Q2,3 and 5,11:18,NE,Illegal Use of Hands,3,REG
+2018,CHI,NE,7,NE,NE 35,Q2,,,NE,Delay of Game,5,REG
+2018,CHI,NE,7,CHI,CHI 25,Q2,2 and 10,10:42,CHI,False Start,5,REG
+2018,CHI,NE,7,NE,NE 24,Q2,4 and 3,:22,NE,Unsportsmanlike Conduct,15,REG
+2018,CHI,NE,7,NE,NE 35,Q3,,,NE,Face Mask (15 Yards),15,REG
+2018,CHI,NE,7,CHI,NE 1,Q3,1 and 1,13:04,CHI,Illegal Formation,5,REG
+2018,CHI,NE,7,NE,NE 33,Q3,2 and 2,11:41,CHI,Face Mask (15 Yards),15,REG
+2018,CHI,NE,7,CHI,CHI 27,Q3,2 and 8,7:03,NE,Defensive Pass Interference,16,REG
+2018,CHI,NE,7,NE,NE 38,Q3,4 and 3,1:30,CHI,Offensive Holding,10,REG
+2018,CHI,NE,7,CHI,CHI 14,Q3,1 and 10,1:24,CHI,False Start,5,REG
+2018,CHI,NE,7,CHI,NE 16,Q4,1 and 10,4:23,NE,Illegal Use of Hands,5,REG
+2018,BUF,NE,8,NE,BUF 38,Q2,2 and 10,14:16,NE,False Start,5,REG
+2018,BUF,NE,8,NE,NE 35,Q2,,,NE,Illegal Formation,5,REG
+2018,BUF,NE,8,NE,NE 45,Q2,2 and 3,9:46,BUF,Defensive Holding,5,REG
+2018,BUF,NE,8,NE,NE 35,Q3,,,BUF,Unnecessary Roughness,11,REG
+2018,BUF,NE,8,BUF,BUF 18,Q3,3 and 3,13:36,BUF,Illegal Blindside Block,15,REG
+2018,BUF,NE,8,BUF,NE 44,Q3,4 and 15,11:26,BUF,False Start,5,REG
+2018,BUF,NE,8,BUF,NE 49,Q3,4 and 20,11:26,NE,Unnecessary Roughness,4,REG
+2018,BUF,NE,8,NE,NE 39,Q3,1 and 10,6:23,NE,Offensive Pass Interference,10,REG
+2018,BUF,NE,8,NE,NE 18,Q4,2 and 7,14:27,NE,Offensive Holding,9,REG
+2018,BUF,NE,8,BUF,BUF 25,Q4,1 and 10,9:58,BUF,Offensive Holding,10,REG
+2018,BUF,NE,8,BUF,NE 25,Q4,3 and 10,6:09,BUF,False Start,5,REG
+2018,NE,GB,9,GB,GB 35,Q1,,,GB,Offside on Free Kick,5,REG
+2018,NE,GB,9,GB,NE 48,Q1,3 and 7,8:53,NE,Neutral Zone Infraction,5,REG
+2018,NE,GB,9,GB,NE 14,Q1,1 and 10,6:00,NE,Defensive Holding,5,REG
+2018,NE,GB,9,GB,NE 9,Q1,2 and 9,5:51,GB,Delay of Game,5,REG
+2018,NE,GB,9,NE,NE 12,Q1,1 and 10,:14,GB,Defensive Holding,5,REG
+2018,NE,GB,9,GB,NE 29,Q2,2 and 8,7:10,NE,Defensive Too Many Men on Field,5,REG
+2018,NE,GB,9,NE,NE 45,Q2,1 and 10,3:21,GB,Disqualification,15,REG
+2018,NE,GB,9,GB,NE 5,Q3,1 and 5,11:58,GB,Offensive Holding,10,REG
+2018,NE,GB,9,NE,GB 9,Q3,3 and 9,8:09,GB,Defensive Pass Interference,8,REG
+2018,NE,GB,9,GB,GB 4,Q3,4 and 7,5:25,NE,Offensive Holding,10,REG
+2018,NE,GB,9,NE,NE 27,Q3,4 and 21,4:27,GB,Roughing the Kicker,15,REG
+2018,NE,GB,9,GB,GB 31,Q4,3 and 4,6:33,NE,Defensive Too Many Men on Field,5,REG
+2018,TEN,NE,10,TEN,TEN 34,Q1,1 and 10,8:38,NE,Defensive Pass Interference,16,REG
+2018,TEN,NE,10,TEN,NE 39,Q1,1 and 10,8:01,TEN,Face Mask (15 Yards),15,REG
+2018,TEN,NE,10,NE,TEN 39,Q2,3 and 9,9:57,TEN,Defensive Offside,5,REG
+2018,TEN,NE,10,NE,NE 13,Q2,4 and 6,5:39,NE,Ineligible Downfield Kick,5,REG
+2018,TEN,NE,10,TEN,NE 20,Q2,2 and 9,2:47,TEN,False Start,5,REG
+2018,TEN,NE,10,TEN,NE 49,Q3,1 and 10,6:53,TEN,Offensive Holding,10,REG
+2018,TEN,NE,10,NE,TEN 37,Q4,4 and 1,11:11,NE,False Start,5,REG
+2018,TEN,NE,10,NE,NE 18,Q4,2 and 11,6:31,NE,False Start,5,REG
+2018,NYJ,NE,12,NYJ,NYJ 49,Q1,2 and 6,12:46,NYJ,Offensive Holding,10,REG
+2018,NYJ,NE,12,NYJ,NE 41,Q1,3 and 7,5:39,NE,Roughing the Passer,15,REG
+2018,NYJ,NE,12,NYJ,NE 15,Q1,,,NE,Unnecessary Roughness,15,REG
+2018,NYJ,NE,12,NE,NYJ 24,Q1,3 and 2,1:22,NE,Offensive Pass Interference,10,REG
+2018,NYJ,NE,12,NE,NE 28,Q2,1 and 10,12:42,NE,Offensive Holding,10,REG
+2018,NYJ,NE,12,NE,NE 36,Q2,2 and 2,11:33,NE,False Start,5,REG
+2018,NYJ,NE,12,NE,NE 31,Q2,2 and 7,11:08,NYJ,Illegal Use of Hands,5,REG
+2018,NYJ,NE,12,NE,NE 47,Q2,3 and 3,9:29,NE,Chop Block,15,REG
+2018,NYJ,NE,12,NYJ,NYJ 17,Q2,1 and 10,8:57,NYJ,False Start,5,REG
+2018,NYJ,NE,12,NYJ,NYJ 12,Q2,1 and 15,8:57,NYJ,False Start,5,REG
+2018,NYJ,NE,12,NE,NE 42,Q2,1 and 10,6:53,NE,Illegal Motion,5,REG
+2018,NYJ,NE,12,NE,NYJ 20,Q3,1 and 10,11:18,NE,Offensive Holding,10,REG
+2018,NYJ,NE,12,NE,NYJ 9,Q3,4 and 9,8:37,NE,False Start,5,REG
+2018,NYJ,NE,12,NYJ,NE 39,Q3,2 and 10,5:52,NE,Defensive Holding,5,REG
+2018,NYJ,NE,12,NYJ,NE 42,Q3,1 and 10,:04,NYJ,Offensive Holding,10,REG
+2018,NYJ,NE,12,NE,NYJ 30,Q4,1 and 10,11:40,NYJ,Encroachment,5,REG
+2018,NYJ,NE,12,NE,NYJ 19,Q4,1 and 10,10:06,NYJ,Roughing the Passer,2,REG
+2018,NYJ,NE,12,NYJ,NYJ 29,Q4,4 and 6,7:38,NE,Offensive Holding,10,REG
+2018,NYJ,NE,12,NE,NE 31,Q4,1 and 10,1:02,NYJ,Encroachment,5,REG
+2018,NE,MIN,13,NE,NE 19,Q1,1 and 10,13:25,NE,False Start,5,REG
+2018,NE,MIN,13,MIN,NE 45,Q2,2 and 7,4:25,MIN,Offensive Holding,10,REG
+2018,NE,MIN,13,MIN,MIN 22,Q3,4 and 5,12:48,NE,Offensive Holding,10,REG
+2018,NE,MIN,13,NE,NE 24,Q3,1 and 10,12:37,NE,False Start,5,REG
+2018,NE,MIN,13,NE,MIN 31,Q3,2 and 5,10:23,NE,Offensive Holding,10,REG
+2018,NE,MIN,13,NE,MIN 25,Q3,1 and 10,8:20,NE,Offensive Holding,10,REG
+2018,NE,MIN,13,MIN,MIN 38,Q3,1 and 10,6:21,MIN,Offensive Holding,10,REG
+2018,NE,MIN,13,NE,PENALTY ,Q4,,14:06,MIN,Defensive Pass Interference,20,REG
+2018,NE,MIN,13,MIN,NE 47,Q4,2 and 10,7:40,MIN,Offensive Holding,10,REG
+2018,NE,MIN,13,NE,NE 20,Q4,1 and 10,4:41,MIN,Illegal Use of Hands,5,REG
+2018,NE,MIN,13,NE,NE 40,Q4,2 and 5,2:23,NE,Offensive Holding,10,REG
+2018,NE,MIN,13,NE,MIN 36,Q4,1 and 10,1:54,NE,Offensive Holding,10,REG
+2018,MIA,NE,14,MIA,MIA 32,Q1,2 and 6,2:39,NE,Defensive Holding,5,REG
+2018,MIA,NE,14,NE,NE 42,Q2,2 and 10,11:59,MIA,Illegal Use of Hands,5,REG
+2018,MIA,NE,14,MIA,MIA 23,Q2,4 and 12,2:00,NE,Neutral Zone Infraction,5,REG
+2018,MIA,NE,14,MIA,MIA 39,Q3,1 and 10,12:34,MIA,Illegal Use of Hands,10,REG
+2018,MIA,NE,14,NE,NE 30,Q3,3 and 2,9:23,MIA,Defensive Holding,5,REG
+2018,MIA,NE,14,MIA,MIA 32,Q3,1 and 10,6:21,NE,Defensive Holding,5,REG
+2018,MIA,NE,14,NE,NE 46,Q3,2 and 10,1:12,NE,False Start,5,REG
+2018,MIA,NE,14,MIA,MIA 35,Q4,1 and 10,12:52,MIA,Offensive Pass Interference,10,REG
+2018,MIA,NE,14,NE,MIA 48,Q4,1 and 10,9:51,MIA,Defensive Holding,5,REG
+2018,MIA,NE,14,NE,NE 27,Q4,1 and 10,4:26,MIA,Defensive Too Many Men on Field,5,REG
+2018,MIA,NE,14,NE,NE 39,Q4,1 and 10,3:02,NE,Offensive Holding,10,REG
+2018,MIA,NE,14,NE,MIA 48,Q4,2 and 10,1:56,MIA,Defensive Pass Interference,41,REG
+2018,PIT,NE,15,PIT,NE 29,Q1,2 and 6,11:42,NE,Defensive Offside,5,REG
+2018,PIT,NE,15,NE,NE 32,Q1,3 and 1,7:24,PIT,Defensive Too Many Men on Field,5,REG
+2018,PIT,NE,15,NE,PIT 15,Q1,,,NE,Delay of Game,5,REG
+2018,PIT,NE,15,PIT,PIT 8,Q1,1 and 10,1:18,PIT,Offensive Holding,4,REG
+2018,PIT,NE,15,PIT,NE 43,Q2,2 and 4,12:12,NE,Defensive Pass Interference,26,REG
+2018,PIT,NE,15,NE,NE 44,Q2,2 and 7,10:33,NE,Offensive Holding,10,REG
+2018,PIT,NE,15,NE,NE 37,Q2,2 and 4,1:32,NE,False Start,5,REG
+2018,PIT,NE,15,NE,NE 40,Q2,4 and 1,:32,NE,Ineligible Downfield Kick,5,REG
+2018,PIT,NE,15,PIT,NE 4,Q3,2 and 4,8:49,PIT,Intentional Grounding,10,REG
+2018,PIT,NE,15,NE,NE 35,Q3,1 and 10,7:25,NE,False Start,5,REG
+2018,PIT,NE,15,NE,NE 30,Q3,1 and 15,7:17,NE,Illegal Formation,5,REG
+2018,PIT,NE,15,NE,NE 29,Q3,3 and 16,5:29,PIT,Defensive Pass Interference,21,REG
+2018,PIT,NE,15,NE,PIT 10,Q3,4 and 1,:34,NE,False Start,5,REG
+2018,PIT,NE,15,NE,PIT 13,Q4,2 and 8,10:29,NE,False Start,5,REG
+2018,PIT,NE,15,NE,PIT 5,Q4,1 and 5,8:54,NE,Offensive Holding,10,REG
+2018,PIT,NE,15,PIT,PIT 46,Q4,1 and 10,2:58,NE,Defensive Holding,5,REG
+2018,PIT,NE,15,NE,NE 40,Q4,1 and 10,2:00,NE,False Start,5,REG
+2018,PIT,NE,15,NE,PIT 11,Q4,2 and 5,:37,NE,Offensive Holding,10,REG
+2018,NE,BUF,16,BUF,BUF 24,Q1,4 and 8,5:50,NE,Unnecessary Roughness,9,REG
+2018,NE,BUF,16,NE,PENALTY ,Q1,,2:01,NE,False Start,5,REG
+2018,NE,BUF,16,BUF,BUF 33,Q2,4 and 3,12:29,BUF,Illegal Block Above the Waist,10,REG
+2018,NE,BUF,16,NE,NE 17,Q3,2 and 5,12:53,NE,Offensive Holding,8,REG
+2018,NE,BUF,16,BUF,BUF 41,Q3,1 and 10,11:16,NE,Defensive Pass Interference,17,REG
+2018,NE,BUF,16,NE,NE 46,Q3,1 and 10,7:35,NE,Offensive Holding,10,REG
+2018,NE,BUF,16,NE,NE 25,Q3,2 and 10,:52,BUF,Defensive Pass Interference,9,REG
+2018,NE,BUF,16,BUF,BUF 25,Q4,1 and 10,7:44,BUF,Offensive Holding,10,REG
+2018,NE,NYJ,17,NE,NYJ 38,Q2,1 and 10,14:29,NE,False Start,5,REG
+2018,NE,NYJ,17,NE,NYJ 8,Q2,2 and 8,12:38,NE,Offensive Holding,10,REG
+2018,NE,NYJ,17,NE,NYJ 18,Q2,3 and 18,12:05,NYJ,Roughing the Passer,9,REG
+2018,NE,NYJ,17,NYJ,NE 46,Q2,3 and 4,8:16,NYJ,False Start,5,REG
+2018,NE,NYJ,17,NE,NE 28,Q3,1 and 10,13:11,NE,Offensive Pass Interference,10,REG
+2018,NE,NYJ,17,NYJ,NYJ 36,Q3,2 and 6,10:06,NYJ,Offensive Holding,10,REG
+2018,NE,NYJ,17,NE,NE 43,Q3,4 and 1,1:20,NYJ,Offensive Holding,6,REG
+2018,NE,NYJ,17,NE,NYJ 12,Q4,1 and 10,3:42,NE,Illegal Shift,5,REG
+2019,NE,PIT,1,NE,NE 35,Q1,1 and 10,7:20,NE,Offensive Pass Interference,10,REG
+2019,NE,PIT,1,PIT,PIT 27,Q1,2 and 8,4:06,PIT,Offensive Holding,10,REG
+2019,NE,PIT,1,PIT,PIT 20,Q1,3 and 15,3:25,PIT,False Start,5,REG
+2019,NE,PIT,1,PIT,PIT 30,Q2,1 and 10,9:12,NE,Defensive Holding,5,REG
+2019,NE,PIT,1,PIT,NE 11,Q3,3 and 3,12:03,NE,Defensive Holding,5,REG
+2019,NE,PIT,1,PIT,NE 42,Q3,1 and 10,6:43,PIT,Offensive Pass Interference,10,REG
+2019,NE,PIT,1,PIT,PIT 48,Q3,1 and 20,6:08,NE,Defensive Offside,5,REG
+2019,NE,PIT,1,NE,PIT 27,Q4,1 and 10,9:17,NE,Offensive Holding,10,REG
+2019,NE,PIT,1,NE,PIT 34,Q4,2 and 17,8:27,PIT,Defensive Pass Interference,9,REG
+2019,NE,PIT,1,NE,PIT 15,Q4,1 and 10,7:16,NE,Offensive Holding,10,REG
+2019,NE,PIT,1,PIT,PIT 25,Q4,2 and 10,6:06,PIT,False Start,5,REG
+2019,NE,PIT,1,PIT,PIT 49,Q4,3 and 7,4:28,NE,Defensive Pass Interference,10,REG
+2019,NE,PIT,1,PIT,PIT 45,Q4,1 and 10,2:06,PIT,Unnecessary Roughness,15,REG
+2019,MIA,NE,2,NE,MIA 5,Q1,2 and 5,8:33,MIA,Defensive Holding,3,REG
+2019,MIA,NE,2,MIA,NE 49,Q1,2 and 10,4:32,MIA,Offensive Holding,10,REG
+2019,MIA,NE,2,NE,MIA 15,Q3,1 and 10,4:51,NE,Offensive Pass Interference,10,REG
+2019,MIA,NE,2,NE,MIA 1,Q3,2 and 1,2:26,NE,False Start,4,REG
+2019,MIA,NE,2,NE,MIA 5,Q3,2 and 5,2:26,MIA,Defensive Pass Interference,4,REG
+2019,MIA,NE,2,NE,NE 34,Q4,2 and 5,15:00,MIA,Defensive Holding,5,REG
+2019,MIA,NE,2,NE,NE 44,Q4,3 and 5,13:34,NE,Offensive Pass Interference,10,REG
+2019,MIA,NE,2,NE,NE 34,Q4,4 and 15,13:07,NE,Unsportsmanlike Conduct,15,REG
+2019,MIA,NE,2,MIA,MIA 17,Q4,2 and 18,8:20,NE,Lowering the Head to Initiate Contact,15,REG
+2019,NE,NYJ,3,NYJ,NYJ 25,Q2,1 and 10,13:34,NYJ,Face Mask (15 Yards),14,REG
+2019,NE,NYJ,3,NE,NE 31,Q2,3 and 16,10:51,NYJ,Illegal Use of Hands,5,REG
+2019,NE,NYJ,3,NYJ,NYJ 17,Q2,2 and 5,9:28,NE,Defensive Too Many Men on Field,5,REG
+2019,NE,NYJ,3,NE,NE 22,Q2,3 and 3,2:00,NYJ,Defensive Pass Interference,28,REG
+2019,NE,NYJ,3,NE,NYJ 10,Q3,2 and 3,10:53,NE,Offensive Holding,10,REG
+2019,NE,NYJ,3,NE,NYJ 20,Q3,2 and 13,10:29,NE,Face Mask (15 Yards),15,REG
+2019,NE,NYJ,3,NYJ,NYJ 26,Q3,2 and 9,8:10,NYJ,Offensive Holding,10,REG
+2019,NE,NYJ,3,NE,NYJ 20,Q3,1 and 10,5:33,NE,False Start,5,REG
+2019,NE,NYJ,3,NE,NYJ 22,Q3,2 and 12,4:25,NE,Intentional Grounding,10,REG
+2019,NE,NYJ,3,NYJ,NYJ 48,Q3,1 and 10,2:32,NE,Roughing the Passer,15,REG
+2019,NE,NYJ,3,NYJ,NE 35,Q3,2 and 8,1:44,NYJ,Offensive Pass Interference,10,REG
+2019,NE,NYJ,3,NE,NYJ 40,Q4,4 and 4,12:09,NE,Delay of Game,5,REG
+2019,NE,NYJ,3,NE,NYJ 45,Q4,4 and 9,11:51,NE,False Start,5,REG
+2019,BUF,NE,4,BUF,BUF 24,Q1,3 and 10,13:09,NE,Defensive Holding,5,REG
+2019,BUF,NE,4,BUF,BUF 40,Q1,1 and 10,11:17,BUF,Offensive Holding,10,REG
+2019,BUF,NE,4,BUF,BUF 37,Q1,2 and 10,7:25,BUF,False Start,5,REG
+2019,BUF,NE,4,BUF,BUF 47,Q1,3 and 4,:21,NE,Defensive Too Many Men on Field,5,REG
+2019,BUF,NE,4,NE,NE 29,Q1,1 and 10,:02,NE,False Start,5,REG
+2019,BUF,NE,4,NE,BUF 34,Q2,2 and 7,5:57,NE,Intentional Grounding,10,REG
+2019,BUF,NE,4,NE,BUF 35,Q2,4 and 8,5:46,BUF,Defensive Pass Interference,27,REG
+2019,BUF,NE,4,BUF,BUF 29,Q2,2 and 1,3:30,NE,Illegal Use of Hands,5,REG
+2019,BUF,NE,4,NE,NE 25,Q3,4 and 8,9:13,NE,Unsportsmanlike Conduct,15,REG
+2019,BUF,NE,4,BUF,BUF 45,Q3,3 and 4,8:14,BUF,Offensive Holding,9,REG
+2019,BUF,NE,4,BUF,NE 16,Q4,2 and 9,13:22,NE,Unnecessary Roughness,8,REG
+2019,BUF,NE,4,BUF,NE 5,Q4,2 and 5,12:28,BUF,Delay of Game,5,REG
+2019,BUF,NE,4,NE,NE 20,Q4,1 and 10,8:35,NE,False Start,5,REG
+2019,BUF,NE,4,BUF,BUF 27,Q4,1 and 10,7:36,BUF,False Start,5,REG
+2019,BUF,NE,4,BUF,BUF 28,Q4,3 and 19,6:17,BUF,False Start,5,REG
+2019,BUF,NE,4,NE,NE 35,Q4,4 and 7,3:19,BUF,Illegal Block Above the Waist,10,REG
+2019,WAS,NE,5,NE,WAS 26,Q1,2 and 5,3:49,NE,Offensive Pass Interference,10,REG
+2019,WAS,NE,5,NE,WAS 25,Q1,3 and 4,3:12,NE,False Start,5,REG
+2019,WAS,NE,5,NE,NE 33,Q2,2 and 8,11:37,WAS,Defensive Pass Interference,40,REG
+2019,WAS,NE,5,NE,WAS 48,Q2,4 and 1,6:34,NE,False Start,5,REG
+2019,WAS,NE,5,WAS,WAS 5,Q2,2 and 6,4:39,WAS,False Start,2,REG
+2019,WAS,NE,5,WAS,WAS 20,Q2,1 and 10,3:51,WAS,Offensive Holding,10,REG
+2019,WAS,NE,5,WAS,WAS 10,Q2,1 and 20,3:27,WAS,False Start,5,REG
+2019,WAS,NE,5,WAS,WAS 26,Q2,4 and 4,2:00,NE,Illegal Block Above the Waist,10,REG
+2019,WAS,NE,5,NE,NE 33,Q2,3 and 5,1:22,NE,Offensive Holding,10,REG
+2019,WAS,NE,5,WAS,NE 48,Q3,2 and 11,9:03,WAS,Illegal Use of Hands,10,REG
+2019,WAS,NE,5,WAS,WAS 12,Q3,2 and 10,1:17,NE,Illegal Use of Hands,5,REG
+2019,WAS,NE,5,WAS,WAS 36,Q4,4 and 11,6:19,NE,Offensive Holding,10,REG
+2019,WAS,NE,5,WAS,WAS 40,Q4,3 and 5,4:20,WAS,False Start,5,REG
+2019,NE,NYG,6,NE,NYG 43,Q1,1 and 10,7:07,NYG,Unnecessary Roughness,15,REG
+2019,NE,NYG,6,NYG,NE 48,Q2,4 and 5,14:06,NYG,Illegal Formation,5,REG
+2019,NE,NYG,6,NE,NYG 20,Q2,2 and 10,9:19,NE,False Start,5,REG
+2019,NE,NYG,6,NE,NE 39,Q3,2 and 10,8:28,NYG,Defensive Holding,5,REG
+2019,NE,NYG,6,NE,NYG 42,Q3,,7:37,NE,Offensive Holding,10,REG
+2019,NE,NYG,6,NE,NYG 29,Q3,4 and 7,4:20,NYG,Defensive Holding,5,REG
+2019,NE,NYG,6,NYG,NYG 30,Q3,1 and 10,2:47,NYG,Offensive Holding,10,REG
+2019,NE,NYG,6,NYG,NYG 32,Q4,3 and 3,3:16,NE,Illegal Use of Hands,5,REG
+2019,NYJ,NE,7,NE,NE 35,Q1,,,NYJ,Illegal Blindside Block,8,REG
+2019,NYJ,NE,7,NE,NYJ 4,Q2,1 and 4,12:11,NE,Illegal Block Above the Waist,10,REG
+2019,NYJ,NE,7,NE,NYJ 3,Q2,3 and 3,10:48,NYJ,Defensive Holding,2,REG
+2019,NYJ,NE,7,NYJ,NYJ 29,Q2,2 and 5,8:35,NE,Defensive Holding,5,REG
+2019,NYJ,NE,7,NYJ,NYJ 35,Q2,2 and 9,7:51,NE,Defensive Pass Interference,19,REG
+2019,NYJ,NE,7,NYJ,NE 34,Q2,1 and 10,6:23,NE,Roughing the Passer,15,REG
+2019,NYJ,NE,7,NYJ,NE 41,Q2,2 and 5,2:56,NYJ,Offensive Holding,10,REG
+2019,NYJ,NE,7,NYJ,NYJ 6,Q3,2 and 7,7:45,NYJ,Illegal Bat,0,REG
+2019,NYJ,NE,7,NE,NE 33,Q3,1 and 10,7:37,NE,Offensive Holding,10,REG
+2019,NYJ,NE,7,NYJ,NE 31,Q3,2 and 8,6:28,NE,Defensive Pass Interference,20,REG
+2019,NYJ,NE,7,NE,NE 20,Q3,3 and 10,4:46,NYJ,Defensive Pass Interference,15,REG
+2019,NYJ,NE,7,NE,NE 41,Q3,3 and 4,3:58,NE,Intentional Grounding,13,REG
+2019,NYJ,NE,7,NYJ,NYJ 23,Q3,3 and 7,2:55,NYJ,Offensive Holding,10,REG
+2019,NYJ,NE,7,NYJ,NYJ 25,Q4,2 and 10,12:28,NYJ,False Start,5,REG
+2019,NYJ,NE,7,NYJ,NE 38,Q4,3 and 3,6:45,NYJ,Offensive Holding,10,REG
+2019,NE,CLE,8,NE,NE 21,Q1,4 and 4,2:48,NE,False Start,5,REG
+2019,NE,CLE,8,NE,NE 16,Q1,4 and 9,2:48,CLE,Illegal Block Above the Waist,10,REG
+2019,NE,CLE,8,NE,NE 35,Q1,,,NE,Delay of Kickoff,5,REG
+2019,NE,CLE,8,CLE,NE 40,Q1,1 and 10,:23,CLE,False Start,5,REG
+2019,NE,CLE,8,CLE,NE 45,Q2,2 and 15,15:00,CLE,Offensive Holding,10,REG
+2019,NE,CLE,8,CLE,CLE 46,Q2,3 and 24,13:50,NE,Neutral Zone Infraction,5,REG
+2019,NE,CLE,8,NE,NE 37,Q2,2 and 10,6:32,CLE,Defensive Holding,5,REG
+2019,NE,CLE,8,NE,CLE 35,Q2,1 and 10,5:58,CLE,Illegal Use of Hands,5,REG
+2019,NE,CLE,8,NE,CLE 20,Q2,2 and 10,3:42,CLE,Illegal Use of Hands,5,REG
+2019,NE,CLE,8,CLE,CLE 29,Q2,2 and 20,:28,CLE,False Start,5,REG
+2019,NE,CLE,8,CLE,CLE 33,Q3,1 and 10,:13,CLE,False Start,5,REG
+2019,NE,CLE,8,CLE,CLE 28,Q4,1 and 15,15:00,CLE,False Start,5,REG
+2019,NE,CLE,8,CLE,CLE 40,Q4,3 and 3,13:33,CLE,Offensive Pass Interference,10,REG
+2019,NE,CLE,8,CLE,CLE 34,Q4,3 and 1,6:50,CLE,Offensive Pass Interference,10,REG
+2019,NE,CLE,8,CLE,CLE 24,Q4,4 and 11,6:17,CLE,False Start,5,REG
+2019,NE,CLE,8,CLE,NE 24,Q4,4 and 1,2:38,CLE,False Start,5,REG
+2019,NE,CLE,8,CLE,CLE 20,Q4,1 and 10,1:06,NE,Defensive Pass Interference,17,REG
+2019,BAL,NE,9,BAL,NE 6,Q1,4 and 3,8:36,NE,Neutral Zone Infraction,3,REG
+2019,BAL,NE,9,BAL,BAL 30,Q1,2 and 3,:09,NE,Neutral Zone Infraction,5,REG
+2019,BAL,NE,9,NE,BAL 33,Q2,2 and 5,8:07,NE,Intentional Grounding,10,REG
+2019,BAL,NE,9,NE,BAL 43,Q2,3 and 15,8:02,NE,Offensive Holding,10,REG
+2019,BAL,NE,9,NE,BAL 7,Q2,1 and 7,5:43,NE,Offensive Holding,10,REG
+2019,BAL,NE,9,NE,NE 19,Q2,2 and 9,1:23,BAL,Unnecessary Roughness,15,REG
+2019,BAL,NE,9,NE,NE 35,Q2,,,BAL,Offensive Holding,10,REG
+2019,BAL,NE,9,BAL,NE 31,Q3,1 and 10,2:53,BAL,Offensive Too Many Men on Field,5,REG
+2019,BAL,NE,9,BAL,BAL 38,Q4,3 and 4,11:34,NE,Defensive Offside,5,REG
+2019,BAL,NE,9,BAL,NE 30,Q4,3 and 7,7:49,NE,Illegal Use of Hands,5,REG
+2019,BAL,NE,9,BAL,NE 1,Q4,2 and 1,4:02,BAL,False Start,4,REG
+2019,PHI,NE,11,PHI,PHI 25,Q1,1 and 10,15:00,NE,Defensive Pass Interference,49,REG
+2019,PHI,NE,11,PHI,NE 19,Q1,2 and 3,14:14,PHI,False Start,5,REG
+2019,PHI,NE,11,PHI,PHI 27,Q1,3 and 4,11:04,PHI,Ineligible Downfield Pass,5,REG
+2019,PHI,NE,11,PHI,PHI 26,Q1,2 and 1,4:17,NE,Illegal Use of Hands,5,REG
+2019,PHI,NE,11,NE,PHI 31,Q2,3 and 10,9:42,PHI,Defensive Pass Interference,11,REG
+2019,PHI,NE,11,PHI,PHI 20,Q3,2 and 9,7:35,NE,Illegal Use of Hands,5,REG
+2019,PHI,NE,11,PHI,PHI 38,Q3,2 and 9,6:10,PHI,False Start,5,REG
+2019,PHI,NE,11,PHI,PHI 3,Q3,1 and 10,3:15,PHI,False Start,1,REG
+2019,PHI,NE,11,NE,NE 42,Q4,1 and 10,11:13,NE,Offensive Holding,10,REG
+2019,PHI,NE,11,NE,NE 39,Q4,4 and 4,4:17,PHI,Illegal Block Above the Waist,6,REG
+2019,PHI,NE,11,PHI,PHI 35,Q4,2 and 10,3:15,NE,Defensive Holding,5,REG
+2019,PHI,NE,11,PHI,PHI 12,Q4,1 and 10,:34,PHI,Offensive Holding,6,REG
+2019,PHI,NE,11,PHI,PHI 6,Q4,1 and 16,:27,NE,Unnecessary Roughness,15,REG
+2019,NE,DAL,12,DAL,DAL 19,Q1,1 and 10,11:12,NE,Defensive Pass Interference,16,REG
+2019,NE,DAL,12,DAL,NE 27,Q1,3 and 5,8:41,DAL,False Start,5,REG
+2019,NE,DAL,12,DAL,DAL 29,Q1,2 and 13,3:01,DAL,Tripping,10,REG
+2019,NE,DAL,12,NE,DAL 23,Q2,4 and 10,6:51,NE,False Start,5,REG
+2019,NE,DAL,12,DAL,DAL 49,Q2,2 and 8,4:33,NE,Roughing the Passer,15,REG
+2019,NE,DAL,12,NE,NE 40,Q3,2 and 6,14:14,NE,False Start,5,REG
+2019,NE,DAL,12,NE,NE 39,Q3,1 and 10,11:38,NE,Offensive Holding,10,REG
+2019,NE,DAL,12,DAL,NE 35,Q3,,1:23,DAL,Offensive Holding,10,REG
+2019,NE,DAL,12,DAL,DAL 40,Q3,4 and 13,:52,DAL,Delay of Game,5,REG
+2019,NE,DAL,12,DAL,DAL 35,Q3,4 and 18,:52,DAL,Illegal Motion,5,REG
+2019,NE,DAL,12,NE,DAL 32,Q4,1 and 10,13:28,NE,False Start,5,REG
+2019,NE,DAL,12,NE,DAL 19,Q4,2 and 9,11:11,DAL,Defensive Pass Interference,5,REG
+2019,NE,DAL,12,DAL,DAL 35,Q4,3 and 1,2:00,DAL,Tripping,10,REG
+2019,HOU,NE,13,NE,HOU 42,Q1,1 and 10,10:17,HOU,Unnecessary Roughness,15,REG
+2019,HOU,NE,13,HOU,NE 46,Q1,2 and 4,4:55,HOU,Offensive Holding,10,REG
+2019,HOU,NE,13,NE,NE 25,Q1,3 and 4,2:05,HOU,Unsportsmanlike Conduct,15,REG
+2019,HOU,NE,13,NE,NE 45,Q2,4 and 6,13:23,HOU,Illegal Blindside Block,12,REG
+2019,HOU,NE,13,NE,NE 32,Q2,1 and 10,5:43,NE,Illegal Block Above the Waist,10,REG
+2019,HOU,NE,13,NE,NE 25,Q3,2 and 10,14:23,HOU,Defensive Holding,5,REG
+2019,HOU,NE,13,NE,NE 34,Q3,2 and 11,4:26,NE,Offensive Holding,10,REG
+2019,HOU,NE,13,NE,HOU 49,Q3,1 and 10,2:36,NE,Offensive Pass Interference,10,REG
+2019,HOU,NE,13,NE,NE 41,Q3,1 and 20,2:05,NE,Offensive Holding,10,REG
+2019,HOU,NE,13,NE,HOU 2,Q3,,,NE,Delay of Game,5,REG
+2019,HOU,NE,13,HOU,HOU 25,Q4,2 and 10,15:00,NE,Defensive Holding,5,REG
+2019,HOU,NE,13,HOU,NE 48,Q4,3 and 1,13:01,HOU,False Start,5,REG
+2019,HOU,NE,13,HOU,NE 11,Q4,2 and 7,10:03,NE,Defensive Pass Interference,5,REG
+2019,HOU,NE,13,HOU,NE 15,Q4,,,NE,Defensive Offside,5,REG
+2019,HOU,NE,13,NE,NE 37,Q4,3 and 11,6:59,HOU,Defensive Pass Interference,12,REG
+2019,HOU,NE,13,NE,NE 39,Q4,1 and 10,1:28,HOU,Illegal Contact,5,REG
+2009,NE,BAL,1,NE,NE 38,Q1,2 and 10,:25,NE,Delay of Game,5,POST
+2009,NE,BAL,1,NE,NE 30,Q2,,,NE,Face Mask (15 Yards),15,POST
+2009,NE,BAL,1,NE,BAL 39,Q2,3 and 5,4:46,BAL,Encroachment,5,POST
+2009,NE,BAL,1,NE,BAL 32,Q2,3 and 8,3:28,NE,Offensive Pass Interference,10,POST
+2009,NE,BAL,1,NE,BAL 19,Q3,2 and 5,3:56,BAL,Illegal Contact,5,POST
+2009,NE,BAL,1,BAL,NE 2,Q4,,,NE,Encroachment,1,POST
+2009,NE,BAL,1,NE,BAL 39,Q4,4 and 7,9:00,NE,Illegal Block Above the Waist,10,POST
+2009,NE,BAL,1,BAL,NE 29,Q4,3 and 5,2:21,BAL,False Start,5,POST
+2010,NE,NYJ,2,NE,NE 14,Q1,2 and 17,5:10,NYJ,Face Mask (15 Yards),15,POST
+2010,NE,NYJ,2,NYJ,NE 49,Q2,1 and 10,12:20,NYJ,False Start,5,POST
+2010,NE,NYJ,2,NE,NE 34,Q2,4 and 3,8:50,NE,Illegal Touch Kick,5,POST
+2010,NE,NYJ,2,NYJ,NYJ 31,Q2,3 and 4,7:10,NE,Defensive Pass Interference,9,POST
+2010,NE,NYJ,2,NE,NE 45,Q2,2 and 10,:18,NE,Unnecessary Roughness,15,POST
+2010,NE,NYJ,2,NE,NYJ 14,Q3,1 and 10,1:36,NE,False Start,5,POST
+2010,NE,NYJ,2,NE,NYJ 35,Q4,2 and 3,7:40,NE,False Start,5,POST
+2010,NE,NYJ,2,NE,NE 30,Q4,,,NE,Encroachment,5,POST
+2010,NE,NYJ,2,NYJ,NE 16,Q4,2 and 6,1:46,NYJ,Unsportsmanlike Conduct,15,POST
+2011,NE,DEN,2,DEN,DEN 17,Q1,1 and 10,6:37,NE,Encroachment,5,POST
+2011,NE,DEN,2,DEN,NE 5,Q2,1 and 5,15:00,DEN,Unnecessary Roughness,15,POST
+2011,NE,DEN,2,NE,DEN 39,Q3,2 and 5,13:07,DEN,Encroachment,5,POST
+2011,NE,DEN,2,DEN,DEN 35,Q3,2 and 4,7:32,NE,Unnecessary Roughness,15,POST
+2011,NE,DEN,2,NE,NE 40,Q3,1 and 10,1:15,DEN,Face Mask (15 Yards),15,POST
+2011,NE,DEN,2,NE,NE 1,Q4,2 and 12,6:33,DEN,Horse Collar Tackle,15,POST
+2011,NE,DEN,2,NE,NE 42,Q4,3 and 10,3:10,DEN,Unnecessary Roughness,5,POST
+2011,NE,BAL,3,NE,BAL 27,Q1,2 and 9,7:54,BAL,Illegal Contact,5,POST
+2011,NE,BAL,3,NE,BAL 16,Q2,2 and 6,11:06,BAL,Face Mask (15 Yards),8,POST
+2011,NE,BAL,3,BAL,NE 2,Q2,,,NE,Defensive 12 On-field,5,POST
+2011,NE,BAL,3,BAL,BAL 32,Q2,3 and 9,2:00,BAL,False Start,5,POST
+2011,NE,BAL,3,BAL,BAL 45,Q3,2 and 6,7:22,BAL,False Start,5,POST
+2011,NE,BAL,3,NE,BAL 40,Q3,1 and 10,:19,BAL,Defensive Offside,5,POST
+2011,NE,BAL,3,BAL,NE 30,Q4,2 and 3,4:20,BAL,False Start,5,POST
+2011,NE,NYG,4,NE,NE 6,Q1,1 and 10,9:00,NE,Intentional Grounding,6,POST
+2011,NE,NYG,4,NYG,NE 11,Q1,3 and 3,4:23,NE,Defensive 12 On-field,5,POST
+2011,NE,NYG,4,NYG,NE 47,Q2,2 and 10,11:24,NYG,Illegal Substitution,5,POST
+2011,NE,NYG,4,NYG,NE 46,Q2,3 and 1,4:40,NYG,Offensive Holding,9,POST
+2011,NE,NYG,4,NE,NE 4,Q2,1 and 10,4:03,NE,False Start,2,POST
+2011,NE,NYG,4,NE,NYG 43,Q2,2 and 2,1:20,NE,Offensive Holding,10,POST
+2011,NE,NYG,4,NYG,NYG 11,Q4,3 and 7,13:23,NE,Defensive Offside,5,POST
+2011,NE,NYG,4,NYG,NE 38,Q4,3 and 5,9:35,NYG,False Start,5,POST
+2011,NE,NYG,4,NE,NE 44,Q4,2 and 10,:17,NYG,Defensive 12 On-field,5,POST
+2012,NE,HOU,2,NE,HOU 16,Q2,1 and 10,10:56,NE,Unsportsmanlike Conduct,15,POST
+2012,NE,HOU,2,HOU,HOU 40,Q2,2 and 3,9:02,HOU,Offensive Holding,10,POST
+2012,NE,HOU,2,NE,NE 35,Q2,,,NE,Horse Collar Tackle,15,POST
+2012,NE,HOU,2,HOU,HOU 10,Q3,1 and 10,8:50,HOU,False Start,5,POST
+2012,NE,HOU,2,NE,NE 25,Q4,3 and 5,10:50,NE,Offensive Pass Interference,10,POST
+2012,NE,HOU,2,HOU,HOU 30,Q4,3 and 1,9:03,NE,Unnecessary Roughness,15,POST
+2012,NE,HOU,2,HOU,NE 2,Q4,3 and 2,6:13,NE,Defensive Offside,1,POST
+2012,NE,HOU,2,NE,HOU 39,Q4,3 and 2,4:17,HOU,Defensive Holding,5,POST
+2012,NE,BAL,3,BAL,BAL 19,Q1,4 and 4,11:37,NE,Offensive Holding,10,POST
+2012,NE,BAL,3,NE,NE 35,Q1,,,BAL,Illegal Block Above the Waist,10,POST
+2012,NE,BAL,3,BAL,BAL 30,Q1,3 and 7,5:15,BAL,False Start,5,POST
+2012,NE,BAL,3,NE,NE 41,Q1,3 and 2,3:57,BAL,Unnecessary Roughness,15,POST
+2012,NE,BAL,3,NE,NE 21,Q2,1 and 10,9:22,BAL,Unnecessary Roughness,15,POST
+2012,NE,BAL,3,NE,NE 25,Q3,2 and 5,11:21,BAL,Unnecessary Roughness,15,POST
+2012,NE,BAL,3,BAL,BAL 13,Q3,1 and 10,10:03,NE,Defensive Pass Interference,15,POST
+2012,NE,BAL,3,NE,NE 33,Q3,3 and 2,5:24,NE,Offensive Holding,10,POST
+2012,NE,BAL,3,BAL,NE 44,Q3,1 and 10,3:30,NE,Defensive Offside,5,POST
+2013,NE,IND,2,IND,IND 23,Q1,4 and 7,12:33,NE,Illegal Block Above the Waist,10,POST
+2013,NE,IND,2,IND,IND 29,Q1,4 and 8,2:32,NE,Illegal Block Above the Waist,10,POST
+2013,NE,IND,2,NE,NE 49,Q2,4 and 2,2:42,NE,Delay of Game,5,POST
+2013,NE,IND,2,NE,IND 22,Q3,3 and 8,7:12,IND,Defensive Pass Interference,17,POST
+2013,NE,IND,2,NE,IND 2,Q3,,,IND,Unnecessary Roughness,15,POST
+2013,NE,IND,2,IND,IND 20,Q4,1 and 10,12:55,IND,False Start,5,POST
+2013,NE,IND,2,NE,IND 2,Q4,,,IND,Defensive Offside,5,POST
+2013,NE,IND,2,IND,IND 29,Q4,4 and 1,10:30,NE,Illegal Block Above the Waist,10,POST
+2013,DEN,NE,3,NE,DEN 33,Q1,3 and 10,:56,NE,Offensive Pass Interference,10,POST
+2013,DEN,NE,3,DEN,DEN 42,Q2,3 and 1,11:35,NE,Defensive Holding,5,POST
+2013,DEN,NE,3,DEN,DEN 19,Q2,2 and 11,2:20,DEN,Offensive Holding,9,POST
+2013,DEN,NE,3,NE,NE 20,Q2,2 and 10,:21,DEN,Defensive Offside,5,POST
+2013,DEN,NE,3,DEN,NE 12,Q4,2 and 3,15:00,DEN,Offensive Holding,10,POST
+2013,DEN,NE,3,DEN,NE 8,Q4,1 and 8,13:53,DEN,Offensive Holding,10,POST
+2014,NE,BAL,2,BAL,BAL 43,Q1,1 and 10,9:30,NE,Defensive Offside,5,POST
+2014,NE,BAL,2,BAL,BAL 44,Q2,2 and 10,14:56,BAL,Unnecessary Roughness,15,POST
+2014,NE,BAL,2,NE,BAL 34,Q2,4 and 20,10:55,NE,Delay of Game,5,POST
+2014,NE,BAL,2,NE,BAL 39,Q2,4 and 25,9:36,NE,Taunting,15,POST
+2014,NE,BAL,2,NE,BAL 31,Q2,1 and 10,5:41,BAL,Illegal Contact,5,POST
+2014,NE,BAL,2,NE,NE 40,Q2,1 and 10,1:11,NE,False Start,5,POST
+2014,NE,BAL,2,BAL,NE 44,Q2,2 and 10,:32,NE,Defensive Pass Interference,20,POST
+2014,NE,BAL,2,BAL,NE 36,Q3,4 and 6,10:40,BAL,Taunting,15,POST
+2014,NE,BAL,2,NE,BAL 44,Q3,2 and 1,8:24,BAL,Defensive 12 On-field,5,POST
+2014,NE,BAL,2,NE,BAL 24,Q3,2 and 6,7:19,BAL,Unsportsmanlike Conduct,5,POST
+2014,NE,BAL,2,NE,NE 35,Q3,,,BAL,Offensive Holding,10,POST
+2014,NE,BAL,2,BAL,BAL 28,Q3,3 and 2,1:48,NE,Defensive Holding,5,POST
+2014,NE,BAL,2,NE,NE 35,Q4,,,BAL,Illegal Block Above the Waist,10,POST
+2014,NE,BAL,2,BAL,NE 41,Q4,1 and 10,2:00,NE,Defensive Offside,5,POST
+2014,NE,IND,3,IND,IND 39,Q1,3 and 3,8:18,NE,Defensive Holding,5,POST
+2014,NE,IND,3,IND,IND 16,Q2,2 and 1,8:34,NE,Unnecessary Roughness,15,POST
+2014,NE,IND,3,IND,NE 28,Q2,3 and 7,6:17,NE,Illegal Contact,5,POST
+2014,NE,IND,3,IND,IND 35,Q2,,,IND,Offside on Free Kick,5,POST
+2014,NE,IND,3,NE,IND 26,Q2,1 and 10,1:34,IND,Roughing the Passer,13,POST
+2014,NE,IND,3,NE,IND 5,Q3,2 and 1,4:25,NE,Illegal Formation,5,POST
+2014,NE,IND,3,IND,IND 23,Q3,1 and 10,2:00,NE,Defensive Pass Interference,10,POST
+2014,NE,IND,3,IND,IND 33,Q3,4 and 10,1:33,IND,Ineligible Downfield Kick,5,POST
+2014,NE,IND,3,NE,IND 39,Q4,4 and 9,5:51,NE,False Start,5,POST
+2014,SEA,NE,5,SEA,SEA 39,Q2,3 and 1,5:51,SEA,False Start,5,POST
+2014,SEA,NE,5,NE,SEA 48,Q2,3 and 3,:49,SEA,Neutral Zone Infraction,5,POST
+2014,SEA,NE,5,SEA,NE 44,Q2,2 and 10,:11,NE,Face Mask (15 Yards),10,POST
+2014,SEA,NE,5,NE,NE 32,Q3,3 and 9,8:15,SEA,Illegal Block Above the Waist,10,POST
+2014,SEA,NE,5,SEA,NE 38,Q3,1 and 10,6:44,NE,Defensive Holding,5,POST
+2014,SEA,NE,5,SEA,NE 3,Q3,2 and 3,5:00,SEA,Unsportsmanlike Conduct,15,POST
+2014,SEA,NE,5,NE,NE 35,Q3,1 and 10,4:48,NE,Offensive Holding,10,POST
+2014,SEA,NE,5,NE,NE 49,Q4,1 and 10,9:52,SEA,Unnecessary Roughness,15,POST
+2014,SEA,NE,5,NE,SEA 42,Q4,2 and 1,4:55,NE,Offensive Pass Interference,10,POST
+2014,SEA,NE,5,SEA,NE 1,Q4,2 and 1,:26,NE,Unsportsmanlike Conduct,1,POST
+2014,SEA,NE,5,NE,NE 1,Q4,1 and 10,:20,SEA,Encroachment,5,POST
+2014,SEA,NE,5,NE,NE 6,Q4,1 and 5,:20,SEA,Disqualification,15,POST
+2015,NE,KC,2,KC,NE 37,Q2,4 and 11,9:08,NE,Unnecessary Roughness,2,POST
+2015,NE,KC,2,NE,NE 14,Q2,1 and 10,8:25,NE,False Start,5,POST
+2015,NE,KC,2,NE,KC 35,Q2,2 and 8,5:22,KC,Roughing the Passer,15,POST
+2015,NE,KC,2,NE,NE 35,Q2,,,NE,Offside on Free Kick,5,POST
+2015,NE,KC,2,KC,NE 9,Q2,3 and 9,:21,KC,Delay of Game,5,POST
+2015,NE,KC,2,KC,KC 37,Q3,1 and 10,13:37,KC,Offensive Holding,10,POST
+2015,NE,KC,2,KC,KC 37,Q3,2 and 10,12:28,NE,Defensive Holding,5,POST
+2015,NE,KC,2,KC,NE 15,Q3,4 and 3,2:45,NE,Illegal Use of Hands,5,POST
+2015,NE,KC,2,KC,KC 17,Q4,4 and 13,12:39,KC,Delay of Game,5,POST
+2015,NE,KC,2,KC,NE 2,Q4,2 and 2,2:00,KC,False Start,5,POST
+2015,NE,KC,2,KC,NE 3,Q4,3 and 3,1:27,NE,Defensive Pass Interference,2,POST
+2015,DEN,NE,3,DEN,DEN 44,Q1,3 and 6,9:47,NE,Defensive Pass Interference,14,POST
+2015,DEN,NE,3,NE,NE 40,Q1,1 and 10,5:05,NE,Unnecessary Roughness,15,POST
+2015,DEN,NE,3,NE,NE 34,Q1,4 and 16,3:16,NE,Ineligible Downfield Kick,5,POST
+2015,DEN,NE,3,NE,DEN 22,Q1,1 and 10,2:23,DEN,Unnecessary Roughness,1,POST
+2015,DEN,NE,3,NE,NE 43,Q2,1 and 10,12:53,NE,False Start,5,POST
+2015,DEN,NE,3,NE,NE 44,Q2,3 and 9,11:08,DEN,Illegal Contact,5,POST
+2015,DEN,NE,3,DEN,DEN 25,Q2,4 and 5,5:29,DEN,Unsportsmanlike Conduct,15,POST
+2015,DEN,NE,3,DEN,DEN 44,Q2,1 and 10,4:08,DEN,False Start,5,POST
+2015,DEN,NE,3,NE,NE 14,Q2,2 and 8,2:00,NE,False Start,5,POST
+2015,DEN,NE,3,NE,NE 8,Q3,4 and 10,5:00,NE,False Start,4,POST
+2015,DEN,NE,3,NE,NE 20,Q4,2 and 10,9:56,DEN,Unnecessary Roughness,15,POST
+2015,DEN,NE,3,DEN,DEN 18,Q4,3 and 9,5:19,DEN,False Start,5,POST
+2015,DEN,NE,3,NE,DEN 23,Q4,2 and 5,2:41,DEN,Defensive Holding,5,POST
+2015,DEN,NE,3,NE,DEN 9,Q4,3 and 1,2:30,NE,False Start,5,POST
+2016,NE,HOU,2,NE,NE 35,Q1,1 and 10,10:10,HOU,Defensive Pass Interference,30,POST
+2016,NE,HOU,2,HOU,HOU 23,Q1,1 and 10,9:22,HOU,Offensive Pass Interference,10,POST
+2016,NE,HOU,2,HOU,HOU 15,Q1,3 and 18,7:35,NE,Unsportsmanlike Conduct,15,POST
+2016,NE,HOU,2,HOU,NE 16,Q2,1 and 10,13:17,HOU,Offensive Holding,10,POST
+2016,NE,HOU,2,HOU,HOU 11,Q2,4 and 3,4:04,NE,Illegal Block Above the Waist,10,POST
+2016,NE,HOU,2,NE,HOU 50,Q3,1 and 10,11:43,NE,Offensive Holding,10,POST
+2016,NE,HOU,2,NE,HOU 30,Q3,2 and 10,6:23,NE,Offensive Pass Interference,10,POST
+2016,NE,HOU,2,HOU,HOU 45,Q3,1 and 10,3:20,NE,Illegal Use of Hands,5,POST
+2016,NE,HOU,2,HOU,NE 45,Q3,2 and 8,2:20,NE,Illegal Substitution,5,POST
+2016,NE,HOU,2,NE,NE 27,Q4,2 and 8,14:18,HOU,Roughing the Passer,15,POST
+2016,NE,HOU,2,HOU,NE 31,Q4,1 and 10,4:08,HOU,Offensive Holding,10,POST
+2016,NE,PIT,3,NE,NE 21,Q3,2 and 5,12:48,PIT,Unnecessary Roughness,15,POST
+2016,NE,PIT,3,PIT,NE 45,Q3,1 and 10,:54,NE,Defensive Holding,5,POST
+2016,NE,PIT,3,PIT,NE 2,Q4,3 and 2,13:21,PIT,Illegal Touch Pass,0,POST
+2016,NE,PIT,3,NE,PIT 7,Q4,2 and 7,7:26,PIT,Defensive Offside,4,POST
+2016,NE,PIT,3,NE,PIT 3,Q4,3 and 3,7:10,NE,False Start,5,POST
+2016,ATL,NE,5,NE,NE 34,Q1,4 and 1,13:47,ATL,Offensive Holding,7,POST
+2016,ATL,NE,5,ATL,NE 15,Q2,,,NE,Illegal Formation,5,POST
+2016,ATL,NE,5,NE,NE 37,Q2,3 and 10,8:02,ATL,Defensive Holding,5,POST
+2016,ATL,NE,5,NE,NE 49,Q2,3 and 3,6:10,ATL,Defensive Holding,5,POST
+2016,ATL,NE,5,NE,ATL 45,Q2,3 and 9,5:16,ATL,Defensive Holding,5,POST
+2016,ATL,NE,5,NE,ATL 15,Q2,2 and 10,:18,NE,Offensive Holding,10,POST
+2016,ATL,NE,5,ATL,NE 9,Q3,3 and 4,8:43,NE,Defensive Pass Interference,3,POST
+2016,ATL,NE,5,NE,NE 35,Q3,,,NE,Illegal Touch Kick,5,POST
+2016,ATL,NE,5,ATL,NE 32,Q3,2 and 1,1:30,ATL,Offensive Holding,10,POST
+2016,ATL,NE,5,ATL,ATL 49,Q3,4 and 20,:04,ATL,Delay of Game,5,POST
+2016,ATL,NE,5,ATL,NE 35,Q4,3 and 23,3:50,ATL,Offensive Holding,10,POST
+2016,ATL,NE,5,NE,ATL 2,Q4,,,ATL,Defensive Offside,5,POST
+2016,ATL,NE,5,NE,ATL 15,Q5,1 and 10,11:18,ATL,Defensive Pass Interference,13,POST
+2017,NE,TEN,2,NE,TEN 46,Q1,4 and 7,6:41,TEN,Offensive Holding,5,POST
+2017,NE,TEN,2,TEN,TEN 27,Q2,3 and 4,11:54,TEN,Offensive Pass Interference,10,POST
+2017,NE,TEN,2,TEN,NE 48,Q2,4 and 2,7:17,NE,Offensive Holding,8,POST
+2017,NE,TEN,2,NE,NE 14,Q2,4 and 5,6:32,TEN,Neutral Zone Infraction,5,POST
+2017,NE,TEN,2,NE,NE 24,Q2,2 and 5,5:50,TEN,Illegal Contact,5,POST
+2017,NE,TEN,2,NE,TEN 20,Q2,1 and 10,2:41,TEN,Unnecessary Roughness,7,POST
+2017,NE,TEN,2,TEN,TEN 41,Q2,2 and 6,1:23,TEN,False Start,5,POST
+2017,NE,TEN,2,TEN,TEN 40,Q2,3 and 7,:50,NE,Illegal Contact,5,POST
+2017,NE,TEN,2,TEN,TEN 32,Q3,2 and 3,14:25,TEN,Offensive Holding,10,POST
+2017,NE,TEN,2,TEN,TEN 23,Q3,1 and 10,10:36,TEN,False Start,5,POST
+2017,NE,TEN,2,NE,NE 35,Q3,,,NE,Unnecessary Roughness,15,POST
+2017,NE,TEN,2,TEN,TEN 36,Q3,1 and 10,3:55,TEN,False Start,5,POST
+2017,NE,TEN,2,TEN,TEN 30,Q3,4 and 16,2:27,NE,Offensive Holding,9,POST
+2017,NE,TEN,2,TEN,TEN 35,Q4,,,TEN,Offside on Free Kick,5,POST
+2017,NE,JAX,3,JAX,JAX 23,Q2,1 and 10,13:13,JAX,False Start,5,POST
+2017,NE,JAX,3,JAX,JAX 35,Q2,,,NE,Offensive Holding,10,POST
+2017,NE,JAX,3,JAX,NE 47,Q2,1 and 10,3:52,JAX,Illegal Shift,5,POST
+2017,NE,JAX,3,JAX,NE 44,Q2,3 and 7,2:23,JAX,Delay of Game,5,POST
+2017,NE,JAX,3,NE,NE 40,Q2,1 and 10,1:28,JAX,Unnecessary Roughness,15,POST
+2017,NE,JAX,3,NE,JAX 45,Q2,1 and 10,1:23,JAX,Defensive Pass Interference,32,POST
+2017,NE,JAX,3,NE,NE 19,Q4,1 and 10,6:21,JAX,Defensive Pass Interference,36,POST
+2017,NE,PHI,4,PHI,NE 2,Q1,2 and 2,8:30,PHI,False Start,5,POST
+2017,NE,PHI,4,NE,NE 40,Q1,1 and 10,7:36,PHI,Defensive 12 On-field,5,POST
+2017,NE,PHI,4,NE,NE 26,Q1,2 and 2,2:02,NE,False Start,5,POST
+2017,NE,PHI,4,PHI,PHI 25,Q2,1 and 10,7:24,PHI,False Start,5,POST
+2017,NE,PHI,4,NE,NE 14,Q2,3 and 6,4:19,PHI,Defensive Holding,5,POST
+2017,NE,PHI,4,NE,NE 35,Q3,,,PHI,Illegal Block Above the Waist,10,POST
+2017,NE,PHI,4,NE,NE 26,Q3,2 and 9,6:37,PHI,Defensive Holding,5,POST
