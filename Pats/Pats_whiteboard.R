@@ -2,6 +2,7 @@ library(ggplot2)
 library(tidyverse)
 library(readr)
 library(ggthemes) # Load
+library(data.table)
 
 #read csv
 data <- read_csv("Pats_penalty_plays_2009_2019.csv", 
@@ -35,12 +36,12 @@ ggplot(data , aes(x=Season,  y=Penalty_Yards, fill=team_penalty)) +
        
 
 #attemp for sum
-data_grouped_ <- data %>%
-  group_by(Season,team_penalty ) %>%
-  summarise(count = sum(Penalty_Yards))
+data_grouped <- data %>%
+  group_by(season,team_penalty_cat ) %>%
+  summarise(count = sum(penalty_yards))
 
 ggplot(data_grouped) +
-  geom_bar(aes(x=Season, y=count, fill=team_penalty),
+  geom_bar(aes(x=season, y=count, fill=team_penalty_cat),
            position = 'dodge', stat="identity") +
    theme(
      # Hide panel borders and remove grid lines
@@ -54,15 +55,15 @@ ggplot(data_grouped) +
 
 #try with classic
 p_classic <- ggplot(data_grouped) +
-  geom_bar(aes(x=Season, y=count, fill=team_penalty),
+  geom_bar(aes(x=season, y=count, fill=team_penalty_cat),
            position = 'dodge', stat="identity") +
   theme_classic( ); p_classic 
 
 #try with custom theme
 p_custom <- ggplot(data_grouped) +
-  geom_bar(aes(x=Season, y=count, fill=team_penalty),
+  geom_bar(aes(x=season, y=count, fill=team_penalty_cat),
            position = 'dodge', stat="identity") +
-  scale_fill_manual(values=c("#08415C", "#F15152"))+
+  scale_fill_manual(values=c("#08415C", "#B0B7BC"))+
   theme(
     # Hide panel borders and remove grid lines
     panel.border = element_blank(),
@@ -226,8 +227,11 @@ ggplot(df_grouped_weeks ,
   
   
   #Create column for minute:second in time left
-  data$mytime <- strptime(data$time_left_qtr,"%M:%S") %>% as.ITime()
+  data$mytime <- strptime(data$time_left_qtr,"%M:%S")%>% as.ITime()
+  
   limit <- strptime("05:00","%M:%S") %>% as.ITime()
+  
+  limit <- as.Itime(strptime("05:00","%M:%S"))
   
   plot_4q_5min <- data %>%
                  filter( difftime(data$mytime, limit) < 0 , quarter == "Q4") %>%
@@ -245,17 +249,18 @@ ggplot(df_grouped_weeks ,
   ########################################
   
   #crear columna para ver quién ganó el partido
-  data$game_winner_cat <- ifelse(data$winner == 'NE', 'NE', 'Opponent')
+  #data$game_winner_cat <- ifelse(data$winner == 'NE', 'NE', 'Opponent')
+  #YA NO ES NCESARIO. VIENE DE PYTHON
   
   df_yds_totales <-data %>%
                   group_by(game_winner_cat,team_penalty_cat,penalty_side,season,week) %>%
-                  filter(season=='2009') %>%
+                  #filter(season=='2009') %>%
                   summarise(sum_yds=sum(penalty_yards)) %>%
                   group_by(game_winner_cat,team_penalty_cat,penalty_side)%>%
                   summarise(mean_yds=mean(sum_yds))
   
   ## Gráfica de castigos ofensivos
-  ggplot(df_yds_totales %>% filter(penalty_side=='Offensive Penalty'),
+  ggplot(df_yds_totales %>% filter(penalty_side=='Castigo Ofensivo'),
          aes(x=game_winner_cat, y=mean_yds, fill=team_penalty_cat))+
         geom_bar(stat = "identity",
                  position = "dodge"
@@ -289,7 +294,8 @@ ggplot(df_grouped_weeks ,
   ########################################
   
   #crear columna para ver quién ganó el partido
-  data$game_winner_cat <- ifelse(data$winner == 'NE', 'NE', 'Opponent')
+  #data$game_winner_cat <- ifelse(data$winner == 'NE', 'NE', 'Opponent')
+  #YA NO ES NECESARIO
   
   #crear columna para ver la diferencia de puntaje
   data$game_point_diff <- ifelse(abs(data$score_home - data$score_away)  <= 8, 'Juego de una posesión', 'Juego de más posesiones')
@@ -334,8 +340,8 @@ ggplot(df_grouped_weeks ,
                           group_by(season,week,team_penalty_cat,penalty_side,game_type) %>%
                           summarise(cnt_pen_game=n(),
                                     pats_points_game=mean(pats_points),
-                                    opp_points_game=mean(opp_points)) %>%
-                          filter (  team_penalty_cat == 'Opponent') %>%
+                                    opp_points_game=mean(opps_points)) %>%
+                          filter (  team_penalty_cat == 'Oponente') %>%
                           group_by(season,penalty_side) %>%
                           summarise(sum_pen_season=sum(cnt_pen_game),
                                     opp_points_season=sum(opp_points_game))
@@ -377,7 +383,7 @@ ggplot(df_grouped_weeks ,
     group_by(season,week,team_penalty_cat,penalty_side,game_type) %>%
     summarise(cnt_pen_game=n(),
               pats_points_game=mean(pats_points),
-              opp_points_game=mean(opp_points)) %>%
+              opp_points_game=mean(opps_points)) %>%
     group_by(season,team_penalty_cat,penalty_side) %>%
     summarise(sum_pen_season=sum(cnt_pen_game),
               opp_points_season=sum(opp_points_game))
@@ -450,5 +456,5 @@ ggplot(df_grouped_weeks ,
     xlab("")
 
     
-  
+  ###### CREAR THEME BLANCO
     
