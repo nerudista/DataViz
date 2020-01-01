@@ -32,6 +32,7 @@ id|season|home|away|week|score_home|score_away|winner|loser|team_possesion|field
 4|2009|NE|BUF|1|25|24|NE|BUF|BUF|NE 43|...|Oponente|Oponente|Castigo Ofensivo|2.0|1.0|1|Juego de una posesión|25|24|NE
 5|2009|NE|BUF|1|25|24|NE|BUF|NE|NE 26|...|NE|Oponente|Castigo Defensivo|4.0|16.0|1|Juego de una posesión|25|24|NE
 
+En total, haciendo apróx. una hora diaria, me tarde como 10-12 días en poder tener el código que me servía. ¿Cosas que aprendí? Listas, funciones, lambdas y más pandas.
 
 El código para replicar la obtención del dataset lo encuentran aquí:
 
@@ -181,6 +182,197 @@ Ambos básicamente limpian los ejes y el grid (cuadriculado de fondo), especific
 
 Yo vengo del mundo de BI por lo que el formato JSON me es muy familiar. Sin embargo me gustó mucho la sintaxis de **R**. Me parece muy limpia y ocupa menos espacio. Prácticamente ocupé 100 líneas menos para conseguir algo similar.
 
+## Castigos Ofensivos y Defensivos
+
+Decidí hacer una _bar plot_ para mostrar las  yardas promedio históricas por tipo de castigo.
+
+Empecemos viendo el resultado en ambas bibliotecas.
+
+![https://github.com/nerudista/DataViz/blob/master/Pats/graficas/R/RplotCastigosOfensivos.png?raw=true](https://github.com/nerudista/DataViz/blob/master/Pats/graficas/R/RplotCastigosOfensivos.png?raw=true)
+
+
+![https://github.com/nerudista/DataViz/blob/master/Pats/graficas/Altair/AltairCastigosOfensivos.png?raw=true](https://github.com/nerudista/DataViz/blob/master/Pats/graficas/Altair/AltairCastigosOfensivos.png?raw=true)
+
+En ambos casos tuve que crear un dataframe ya que agrupe por varios campos y obtuve el promedio de yardas. El código es similar en ambos lenguajes:
+R:
+```r
+df_yds_totales <-data %>%
+  group_by(game_winner_cat,team_penalty_cat,penalty_side,season,week) %>%
+  summarise(sum_yds=sum(penalty_yards)) %>%
+  group_by(game_winner_cat,team_penalty_cat,penalty_side)%>%
+  summarise(mean_yds=round( mean(sum_yds),1))
+
+```
+
+Python:
+```py
+df_yds_totales_week = data.groupby(["game_winner_cat","team_penalty_cat","penalty_side",\
+                               "season","week"])["penalty_yards"].sum().reset_index(name="sum_yds")
+
+
+df_yds_totales = df_yds_totales_week.groupby(["game_winner_cat","team_penalty_cat", \
+                                              "penalty_side"])["sum_yds"].mean().round(1).reset_index(name="mean_yds")
+
+
+```
+
+Yo estoy muy enamorado de Pandas pero el operador  `%>%` se me hizo una chulada.
+
+
+
+Este es el código de **ggplot** para crear la gráfica:
+
+```r
+##### Gráfica de castigos ofensivos
+
+ggplot(df_yds_totales %>% filter(penalty_side=='Castigo Ofensivo'),
+       aes(x=game_winner_cat, y=mean_yds, fill=team_penalty_cat))+
+  geom_bar(stat = "identity",
+           position = "dodge" )+
+  geom_text(aes(label=paste(mean_yds," yds")),
+            position=position_dodge(width=.9),
+            family="mono",
+            color="#08415C",
+            size=3.5,
+            vjust=-0.5                       #separacion vertical de la barra
+            ) +  
+  labs(title="Castigos Ofensivos por Equipo - ggplot",
+          caption="@nerudista") +
+  guides(fill=guide_legend(title=NULL))+      #remove legend title
+  scale_x_discrete(labels=c("Cuando Pats Ganan","Cuando Pats Pierden"))+
+  scale_y_continuous(breaks = NULL,          #remove y breaks lines
+                     limits = c(0,31))+    #cambiar rango del eje y       
+  scale_fill_manual(
+                    values=c("#08415C", "#B0B7BC")
+                    #labels=c("NE","Oponente")
+                    )+
+  ylab("Promedio de Yardas\n Concedidas Por Partido")+
+  theme_pats_white+
+theme(
+  axis.title.x = element_blank()
+)
+```
+
+Aquí está el de **Altair**:
+
+```py
+#primer intento ofensivos
+from altair.expr import datum, if_
+
+barOf = alt.Chart(df_yds_totales).transform_filter(
+    "datum.penalty_side == 'Castigo Ofensivo'"
+  ).transform_calculate(
+    Genus='indexof(["NE"], datum.game_winner_cat) >= 0 ? "Cuando los Pats Ganan": "Cuando los Pats Pierden"'
+).mark_bar().encode(
+    x=alt.X('team_penalty_cat:N', title='', axis=None),
+    y=alt.Y('mean(mean_yds):Q', title='Promedio de Yardas\nConcedidas por Partido'),    
+    color=alt.Color('team_penalty_cat:N' , 
+                    legend=alt.Legend(direction="horizontal",orient="none",legendX=250, legendY=-50))
+)
+
+
+textOf = barOf.mark_text(dx=0 ,dy=-8, fontSize=12, font="Courier", color="#08415C").encode(
+    text = alt.Text( "mean(mean_yds):Q" , format=".1f",),   #redondear decimales en el label
+    opacity=alt.value(0.9),
+)
+
+base_castigos_ofensivos= alt.layer(barOf, textOf).properties(
+    width = 300,
+    height = 250,
+).facet(
+    column = alt.Column("Genus:N", title=""),
+)
+
+finalOf = alt.vconcat(base_castigos_ofensivos, caption_chart).configure_header(    
+    #El configure header va aquí para evitar errores de config
+    title=None,
+    labelOrient="bottom",  #Posición del "Cuando los Pats ganan",
+    labelFontSize = 14,    #Tamaño del "Cuando los Pats ganan",
+    labelFont="Courier",
+    
+).properties(
+ title = "Castigos Ofensivos Por Equipo - Altair",
+)
+
+finalOf = finalOf.configure_title(
+    anchor='start'
+)
+
+finalOf
+```
+
+En **Altair** tuve que seguir la siguiente lógica:
+1. Crear chart 
+2. Filtrar dentro de Altair el tipo de castigo
+3. Crear un nuevo campo para generar el label "Cuando ganan .." 
+4. Crear la gráfica de barra
+5. Crear otra gráfica para los textos arriba de las barras
+6. Hacer una _layer chart_ para unir las dos anteriores
+7. Hacer una _facet chart_ para duplicar la gráfica por la variable que creé al inicio
+8. Crear una gráfica para el _caption_
+9. Concatenar verticalmente la _facet chart_ con el _caption_
+10. Ajustar el header para que los labels de la _facet chart_  queden por debajo el eje x
+11. Ajustar el título
+
+Básicamente, tuve que entender los conceptos, diferencias y usos de layer y facet y luego ver en qué parte del proceso tenía que ajustar las etiquetas que necesitaba.
+
+En **Altair** no logré quitar el eje Y por completo. Pude quitar los labels y los ticks pero no la línea del eje. Además, no permite saltos de línea en el título del eje, cosa que se arregla con un `\n` en **ggplot**
+
+Una de las cosas más complicadas que tuve en **Altair** fue poner títulos, subtítulos y _captions_ (la nota que va hasta abajo). En *ggplot* eso se logra con estás líneas:
+
+```r
+labs(title="Castigos Ofensivos por Equipo - ggplot",
+          caption="@nerudista") +
+```
+
+Mientras que para **Altair** tuve que seguir otro artículo del master tacos para hacer un _vconcat_ :
+
+```py
+finalOf = alt.vconcat(base_castigos_ofensivos, caption_chart).configure_header(    
+    #El configure header va aquí para evitar errores de config
+    title=None,
+    labelOrient="bottom",  #Posición del "Cuando los Pats ganan",
+    labelFontSize = 14,    #Tamaño del "Cuando los Pats ganan",
+    labelFont="Courier",
+    
+).properties(
+ title = "Castigos Ofensivos Por Equipo - Altair",
+)
+
+```
+Mi complicación con el _vconcat_ es que tardé en entender que el label "Cuando Ganan los Pats" es parte del _header_ y es por eso que debo configurar el _labelOrient_ en esa parte del código. 
+
+En **ggplot** también existe el concepto de _facet_ pero para esta gráfica no tuve que usarla. Logré un efecto similar con esta parte del código:
+
+```r
+ aes(x=game_winner_cat, 
+           y=mean_yds, 
+           fill=team_penalty_cat  #esto pone color por equipo
+           )
+       )+
+  geom_bar(stat = "identity",
+           position = "dodge"  #esto es similar al facet de Altair
+           )+
+```
+
+Solo por no dejar va la secuencia de pasos de **ggplot**:
+
+
+1. Filtrar dentro de ggplot el tipo de castigo
+2. Definir los aes() de la gráfica
+3. Crear la gráfica de barra
+4. Sobre la anterior crear la gráfica para los textos arriba de las barras
+5. Cambiar las etiquetas "Cuando ganan .." 
+6. Aplicar el _theme_ que definimos al inicio. 
+7. Generar el titulo y el _caption_
+
+En cuanto a tiempos la de ggplot me tomó una hora o dos mientras que la de Altair como unas 6,7. Esto debido a que me costó entender la secuencia layer --> facet --> concat. Si no la seguía bien, este error se reproducía como conejo:
+
+```
+ValueError: Objects with "config" attribute cannot be used within LayerChart. Consider defining the config attribute in the LayerChart object instead.
+
+```
+Por su simplicidad, **ggplot** me gustó más para este ejercicio.
 
 
 ---------------
