@@ -14,43 +14,6 @@ library(ggthemes) # Load
 #red  #C8032B
 #gray #B0B7BC
 
-theme_pats_gray <- theme_hc() +
-  theme(
-    text=element_text(size=12,
-                      family="mono",
-                      color="#002145"),
-    # limpiar la gráfica
-    axis.ticks = element_blank(),
-    #axis.title.x = element_text(color="#08415C"),
-    #axis.title.y = element_text(color="#08415C"),
-    #axis.text.x = element_text(color="#08415C"),
-    #axis.text.y = element_text(color="#08415C"),
-    # ajustar titulos y notas
-    plot.title = element_text(size=20,
-                              #family = "mono",
-                              color="#08415C"
-    ),
-    plot.caption = element_text(
-                                color="#08415C",
-                                face="italic",
-                                size=6
-                                ),
-    # fondo
-    plot.background = element_rect(fill = "#B0B7BC"),
-    
-    #grid lines
-    #panel.grid.major = element_blank(),
-    #panel.grid.minor = element_blank(),
-    
-    # legend color
-    legend.background = element_rect(fill='#B0B7BC'),
-    legend.position = "top",
-    legend.text = element_text(
-      color="#08415C"), 
-    legend.spacing.x = unit( 1,"cm"),
-    legend.box.margin = margin(.5, .5, .5, .5, "cm")
-  )
-
 
 theme_pats_white <- theme(
   
@@ -59,10 +22,6 @@ theme_pats_white <- theme(
                     color="#002145"),
   # limpiar la gráfica
   axis.ticks = element_blank(),
-  #axis.title.x = element_text(color="#08415C"),
-  #axis.title.y = element_text(color="#08415C"),
-  #axis.text.x = element_text(color="#08415C"),
-  #axis.text.y = element_text(color="#08415C"),
   # ajustar titulos y notas
   plot.title = element_text(size=20,
                             #family = "mono",
@@ -81,7 +40,7 @@ theme_pats_white <- theme(
   
   # legend color
   legend.background = element_rect(fill='#FFFFFF'),
-  #legend.position = "top",
+  legend.position = "top",
   legend.text = element_text(
     color="#08415C"), 
   legend.key = element_rect(fill="#FFFFFF"),     #quita el color gris de la línea de castigos  
@@ -123,6 +82,7 @@ df_juegos_posesion$team_penalty_cat <- factor(df_juegos_posesion$team_penalty_ca
 #Crear columna game_winner_cat para ver quién ganó el partido
 data$game_winner_cat <- ifelse(data$winner == 'NE', 'NE', 'Oponente')
 
+
 df_yds_totales <-data %>%
   group_by(game_winner_cat,team_penalty_cat,penalty_side,season,week) %>%
   summarise(sum_yds=sum(penalty_yards)) %>%
@@ -132,9 +92,14 @@ df_yds_totales <-data %>%
 ##### Gráfica de castigos ofensivos
 
 ggplot(df_yds_totales %>% filter(penalty_side=='Castigo Ofensivo'),
-       aes(x=game_winner_cat, y=mean_yds, fill=team_penalty_cat))+
+       aes(x=game_winner_cat, 
+           y=mean_yds, 
+           fill=team_penalty_cat
+           )
+       )+
   geom_bar(stat = "identity",
-           position = "dodge" )+
+           position = "dodge" 
+           )+
   geom_text(aes(label=paste(mean_yds," yds")),
             position=position_dodge(width=.9),
             family="mono",
@@ -142,7 +107,7 @@ ggplot(df_yds_totales %>% filter(penalty_side=='Castigo Ofensivo'),
             size=3.5,
             vjust=-0.5                       #separacion vertical de la barra
             ) +  
-  labs(title="Castigos Ofensivos por Equipo",
+  labs(title="Castigos Ofensivos por Equipo - ggplot",
           caption="@nerudista") +
   guides(fill=guide_legend(title=NULL))+      #remove legend title
   scale_x_discrete(labels=c("Cuando Pats Ganan","Cuando Pats Pierden"))+
@@ -226,13 +191,12 @@ levels(as.factor(df_opp$team_penalty_cat))
             )+ 
   xlab("Oportunidad")+
   coord_flip()+
-  labs(title="Yardas Concedidas\nPor Equipo y Oportunidad",
+  labs(title="Yardas Concedidas\nPor Equipo y Oportunidad - ggplot",
        subtitle="Incluye Castigos Ofensivos y Defensivos",
        caption="@nerudista") +
   guides(fill=guide_legend(title=NULL))+      #remove legend title
   scale_fill_manual(values=c("#08415C", "#B0B7BC"))+
   scale_y_discrete(breaks=NULL)+
-  
   theme_pats_white+
   theme(
     axis.title.x = element_blank()

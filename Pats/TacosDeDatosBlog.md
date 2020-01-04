@@ -11,6 +11,12 @@ Tenía rato que quería hacer gráficas con ggplot en R y con Altair en Python y
 
 En este artículo intentaré explicar cómo fue mi proceso creativo y de codificación. Como mencioné previamente soy principiante en ambas herramientas. Por favor ten en mente que este es mi acercamiento inicial a estas herramientas. No intento dar un manual de cómo se deben hacer las cosas sino abrir la conversación acerca de cómo perderle el miedo a jugar con los datos, los retos que afronté y las cosas que no logré completar.
 
+ Seguramente hay formas más eficientes de realizar lo que se va a mostrar aquí o incluso de completar algunas tareas que no pude finalizar porque ya de plano no encontré documentación o ejemplos que me pudieran ayudar. 
+
+Como última advertencia les digo que no busqué documentación, tutoriales ningún tipo de ayuda previo a empezar a hacer las gráficas.¿Por qué? Diré que ya tenia muchas ganas de empezar a tirar código y quería probar la documentación existente directo en mis ejemplos para ver si la curva de aprendizaje era digerible para desesperados. Spoiler alert: no lo es.  
+
+Al final del artículo les dejaré alguans referencias de tutoriales y cursos que vale la pena considerar para que no sufran como un servidor.
+
 Dicho esto, a darle que es mole de olla.
 
 ## Armando el dataset
@@ -182,7 +188,7 @@ Ambos básicamente limpian los ejes y el grid (cuadriculado de fondo), especific
 
 Yo vengo del mundo de BI por lo que el formato JSON me es muy familiar. Sin embargo me gustó mucho la sintaxis de **R**. Me parece muy limpia y ocupa menos espacio. Prácticamente ocupé 100 líneas menos para conseguir algo similar.
 
-## Castigos Ofensivos y Defensivos
+## Castigos Ofensivos y Defensivos con _Bar Plots_
 
 Decidí hacer una _bar plot_ para mostrar las  yardas promedio históricas por tipo de castigo.
 
@@ -218,9 +224,7 @@ df_yds_totales = df_yds_totales_week.groupby(["game_winner_cat","team_penalty_ca
 
 Yo estoy muy enamorado de Pandas pero el operador  `%>%` se me hizo una chulada.
 
-
-
-Este es el código de **ggplot** para crear la gráfica:
+La primer gráfica la hice con R. Este es el código de **ggplot** para crear la gráfica:
 
 ```r
 ##### Gráfica de castigos ofensivos
@@ -252,8 +256,23 @@ theme(
   axis.title.x = element_blank()
 )
 ```
+ Básicamente la secuencia de pasos de **ggplot** fue:
 
-Aquí está el de **Altair**:
+1. Filtrar dentro de ggplot el tipo de castigo
+2. Definir los aes() de la gráfica
+3. Crear la gráfica de barra
+4. Sobre la anterior crear la gráfica para los textos arriba de las barras
+5. Cambiar las etiquetas "Cuando ganan .." 
+6. Aplicar el _theme_ que definimos al inicio. 
+7. Generar el titulo y el _caption_
+
+Hacer esta gráfica fue relativamente fácil. Me tardé poco más de una hora porque investigué  el tema del `position = "dodge" ` , cómo quitar el título de la leyenda y límites del eje y.
+
+
+
+Para  **Altair** la cosa se puso más interesante ya que tuve que usar un **transform_filter** para quedarme sólo con los castigos ofensivos y además usar un **transform_calculate** para generar un nuevo campo ya que no puedo cambiar los labels ("Cuando los Pats ...") como en **ggplot**. Después tuve que investigar cómo usar el **facet** para "duplicar" la gráfica por el campo que recién había creado. Por último tuve que investigar cómo crear un _caption_. Tardé como unas 6-7 horas batallando con estos temas. Si se van a meter a Altair, inviértanle un tiempo previo para que no se desgasten como yo.
+
+El código de Python quedó así:
 
 ```py
 #primer intento ofensivos
@@ -301,6 +320,8 @@ finalOf = finalOf.configure_title(
 finalOf
 ```
 
+
+
 En **Altair** tuve que seguir la siguiente lógica:
 1. Crear chart 
 2. Filtrar dentro de Altair el tipo de castigo
@@ -314,11 +335,16 @@ En **Altair** tuve que seguir la siguiente lógica:
 10. Ajustar el header para que los labels de la _facet chart_  queden por debajo el eje x
 11. Ajustar el título
 
-Básicamente, tuve que entender los conceptos, diferencias y usos de layer y facet y luego ver en qué parte del proceso tenía que ajustar las etiquetas que necesitaba.
+ Me costó bastante entender la secuencia layer --> facet --> concat. Si no la seguía bien, este error se reproducía como conejo:
+
+```
+ValueError: Objects with "config" attribute cannot be used within LayerChart. Consider defining the config attribute in the LayerChart object instead.
+
+```
 
 En **Altair** no logré quitar el eje Y por completo. Pude quitar los labels y los ticks pero no la línea del eje. Además, no permite saltos de línea en el título del eje, cosa que se arregla con un `\n` en **ggplot**
 
-Una de las cosas más complicadas que tuve en **Altair** fue poner títulos, subtítulos y _captions_ (la nota que va hasta abajo). En *ggplot* eso se logra con estás líneas:
+Como mencioné antariormente, una de las cosas más complicadas que tuve en **Altair** fue poner títulos, subtítulos y _captions_ (la nota que va hasta abajo). En *ggplot* eso se logra con estás líneas:
 
 ```r
 labs(title="Castigos Ofensivos por Equipo - ggplot",
@@ -355,25 +381,158 @@ En **ggplot** también existe el concepto de _facet_ pero para esta gráfica no 
            )+
 ```
 
-Solo por no dejar va la secuencia de pasos de **ggplot**:
+Y hasta aquí llegamos con esta gráfica.
 
+## Castigos por oportunidad con _bar plots_ horizontales
 
-1. Filtrar dentro de ggplot el tipo de castigo
-2. Definir los aes() de la gráfica
-3. Crear la gráfica de barra
-4. Sobre la anterior crear la gráfica para los textos arriba de las barras
-5. Cambiar las etiquetas "Cuando ganan .." 
-6. Aplicar el _theme_ que definimos al inicio. 
-7. Generar el titulo y el _caption_
+Para la segunda gráfica intenté hacer algo similar pero ahora con con barras horizontales y además apiladas
 
-En cuanto a tiempos la de ggplot me tomó una hora o dos mientras que la de Altair como unas 6,7. Esto debido a que me costó entender la secuencia layer --> facet --> concat. Si no la seguía bien, este error se reproducía como conejo:
+Este es el resultado de ambos ejercicios:
+
+![https://github.com/nerudista/DataViz/blob/master/Pats/graficas/R/RplotYardasOportunidad.png?raw=true ](https://github.com/nerudista/DataViz/blob/master/Pats/graficas/R/RplotYardasOportunidad.png?raw=true)
+
+![https://github.com/nerudista/DataViz/blob/master/Pats/graficas/Altair/AltairYardasOportunidad.png?raw=true](https://github.com/nerudista/DataViz/blob/master/Pats/graficas/Altair/AltairYardasOportunidad.png?raw=true)
+
+Estos son los códigos para la creación de los dataframes:
+
+R:
+```r
+df_opp <- data %>%
+  group_by(opportunity,team_penalty_cat) %>%
+  summarise(count=sum(penalty_yards)) #count
+
+levels(as.factor(df_opp$team_penalty_cat))  
 
 ```
-ValueError: Objects with "config" attribute cannot be used within LayerChart. Consider defining the config attribute in the LayerChart object instead.
+
+Python:
+```py
+df_opp = data.groupby(["opportunity","team_penalty_cat"])["penalty_yards"].sum().reset_index(name="count_yds")
+df_opp.opportunity = df_opp.opportunity.astype(int)
+```
+
+Si bien son muy sencillos los dataframes, en **ggplot** tuve que poner definir los levels del campo `team_penalty_cat` para poder hacer la gráfica.
+
+La gráfica de R salió con este código:
+
+```r
+plot_opp <- ggplot(df_opp,
+                     aes(x=opportunity, y=count,
+                         fill=team_penalty_cat
+                         #fill=factor(team_penalty_cat,levels=c("NE","Oponente"))
+                         )) +
+  geom_bar(stat = "identity",
+           position="stack")+
+  geom_text(aes(label=count),
+            position=position_stack(vjust = .5),
+            family="mono",
+            color="#FFFFFF",
+            size=3.5
+            )+ 
+  xlab("Oportunidad")+
+  coord_flip()+
+  labs(title="Yardas Concedidas\nPor Equipo y Oportunidad - ggplot",
+       subtitle="Incluye Castigos Ofensivos y Defensivos",
+       caption="@nerudista") +
+  guides(fill=guide_legend(title=NULL))+      #remove legend title
+  scale_fill_manual(values=c("#08415C", "#B0B7BC"))+
+  scale_y_discrete(breaks=NULL)+
+  
+  theme_pats_white+
+  theme(
+    axis.title.x = element_blank()
+  ); plot_opp
 
 ```
-Por su simplicidad, **ggplot** me gustó más para este ejercicio.
+ La secuencia de pasos de **ggplot** fue:
 
+1. Definir los aes() de la gráfica.
+2. Crear la gráfica de barra.
+3. Sobre la anterior crear la gráfica para los textos arriba de las barras.
+4. Girar la gráfica para hacer las barras horizontales.
 
----------------
- Seguramente hay formas más eficientes de realizar lo que se va a mostrar aquí o incluso de completar algunas tareas que no pude finalizar porque ya de plano no encontré documentación o ejemplos que me pudieran ayudar. 
+Aquí el truco está en `position="stack"` para hacer el apilado y en `coord_flip()` para hacer las barras horizontales. También agregué un subtítulo con `subtitle="Incluye Castigos Ofensivos y Defensivos"`.
+
+Para **Altair** el código fue:
+
+```py
+
+bars_opp = alt.Chart(df_opp).mark_bar().encode(
+    x=alt.X('count_yds:Q', stack='zero',axis=None),
+    y = alt.Y ("opportunity:N" , 
+           axis=alt.Axis(labels=True, title="Oportunidad")),
+    color=alt.Color('team_penalty_cat' , 
+                    legend=alt.Legend(direction="horizontal",
+                                      orient="none",
+                                      legendX=250,
+                                      legendY=-40,
+                                      columnPadding=30,
+                                      padding=-25,
+                                     ))
+).properties(
+  width = 700,
+  height = 300,
+)
+
+text_opp = alt.Chart(df_opp).mark_text(dx=-25, dy=3, color='white', font="Courier",
+    fontSize=12,).encode(
+    x=alt.X('count_yds:Q', stack='zero',axis=None),
+    y=alt.Y('opportunity:N', sort=alt.EncodingSortField(field="opportunity",
+                                                        #op="argmax",
+                                                        order='ascending')),
+    detail='team_penalty_cat:N',
+    text=alt.Text('count_yds:Q')
+).properties(
+  width = 600,
+  height = 300,
+)
+
+base_opp = alt.layer(bars_opp,text_opp)
+
+subtitle = alt.Chart(
+    {"values": [{"text": "Incluye Castigos Ofensivos y Defensivos"}]}
+).mark_text(dx=-165 ,size=16, color="#08415C", font='Courier').encode(
+    text="text:N"
+).properties(
+   width = 700,
+    height=0
+)
+
+subtitle
+
+final_opp= alt.vconcat(#title, 
+             subtitle,
+             base_opp,
+             caption_chart).properties(
+   title="Castigos de Contrarios en los 5 min Finales"  )
+
+final_opp
+
+#Guardar imagen
+final_opp.save('./graficas/Altair/AltairYardasOportunidad.png', scale_factor=2.0)
+```
+
+La  lógica aquí fue:
+
+1. Crear chart.
+2. Crear la gráfica de barra.
+3. Crear otra gráfica para los textos arriba de las barras.
+4. Hacer una _layer chart_ para unir las dos anteriores.
+5. Crear una gráfica para el _caption_.
+6. Crear una gráfica para el _subtitle_.
+6. Concatenar verticalmente la _layer chart_ con el _caption_ y el _subtitle_
+
+Nuevamente tuve problemas con el eje y y no pude quitar la línea vertical. Intenté centrar los labels dentro de las barras pero no lo logré además de que no logré ordenar las oportunidades en el eje Y de la misma forma que en **ggplot**.
+
+Un punto importante es el subtitle lo hice concatenando verticalmente otra gráfica. Sin embargo, cuando lo hago me queda por arriba del _legend_. Intenté jugar de varias maneras con la posición X y Y del _legend_ pero no logré poner el subtítulo entre el título y la gráfica. Se aceptan sugerencias.
+
+Hacer ambas gráficas fue relativamente rápido. En **ggplot** basta con hacer el `coord_flip()`y en Altair es aún más fácil pues basta con indicar en qué eje queremos cada variable.
+
+Hacer gráficas simples es bastante fácil con ambas #bibliotecasNoLibrerias pero las horas de investigación se van en los detallitos: ejes, leyendas, posiciones, espacios entre barras, orientación de las etiquetas, etc.
+
+## ¿Y nomás dos gráficas?
+
+No. tengo otras tres un poquito más interesante pero para no hacer más largo este artículo y para darle más carnita al blog del amigo @tacosdedatos , las siguientes gráficas vienen en la segunda parte de esta entrega.
+
+Estén atentos a su publicación que esto apenas empieza.
+
