@@ -418,6 +418,7 @@ labs(title="Castigos de Contrarios\nEn los 5 min Finales - ggplot",
          subtitle="Totales por Temporada"
          )+
   theme(
+    #axis.line = element_line(),
     legend.title = element_blank(),
     legend.key = element_rect(fill="#FFFFFF"),     #quita el color gris de la línea de castigos  
     #legend.position = "right",
@@ -474,7 +475,7 @@ labs(title="Castigos de Contrarios\nEn los 5 min Finales - ggplot",
     ylab("Total de Castigos")+
     guides(size=FALSE,color=FALSE)+
     labs(caption="@nerudista",
-         title="Castigos por Temporada"
+         title="Castigos por Temporada - ggplot"
          #subtitle="Totales por Temporada"
     )+
     theme(
@@ -482,7 +483,7 @@ labs(title="Castigos de Contrarios\nEn los 5 min Finales - ggplot",
       legend.box = "vertical",
       legend.title = element_blank(),
     )+
-    theme_pats_white
+    theme_pats_white; plot_temporada_all;
   
   ggsave(plot_temporada_all,
          filename = "./Graficas/R/RplotCastigosAllSeason.png",
