@@ -249,7 +249,7 @@ limit <- strptime("05:00","%M:%S") %>% as.ITime()
   )+
   xlab("Semana")+
   ylab("Número de Castigos")+
-  labs(title="Castigos de Contrarios\nEn los 5 min Finales",
+  labs(title="Castigos de Contrarios\nEn los 5 min Finales - ggplot",
        subtitle="Partidos de Temporada Regular",
        caption="@nerudista") +
   theme_pats_white;  plot_4q_5min_reg
@@ -262,8 +262,8 @@ limit <- strptime("05:00","%M:%S") %>% as.ITime()
   )    
   
 
-  ########## CASTIGOS POST-TEMPORADA 
-#El dataset tiene un error. EL SB de 2014 lo pone ocmo Week 5 y debe ser 4
+########## CASTIGOS POST-TEMPORADA 
+#El dataset tiene un error. EL SB de 2014 lo pone como Week 5 y debe ser 4
 
 data$week <- ifelse( data$game_type=='POST' & data$week==5,
                      '4',
@@ -298,7 +298,7 @@ data$week <- ifelse( data$game_type=='POST' & data$week==5,
              color="#FFFFFF"
   )+
   xlab("Semana")+
-labs(title="Castigos de Contrarios\nEn los 5 min Finales",
+labs(title="Castigos de Contrarios\nEn los 5 min Finales - ggplot",
      subtitle="Partidos de Postemporada",
        caption="@nerudista") +
        guides(fill=guide_legend(title=NULL))+      #remove legend title
@@ -317,10 +317,9 @@ labs(title="Castigos de Contrarios\nEn los 5 min Finales",
          units ="mm"
   )    
   
-  ########################################
+  ############################################
   ### VER CASTIGOS EN JUEGOS DE UNA POSESION
-  ### 
-  ########################################
+  ############################################
   
   
   df_juegos_posesion <- data %>%
@@ -349,7 +348,7 @@ labs(title="Castigos de Contrarios\nEn los 5 min Finales",
     facet_grid( team_penalty_cat ~ .   ) +
     scale_x_discrete(labels=c("Cuando Pats ganan","Cuando Pats pierden"))+
     scale_fill_manual(values=c("#a8bdc6","#8ea8b4","#4b7488","#08415C"))+
-    labs(title="Promedio de Castigos por Quarter",
+    labs(title="Promedio de Castigos por Quarter - ggplot",
          subtitle="Juegos de Una Posesión",
          caption="@nerudista") +
     guides(fill=guide_legend(title=NULL))+      #remove legend title
@@ -361,7 +360,7 @@ labs(title="Castigos de Contrarios\nEn los 5 min Finales",
       #remover titulos de los ejes
       axis.title.y = element_blank(),  
       axis.title.x = element_blank()
-      )
+      ); plot_juegos_1_posesion;
   
   
   ggsave(plot_juegos_1_posesion,
@@ -402,7 +401,7 @@ labs(title="Castigos de Contrarios\nEn los 5 min Finales",
                alpha = 0.4) +
     geom_smooth(aes(color=penalty_side,       #crea linea de regresion
                     fill = penalty_side
-                ), 
+                    ), 
                 se=FALSE,
                 alpha=0.2,
                 method = lm,
@@ -415,7 +414,7 @@ labs(title="Castigos de Contrarios\nEn los 5 min Finales",
     xlab("Castigos")+
     ylab("Puntos")+
     labs(caption="@nerudista",
-         title="Castigos de Contrarios vs Puntos Permitidos",
+         title="Castigos de Contrarios vs Puntos Permitidos - ggplot",
          subtitle="Totales por Temporada"
          )+
   theme(
@@ -424,8 +423,7 @@ labs(title="Castigos de Contrarios\nEn los 5 min Finales",
     #legend.position = "right",
     #legend.margin = margin(0.2, 0.2, 0.2, 0.2, "cm"),
     legend.position = c(0.7, 0.35)
-  )  +
-    theme_pats_white
+  ) + theme_pats_white; plot_temporada_help;
     
     
   ggsave(plot_temporada_help,
