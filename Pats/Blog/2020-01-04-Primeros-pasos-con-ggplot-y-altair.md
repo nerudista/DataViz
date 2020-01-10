@@ -1,9 +1,15 @@
 ---
-title: "Primeros pasos con ggplot (R) y Altair (Python)"
-output: html_document
+layout: post
+current: post
+cover:  assets/blogposts/009.png
+navigation: True
+title: Primeros pasos con ggplot (R) y Altair (Python)
+date: 2020-01-04 10:00:00
+tags: [blog, altair, ggplot2, python, r,]
+class: post-template
+subclass: 'post tag-blog'
+author: nerudista
 ---
-
-# Primeros pasos con ggplot (R) y Altair (Python)
 
 Hace un par de meses, mientras veía el partido de los Pats contra los Cowboys, un tuitero famosón mencionó que a los Pats siempre los benefician los arbitros. Por esas fechas leía un libro sobre sesgos cognitivos y pensé que tal vez habría un tanto de eso con los Pats. Así que me decidí jugar un poco con los datos para ver qué encontraba.
 
@@ -15,7 +21,7 @@ En este artículo intentaré explicar cómo fue mi proceso creativo y de codific
 
 Como última advertencia les digo que no busqué documentación, tutoriales ningún tipo de ayuda previo a empezar a hacer las gráficas.¿Por qué? Diré que ya tenia muchas ganas de empezar a tirar código y quería probar la documentación existente directo en mis ejemplos para ver si la curva de aprendizaje era digerible para desesperados. Spoiler alert: no lo es.  
 
-Al final del artículo les dejaré algunass referencias de tutoriales y cursos que vale la pena considerar para que no sufran como un servidor.
+Al final del artículo les dejaré algunas referencias de tutoriales y cursos que vale la pena considerar para que no sufran como un servidor.
 
 Dicho esto, a darle que es mole de olla.
 
@@ -128,7 +134,7 @@ def theme_pats_white():
                 "anchor": "middle", # equivalent of left-aligned.                
                 "color": fontColor,
             },
-            "axisX": {
+            "axisX": {  
                 "labelFont": labelFont,
                 "titleFont": font,
                 "titleFontSize": 12,
@@ -537,3 +543,6 @@ No. tengo otras tres un poquito más interesante pero para no hacer más largo e
 
 Estén atentos a su publicación que esto apenas empieza.
 
+*** 
+
+¿Qué te pareció la nota? [Mandanos un tuit a @tacosdedatos](https://twitter.com/share?text=Obvio+que+estuvo+super+el+blog+%40tacosdedatos+%F0%9F%8C%AE) o [a @nerudista](https://twitter.com/share?text=Obvio+que+estuvo+super+el+blog+%40tacosdedatos+y+%40nerudista+%F0%9F%8C%AE) o envianos un correo a [✉️ sugerencias@tacosdedatos.com](mailto:sugerencias@tacosdedatos.com?subject=Sugerencia&body=Hola-holaaa). Y recuerda que puedes subscribirte a nuestro boletín semanal aquí debajo.
