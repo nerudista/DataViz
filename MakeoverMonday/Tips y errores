@@ -1,0 +1,5 @@
+Tips y errores:
+
+- Fondo en dashboard es blanco y no de color:
+	-- Format - Sheet - Pane --> None en la grafica antes de meter al dashboard
+	
