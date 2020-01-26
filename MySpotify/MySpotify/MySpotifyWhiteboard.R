@@ -4,6 +4,7 @@ library(jsonlite)
 library(lubridate)
 #biblioteca para el %>%
 library(dplyr)
+library(tidyverse)
 #biblioteca para los gráficos
 library(ggplot2)
 library(ggrepel)
@@ -137,4 +138,222 @@ plotArtistaMes <-ggplot(data=dfArtistaMes,
     
 
 ggsave("./graficas/TopMensual.png", plotArtistaMes, width = 10, height = 14)
+
+
+############### SIMPLE BUBBLES
+#install.packages("packcircles")
+library("packcircles")
+
+#install.packages("ggiraph")
+library(ggiraph)
+
+dfCanciones <- data %>%
+  group_by(artistName,trackName) %>%
+  summarise(min=sum(minPlayed))%>%
+  filter (min > 5)
+
+packing <- circleProgressiveLayout(dfCanciones$min, sizetype='area')
+dfSimpleBubble <- data.frame(dfCanciones$trackName, dfCanciones$min, packing)
+
+# los npoints dicen las caras de la figura 3-triangulo, 4-cuadrado
+dat.gg <- circleLayoutVertices(packing, npoints=50)
+
+plotSingleBubble <- ggplot()+
+  # Make the bubbles
+  geom_polygon(data=dat.gg, aes(x,
+                                y,
+                                group=id,
+                                colour = "black",
+                                alpha = 0.6,
+                                fill=as.factor(id))) +
+  geom_text(data=dfSimpleBubble,
+            #aes(x,y, label=paste(dfCanciones.trackName,dfCanciones.min))
+            aes(x,y, label=paste(".",""))
+            )+
+  scale_size_continuous(range = c(1,5)) +
+  labs(title="Un Universo de Música",
+       subtitle="Minutos de reproducción por canción ",
+       caption="Hecho por @nerudista con datos de Spotify") +
+  scale_color_brewer(palette="Dark2")+
+  #theme_void()+
+  theme_spoty+
+  theme(legend.position="none") +
+  coord_equal()
+
+ggsave("./graficas/SingleBubble.png", plotSingleBubble, width = 10, height = 15)
+
+
+
+
+############### SIMPLE BUBBLES INTERACTIVE
+
+
+# Add a column with the text you want to display for each bubble:
+dfSimpleBubble$text <- paste("Canción: ",dfSimpleBubble$dfCanciones.trackName, "\n", "Min:", dfSimpleBubble$dfCanciones.min)
+
+plotSingleBubbleInter <- ggplot()+
+  geom_polygon_interactive(data=dat.gg,
+                           aes(x,y,
+                               group=id,
+                               #fill=id,
+                               fill=as.factor(id),
+                               tooltip= dfSimpleBubble$text[id],
+                               family="Gotham",
+                               data_id = id),
+                           colour = "black", alpha = 0.6)+
+  theme_spoty +
+  scale_color_brewer(palette="Dark2")+
+  theme(legend.position="none") +
+  labs(title="Un Universo de Música",
+       subtitle="Minutos de reproducción por canción ",
+       caption="Hecho por @nerudista con datos de Spotify") +
+  coord_equal()
+
+widg <- ggiraph(ggobj = plotSingleBubbleInter, width_svg = 6, height_svg = 9)
+
+#widg
+
+# save the widget
+#install.packages("htmlwidgets")
+ library(htmlwidgets)
+
+# Este falla si quieres guardar en otra locacion que no sea . 
+# Es bug por las rutas relativas: 
+#https://stackoverflow.com/questions/41399795/savewidget-from-htmlwidget-in-r-cannot-save-html-file-in-another-folder
+# destination<- paste0( getwd(), "/graficas/HtmlWidget/circular_packing_interactive.html")
+# saveWidget(widg, file=destination)
+ 
+f<-"graficas\\circular_packing_interactive.html"
+saveWidget(widg,file.path(normalizePath(dirname(f)),basename(f))) 
+
+############################################################
+########################## LOLLIPOP
+############################################################
+
+#CRear data frame de canciones
+dfCanciones <- data %>%
+  group_by(artistName,trackName) %>%
+  summarise(min=sum(minPlayed))%>%
+  filter (min > 5)
+
+
+# Crear df el top n de artistas por minutos reproducidos en el año
+dfArtistaAnio <- data%>%
+  group_by(artistName)%>%
+  summarise(min=sum(minPlayed)) %>%
+  top_n(5)%>%
+  arrange(min)
+
+# crear un df con el group by solo por artistName 
+artistas <- dfCanciones %>% group_by(artistName)
+
+# filtrar el df artistas tomando el registro con más minutos. Va inverso porque no hay max_rank()
+# sino min_rank(). Solo tomo un row: el más alto
+dfTopCanciones <- filter(artistas, min_rank(desc(min)) <= 1 )
+
+# hago un join entre el df dfArtistaAnio y dfTopCanciones por artistName
+# así solo me quedan los top artistas con su canción más escuchada
+dfCancionesArtistasTop <- merge(x=dfArtistaAnio, y=dfTopCanciones, by="artistName", all.x = TRUE)
+
+
+dfTemp1 <- data.frame( item = dfCancionesArtistasTop$artistName,
+                                          min = dfCancionesArtistasTop$min.x,
+                                          type = "A")%>% arrange(-min)
+
+# manualmente pongo el orden en que quiero que aparezcan los artistas
+dfTemp1$order <- c(1,3,5,7,9)
+
+
+dfTemp2 <- data.frame( item = dfCancionesArtistasTop$trackName,
+                       min = dfCancionesArtistasTop$min.y,
+                       type = "C")
+
+# manualmente pongo el orden en que quiero que aparezcan las canciones
+dfTemp2$order <- c(2,6,8,4,10)
+
+dfCancionesArtistasTopList=rbind(dfTemp1,dfTemp2)
+
+
+
+
+#ahora a pintar la gráfica
+plotTop5 <- ggplot(data=dfCancionesArtistasTopList,
+       aes(x=item,
+           y=min
+       ))+
+  geom_segment(data=dfCancionesArtistasTopList ,
+               aes(x=reorder(item,-order),
+                   xend=item,
+                   y=0,
+                   yend=min
+                   ),
+               color=ifelse(dfCancionesArtistasTopList$type=="A","#67A61F","#E72A8A"),
+               size=2
+               )+
+  geom_point(
+             color=ifelse(dfCancionesArtistasTopList$type=="A","#67A61F","#E72A8A"),
+             size=7
+  )+
+  geom_text(aes(label=paste(round(min,0)," min")),
+            color=ifelse(dfCancionesArtistasTopList$type=="A","#67A61F","#E72A8A"),
+            size=4,
+            #color="#FFFFFF",
+            family="Gotham",
+            nudge_x = -.3)+
+  coord_flip()+
+  scale_color_brewer(palette="Dark2")+
+  ylab("")+
+  xlab("")+
+  theme(legend.position="none") +
+  labs(title="Top 5 de Artistas",
+       subtitle="Con su canción más escuchada",
+       caption="Hecho por @nerudista con datos de Spotify") +
+  theme(
+    text = element_text(color = "#1db954",
+                        family="Gotham"
+    ),
+    #Esto pone negro el titulo , los ejes, etc
+    plot.background = element_rect(fill = '#191414', colour = '#191414'), 
+    #Esto pone negro el panel de la gráfica, es decir, sobre lo que van los lollipops
+    panel.background = element_rect(fill="#191414",color="#191414"),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    plot.title = element_text(size=32,
+                              color="#1db954"),
+    plot.subtitle = element_text(size=20,
+                                 color="#E72A8A"),
+    plot.caption = element_text(
+      color="#1db954",
+      face="italic",
+      size=13
+    ),
+    axis.text=element_text(family = "Gotham",
+                           size=13,
+                           color="#FFFFFF"),
+    axis.ticks=element_blank(),
+    axis.text.x = element_blank(),
+  );plotTop5
+
+
+ggsave("./graficas/plotTop5.png", plotTop5, width = 10, height = 7)
+
+
+################# canciones consucutivas
+
+# con la función RLE puedo detectar los registros consecutivos
+# aquí lo explican chido
+# https://www.r-bloggers.com/r-function-of-the-day-rle-2/
+  
+dfConsecutivos <- data.frame( repeticiones = rle(data$trackName)$lengths,
+                              cancion = rle(data$trackName)$values
+                            ) %>% arrange(desc(repeticiones))%>%
+                            top_n(10,repeticiones)
+
+dfTest <- data.frame ( x = c("A","A","A","B","B"),
+                       y = c(1,2,3,1,2))
+
+ggplot(data=dfTest, aes(x=x, y=y))+
+  geom_point(aes(size=y*1000))+
+  coord_flip()
+
 
