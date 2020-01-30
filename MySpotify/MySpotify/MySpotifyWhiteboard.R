@@ -229,7 +229,8 @@ saveWidget(widg,file.path(normalizePath(dirname(f)),basename(f)))
 ########################## LOLLIPOP
 ############################################################
 
-#CRear data frame de canciones
+#Crear data frame con el tiempo total por cada canción junto con el artista.
+#Necesito el artista para filtrar más adelante.
 dfCanciones <- data %>%
   group_by(artistName,trackName) %>%
   summarise(min=sum(minPlayed))%>%
@@ -240,8 +241,8 @@ dfCanciones <- data %>%
 dfArtistaAnio <- data%>%
   group_by(artistName)%>%
   summarise(min=sum(minPlayed)) %>%
-  top_n(5)%>%
-  arrange(min)
+  top_n(5)%>%   # de una vez me quedo con el top 5
+  arrange(min)  # ordeno ya encarrerado el ratón
 
 # crear un df con el group by solo por artistName 
 artistas <- dfCanciones %>% group_by(artistName)
