@@ -30,21 +30,7 @@ data <- rbind(df0,df1,df2)
 
 
 
-data$segPlayed = data$msPlayed/1000
-data$minPlayed = round(data$msPlayed/1000/60,2)
 
-
-#convertir endTime a fecha
-data$endTime <- as.POSIXct(data$endTime)
-#obtener columnas de fecha
-data$mesAño <- paste(format(data$endTime,"%B"),format(data$endTime,"%y"))
-
-#Cambiar los labels, de los levels, de mesAño
-data$mesAño <- factor(data$mesAño,
-        levels = c("enero 19", "febrero 19","marzo 19","abril 19","mayo 19","junio 19",
-                   "julio 19","agosto 19","septiembre 19","octubre 19","noviembre 19",
-                   "diciembre 19","enero 20")
-)
 
 summary(data)
 
@@ -83,6 +69,22 @@ theme_spoty <- theme(
 
 ### ¿Qué artista escuché más por mes?
 
+data$segPlayed = data$msPlayed/1000
+data$minPlayed = round(data$msPlayed/1000/60,2)
+
+
+#convertir endTime a fecha
+data$endTime <- as.POSIXct(data$endTime)
+#obtener columnas de fecha
+data$mesAño <- paste(format(data$endTime,"%B"),format(data$endTime,"%y"))
+
+#Cambiar los labels, de los levels, de mesAño
+data$mesAño <- factor(data$mesAño,
+                      levels = c("enero 19", "febrero 19","marzo 19","abril 19","mayo 19","junio 19",
+                                 "julio 19","agosto 19","septiembre 19","octubre 19","noviembre 19",
+                                 "diciembre 19","enero 20")
+)
+
 dfArtistaMes <- data %>% 
   group_by(mesAño,artistName)%>% 
   summarise(minutosMes= round((sum(minPlayed)))) %>% 
@@ -94,31 +96,31 @@ plotArtistaMes <-ggplot(data=dfArtistaMes,
             y=reorder(mesAño, desc(mesAño))  #ordenar ascendente el mesAño 
        )
        )+
-  geom_point( aes( 
+  geom_point( aes(                    #Capa 1
                   size=minutosMes, 
                   color=artistName),
               show.legend = FALSE,
               alpha = 1
               )  +
-  geom_text(aes(x=1.06,label=mesAño),
+  geom_text(aes(x=1.06,label=mesAño), #Capa 2
             color="#FFFFFF",
             family="Gotham",
             size=6,
             hjust="left")+
-  geom_text(aes(x=.94,
+  geom_text(aes(x=.94,                #Capa 3
                 label=artistName,
                 color=artistName),
             family="Gotham",
             size=6,
             show.legend = FALSE,
             hjust="right")+
-  geom_text(aes(x=.94, label=paste(minutosMes,"m")),
+  geom_text(aes(x=.94, label=paste(minutosMes,"m")),   #Capa 4
             hjust="right",
             size=6,
             color="#FFFFFF",
             family="Gotham",
             vjust=1.8)+
-  geom_line(data=data.frame(x=c(1,1),y=c(1,13)),
+  geom_line(data=data.frame(x=c(1,1),y=c(1,13)),     #Capa 5
             aes(x=x, y=y),
             alpha=0.4,
             size=.85,
@@ -144,8 +146,6 @@ ggsave("./graficas/TopMensual.png", plotArtistaMes, width = 10, height = 14)
 #install.packages("packcircles")
 library("packcircles")
 
-#install.packages("ggiraph")
-library(ggiraph)
 
 dfCanciones <- data %>%
   group_by(artistName,trackName) %>%
@@ -153,7 +153,6 @@ dfCanciones <- data %>%
   filter (min > 5)
 
 packing <- circleProgressiveLayout(dfCanciones$min, sizetype='area')
-dfSimpleBubble <- data.frame(dfCanciones$trackName, dfCanciones$min, packing)
 
 # los npoints dicen las caras de la figura 3-triangulo, 4-cuadrado
 dat.gg <- circleLayoutVertices(packing, npoints=50)
@@ -165,11 +164,9 @@ plotSingleBubble <- ggplot()+
                                 group=id,
                                 colour = "black",
                                 alpha = 0.6,
-                                fill=as.factor(id))) +
-  geom_text(data=dfSimpleBubble,
-            #aes(x,y, label=paste(dfCanciones.trackName,dfCanciones.min))
-            aes(x,y, label=paste(".",""))
-            )+
+                                fill=as.factor(id)
+                                )
+               ) +
   scale_size_continuous(range = c(1,5)) +
   labs(title="Un Universo de Música",
        subtitle="Minutos de reproducción por canción ",
@@ -178,9 +175,9 @@ plotSingleBubble <- ggplot()+
   #theme_void()+
   theme_spoty+
   theme(legend.position="none") +
-  coord_equal()
+  coord_equal(); plotSingleBubble
 
-ggsave("./graficas/SingleBubble.png", plotSingleBubble, width = 10, height = 15)
+ggsave("./graficas/SingleBubble.png", plotSingleBubble, width = 6, height = 9)
 
 
 
@@ -191,11 +188,13 @@ ggsave("./graficas/SingleBubble.png", plotSingleBubble, width = 10, height = 15)
 # Add a column with the text you want to display for each bubble:
 dfSimpleBubble$text <- paste("Canción: ",dfSimpleBubble$dfCanciones.trackName, "\n", "Min:", dfSimpleBubble$dfCanciones.min)
 
+#install.packages("ggiraph")
+library(ggiraph)
+
 plotSingleBubbleInter <- ggplot()+
   geom_polygon_interactive(data=dat.gg,
                            aes(x,y,
                                group=id,
-                               #fill=id,
                                fill=as.factor(id),
                                tooltip= dfSimpleBubble$text[id],
                                family="Gotham",
