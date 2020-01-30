@@ -4,7 +4,7 @@ current: post
 cover:  assets/blogposts/011.png
 navigation: True
 title: Dueño de mis datos - Capítulo Spotify 
-date: 2020-01-04 10:00:00
+date: 2020-01-30 10:00:00
 tags: [blog, Spotify, ggplot2, r,]
 class: post-template
 subclass: 'post tag-blog'
