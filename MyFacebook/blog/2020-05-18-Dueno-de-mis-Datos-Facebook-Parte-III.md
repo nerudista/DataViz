@@ -24,7 +24,7 @@ Recordemos de qué se trata este guateque:
 
 El post pasado acabamos usando el diccionario AFINN para determinar que tan positivos o negativos, en lo general, eran mis posts y mis comments.
 
-Para acabar de usar este diccionario esta vez vamos a crear uan nube de palabras donde pongamos de un color las palabras positivas y en otro color las negativas. Para esto vamos a tener que crear una nueva columna que nos podrá el sentimiento como positivo si la palabra tiene una puntuación de entre 1 y 5. Si está entre -1 y -5, la pondrá como negativa.
+Para acabar de usar este diccionario esta vez vamos a crear una nube de palabras donde pongamos de un color las palabras positivas y en otro color las negativas. Para esto vamos a tener que crear una nueva columna que nos podrá el sentimiento como positivo si la palabra tiene una puntuación de entre 1 y 5. Si está entre -1 y -5, la pondrá como negativa.
 
 Por último, usaremos la función `comparison.cloud` para crear la gráfica y asignar los colores:
 
@@ -79,6 +79,7 @@ df_fb_sentimientos_nrc <-  fb_sentimientos_nrc %>%
   rowid_to_column("id") %>% 
   pivot_longer(-id, names_to = "sentimiento", values_to = "count")  
 ```
+
 Ya con el objeto `df_fb_sentimientos_nrc` podemos empezar a crear visualizaciones. Mi primer acercamiento fue una de barras pero de esas ya hicimos. Así que me aventuré a hacer un `treemap` que no habíamos hecho en post anteriores. Como sólo la haremos por emociones filtraré los sentimientos (positivo, negativo):
 
 ```r
