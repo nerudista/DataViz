@@ -67,7 +67,7 @@ grafica_contenido <- function(tmln){
               nudge_y = 28
     )+
     labs(title= "Distribucion por Tipo de Interacción",
-         subtitle = paste0("Últimos ",ntweets, " tweets"),
+         subtitle = paste0("Últimos ",ntweets, " tweets para el usuario @",user),
          x = NULL,
          y = "Número de Tweets")+
     scale_fill_economist()+
@@ -127,12 +127,12 @@ grafica_hashtags <- function(corp_tmln){
   # Crear grafica de hastags
   topgat_fcm <- fcm_select(tag_fcm, pattern = toptag)
   
-  #png(paste0( "./03Graficos/hashtags_net_",user,".png"), width = 480, height = 480)
+  
   textplot_network(topgat_fcm, min_freq = 0.1, edge_alpha = 0.7, edge_size = 4) %>% 
   ggsave(filename = paste0( "./03Graficos/hashtags_net_",user,".png"),
          device = "png",
          dpi = 72)
-  #dev.off()
+  
   
 
 }
@@ -160,7 +160,7 @@ grafica_usuarios <- function(corp_tmln){
   
   user_dfm <- dfm_select(tweet_dfm, pattern = "@*")
   
-  topuser <- names(topfeatures(user_dfm, 15))
+  topuser <- names(topfeatures(user_dfm, 30))
   
   #head(topuser)
   
@@ -281,8 +281,9 @@ graficas_wordcloud_all <- function(corp_tmln){
 }
 
 
+
 # Define user
-user <- "baijorge"
+user <- "claudiodanielpc"
 
 
 # Obtener info de Twitter
@@ -298,7 +299,7 @@ corp_tmln_user1 <-tmln_user1 %>%
   corpus()  # build a new corpus from the texts
 
 
-# Generar grafica de hastags
+# Generar grafica de hashtags
 grafica_hashtags ( corp_tmln_user1)
 
 # Generar grafica de usuarios
