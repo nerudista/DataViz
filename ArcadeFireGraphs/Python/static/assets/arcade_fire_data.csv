@@ -1,0 +1,76 @@
+artist_name,album_release_year,album_name,disc_number,track_name,track_number,external_urls.spotify,duration_ms,danceability,energy,loudness,key_mode,key,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,track_order_fullalbum
+Arcade Fire,2021,Her (Original Score),1,Sleepwalker,1,https://open.spotify.com/track/29CHsXnhpVWvTfsLwqun8I,194736,0.392,0.048,-27.893,D major,2,1,0.0411,0.95,0.955,0.13,0.0361,89.94,1
+Arcade Fire,2021,Her (Original Score),1,Milk & Honey #1,2,https://open.spotify.com/track/4WBTKwO2jebi1Z5NoY8iQu,87536,0.246,0.00849,-19.161,C# major,1,1,0.0509,0.986,0.305,0.0767,0.0398,93.679,2
+Arcade Fire,2021,Her (Original Score),1,Loneliness #3 (Night Talking),3,https://open.spotify.com/track/14G8g61dZX92L7Gr7VFjTO,205226,0.128,0.0415,-23.378,F# minor,6,0,0.0419,0.929,0.956,0.101,0.0379,75.697,3
+Arcade Fire,2021,Her (Original Score),1,Divorce Papers,4,https://open.spotify.com/track/5OxPPsNISnSHTxDFZfxcAP,194993,0.444,0.0402,-28.382,A minor,9,0,0.0424,0.992,0.926,0.0907,0.271,128.622,4
+Arcade Fire,2021,Her (Original Score),1,Morning Talk / Supersymmetry,5,https://open.spotify.com/track/0WjXmnmCCGq5GGlxjD34Zc,253901,0.0996,0.155,-21.17,G# major,8,1,0.045,0.266,0.833,0.0964,0.0394,70.451,5
+Arcade Fire,2021,Her (Original Score),1,Some Other Place,6,https://open.spotify.com/track/4vpk2YCWEGEt19zLOxsIs1,218915,0.0757,0.0344,-24.113,C# minor,1,0,0.037,0.767,0.638,0.14,0.0573,72.44,6
+Arcade Fire,2021,Her (Original Score),1,Song on the Beach,7,https://open.spotify.com/track/606R1WLtU2hPgl0YNfSJ4j,215621,0.599,0.00379,-31.414,F major,5,1,0.0644,0.986,0.924,0.101,0.326,131.623,7
+Arcade Fire,2021,Her (Original Score),1,Loneliness #4 (Other People's Letters),8,https://open.spotify.com/track/4QZgUldJxTvOXhSJZxBgTN,59459,0.0831,0.0392,-19.706,F# minor,6,0,0.0415,0.915,0.959,0.0613,0.0446,80.305,8
+Arcade Fire,2021,Her (Original Score),1,Photograph,10,https://open.spotify.com/track/5Sj3F1OEvSz52ehpxTJZlR,145803,0.238,0.148,-23.051,F major,5,1,0.0466,0.992,0.773,0.0836,0.0753,138.75,9
+Arcade Fire,2021,Her (Original Score),1,Milk & Honey #2,11,https://open.spotify.com/track/7i6OWt9GW86omn7RW1wtfb,199128,0.227,0.115,-21.212,G major,7,1,0.0425,0.366,0.962,0.107,0.035,126.956,10
+Arcade Fire,2021,Her (Original Score),1,We're All Leaving,12,https://open.spotify.com/track/1kltDDXV2gnMfETUdlsL6c,151367,0.37,0.00643,-25.16,G# major,8,1,0.0425,0.952,0.922,0.0969,0.121,47.639,11
+Arcade Fire,2021,Her (Original Score),1,Dimensions,13,https://open.spotify.com/track/1F3pzdYyCJlnQoCM9gFzaU,339444,0.218,0.179,-24.814,D# major,3,1,0.0397,0.966,0.956,0.0858,0.0383,163.743,12
+Arcade Fire,2017,Everything Now,1,Everything_Now (continued),1,https://open.spotify.com/track/2wXYAGCj2gA6biHi0W4xdJ,46226,0.331,0.493,-7.814,F major,5,1,0.0394,0.0167,0.00157,0.589,0.19,74.341,1
+Arcade Fire,2017,Everything Now,1,Everything Now,2,https://open.spotify.com/track/7KsZHCfOitA5V9oQYVdltG,303013,0.548,0.865,-5.325,C major,0,1,0.0302,0.00171,4.49E-04,0.457,0.61,116.046,2
+Arcade Fire,2017,Everything Now,1,Signs of Life,3,https://open.spotify.com/track/1g1RmSl6D0I6m6MEtDvxYn,276613,0.65,0.858,-5.566,D major,2,1,0.0458,0.00976,0.00173,0.687,0.762,113.123,3
+Arcade Fire,2017,Everything Now,1,Creature Comfort,4,https://open.spotify.com/track/2voWPWlDfIthC6GUjaIQyV,283506,0.423,0.949,-4.097,B major,11,1,0.0972,0.0181,0.00355,0.292,0.278,189.976,4
+Arcade Fire,2017,Everything Now,1,Peter Pan,5,https://open.spotify.com/track/0LOnyr7dtH8GQAVypvT98T,168893,0.693,0.814,-6.689,G# major,8,1,0.0392,0.25,6.44E-04,0.676,0.869,149.69,5
+Arcade Fire,2017,Everything Now,1,Chemistry,6,https://open.spotify.com/track/7kIwVGX93RF6c8ZLKpeiNN,217693,0.508,0.623,-6.919,C major,0,1,0.0564,0.0336,0,0.208,0.785,173.778,6
+Arcade Fire,2017,Everything Now,1,Infinite Content,7,https://open.spotify.com/track/4bjPdsuv5zMINSxuaSm5QF,97120,0.256,0.942,-3.643,E major,4,1,0.0681,1.06E-04,1.77E-04,0.616,0.452,172.301,7
+Arcade Fire,2017,Everything Now,1,Infinite_Content,8,https://open.spotify.com/track/3vxdRMOGm9bWFYTFOkhYpV,101506,0.515,0.503,-12.321,A# major,10,1,0.0688,0.242,4.39E-05,0.587,0.59,105.265,8
+Arcade Fire,2017,Everything Now,1,Electric Blue,9,https://open.spotify.com/track/0KWcRXcnGoB0gWSu4mshF8,242373,0.663,0.774,-5.157,C major,0,1,0.0863,0.113,0.112,0.462,0.681,102.982,9
+Arcade Fire,2017,Everything Now,1,Good God Damn,10,https://open.spotify.com/track/2ZssXuZfktUr4MMDzEWD2Z,214426,0.799,0.496,-8.304,B minor,11,0,0.0391,0.0927,0.00293,0.31,0.5,99.023,10
+Arcade Fire,2017,Everything Now,1,Put Your Money on Me,11,https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg,353240,0.604,0.768,-6.484,G major,7,1,0.0308,0.541,0.0201,0.752,0.645,123.067,11
+Arcade Fire,2017,Everything Now,1,We Don't Deserve Love,12,https://open.spotify.com/track/0BP2o4rGe7nkQea1JOWMbl,389080,0.492,0.628,-7.359,C major,0,1,0.0283,0.117,0.0115,0.135,0.151,87.899,12
+Arcade Fire,2017,Everything Now,1,Everything Now (continued),13,https://open.spotify.com/track/643ZDkyffqGWzkDTzSfMCM,142066,0.382,0.545,-9.802,F major,5,1,0.0358,6.77E-04,0.554,0.679,0.35,148.734,13
+Arcade Fire,2013,Reflektor,1,Reflektor,1,https://open.spotify.com/track/7uMZy0bALAdneerERyr7Ks,450983,0.585,0.717,-8.379,B minor,11,0,0.0311,0.0561,0.0148,0.366,0.636,111.563,1
+Arcade Fire,2013,Reflektor,1,We Exist,2,https://open.spotify.com/track/66gQu4ZIHmDhB8H4wkwm5f,344010,0.567,0.507,-8.761,C# major,1,1,0.0267,0.00636,0.231,0.17,0.335,116.398,2
+Arcade Fire,2013,Reflektor,1,Flashbulb Eyes,3,https://open.spotify.com/track/4iRkDdI4vhLjjAxUbH1664,163029,0.47,0.929,-6.414,G major,7,1,0.0505,0.00203,0.217,0.676,0.814,171.43,3
+Arcade Fire,2013,Reflektor,1,Here Comes the Night Time,4,https://open.spotify.com/track/4OZyVAbGOcrv4BYv5xDjet,390490,0.446,0.675,-7.802,A# major,10,1,0.0464,0.038,0.43,0.372,0.626,95.014,4
+Arcade Fire,2013,Reflektor,1,Normal Person,5,https://open.spotify.com/track/1PglrPaaUHsfp2Cka5CLdK,268001,0.406,0.729,-5.36,G major,7,1,0.0581,0.0182,0.0127,0.0713,0.364,117.285,5
+Arcade Fire,2013,Reflektor,1,You Already Know,6,https://open.spotify.com/track/0qtymhwMYML4RX6NTGjIIy,239973,0.325,0.923,-4.552,F# minor,6,0,0.104,0.0307,2.48E-05,0.705,0.572,177.173,6
+Arcade Fire,2013,Reflektor,1,Joan of Arc,7,https://open.spotify.com/track/1AKKVEylH3YPYm64MTzl7M,326059,0.523,0.61,-8.228,A# minor,10,0,0.0293,0.00899,0.535,0.352,0.349,133.985,7
+Arcade Fire,2013,Reflektor,2,Here Comes the Night Time II,1,https://open.spotify.com/track/0Al8iBWqtHPbrtJH4UZ6Jt,172038,0.285,0.354,-14.435,E minor,4,0,0.0342,0.604,0.685,0.211,0.102,152.034,8
+Arcade Fire,2013,Reflektor,2,Awful Sound (Oh Eurydice),2,https://open.spotify.com/track/7GUZMdfx59cnVjgbDhy9Rx,372905,0.311,0.693,-7.797,A major,9,1,0.0388,0.264,0.0905,0.0684,0.54,140.864,9
+Arcade Fire,2013,Reflektor,2,It's Never Over (Hey Orpheus),3,https://open.spotify.com/track/4VcPw1c8BdKv6rUKAD1Hhw,404904,0.61,0.736,-10.301,G major,7,1,0.0514,0.0767,0.513,0.106,0.224,105.316,10
+Arcade Fire,2013,Reflektor,2,Porno,4,https://open.spotify.com/track/48PWHnhCWgPGArCo0rvdm1,361961,0.689,0.538,-8.069,F# minor,6,0,0.029,0.105,0.104,0.12,0.641,98.098,11
+Arcade Fire,2013,Reflektor,2,Afterlife,5,https://open.spotify.com/track/7rL602DQps4QmrrjbinLzP,353086,0.64,0.868,-5.527,B major,11,1,0.0341,0.0986,0.0454,0.242,0.798,115.968,12
+Arcade Fire,2013,Reflektor,2,Supersymmetry,6,https://open.spotify.com/track/4Y5nf6sLY0YryjmKBgJK8F,676776,0.237,0.326,-17.682,G# major,8,1,0.0765,0.808,0.857,0.363,0.238,108.006,13
+Arcade Fire,2010,The Suburbs,1,The Suburbs,1,https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip,315200,0.616,0.682,-6.148,F# minor,6,0,0.0265,0.0578,0.0241,0.342,0.528,117.78,1
+Arcade Fire,2010,The Suburbs,1,Ready to Start,2,https://open.spotify.com/track/01wsKcJ8ptqUmatpJlEGYj,255893,0.282,0.932,-4.701,A major,9,1,0.0387,0.12,0.0335,0.0692,0.536,190.08,2
+Arcade Fire,2010,The Suburbs,1,Modern Man,3,https://open.spotify.com/track/2EIEJ1zpvjpHuL6eWKGDZ8,279760,0.681,0.699,-7.307,A major,9,1,0.0329,0.296,0.0301,0.117,0.601,122.254,3
+Arcade Fire,2010,The Suburbs,1,Rococo,4,https://open.spotify.com/track/13uyMAetJNWMWJamO4aynQ,236773,0.315,0.861,-5.292,G major,7,1,0.0377,0.281,0.295,0.266,0.417,165.644,4
+Arcade Fire,2010,The Suburbs,1,Empty Room,5,https://open.spotify.com/track/634HZykqTbJhmdoq6v2w7i,171533,0.334,0.987,-4.087,D major,2,1,0.0521,5.42E-04,0.862,0.296,0.632,161.755,5
+Arcade Fire,2010,The Suburbs,1,City with No Children,6,https://open.spotify.com/track/323BsMMgAWt1XaPeU0bAeS,191600,0.505,0.69,-4.927,F# major,6,1,0.0331,0.139,0.421,0.102,0.649,128.167,6
+Arcade Fire,2010,The Suburbs,1,Half Light I,7,https://open.spotify.com/track/5vnK7vy2ChCUKjKVTbTJTy,253666,0.425,0.687,-6.03,C major,0,1,0.0255,2.55E-04,0.314,0.334,0.284,93.403,7
+Arcade Fire,2010,The Suburbs,1,Half Light II (No Celebration),8,https://open.spotify.com/track/3kw3rqgqtF4F7xVmHqTsGj,267133,0.406,0.973,-4.963,E major,4,1,0.135,0.00689,0.781,0.393,0.385,113.262,8
+Arcade Fire,2010,The Suburbs,1,Suburban War,9,https://open.spotify.com/track/2rtDHB2fSisS34D0ArWg06,285133,0.313,0.853,-5.812,F major,5,1,0.0372,0.0935,0.169,0.166,0.579,119.955,9
+Arcade Fire,2010,The Suburbs,1,Month of May,10,https://open.spotify.com/track/3SC5QsCtQ8xhuzbSxnsr3H,230720,0.465,0.994,-5.499,C# minor,1,0,0.102,0.0361,0.022,0.386,0.513,167.99,10
+Arcade Fire,2010,The Suburbs,1,Wasted Hours,11,https://open.spotify.com/track/6336VDSySvOz7FD2EX7VcT,200720,0.627,0.502,-10.203,B major,11,1,0.039,0.461,0.036,0.0826,0.142,114.789,11
+Arcade Fire,2010,The Suburbs,1,Deep Blue,12,https://open.spotify.com/track/4OtIszkveMtijHSIp3EP4d,268133,0.542,0.821,-6.649,G minor,7,0,0.039,0.309,0.188,0.123,0.545,120.473,12
+Arcade Fire,2010,The Suburbs,1,We Used to Wait,13,https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU,301400,0.573,0.642,-7.239,G# major,8,1,0.0279,0.0734,0.0232,0.105,0.49,120.753,13
+Arcade Fire,2010,The Suburbs,1,Sprawl I (Flatland),14,https://open.spotify.com/track/58tizBbohZFxRjGNaT7Brc,174226,0.29,0.337,-12.92,C minor,0,0,0.0295,0.705,0.00131,0.149,0.156,96.456,14
+Arcade Fire,2010,The Suburbs,1,Sprawl II (Mountains Beyond Mountains),15,https://open.spotify.com/track/0U0p8weaMIbIFMJ0CPlvHV,325546,0.518,0.81,-6.445,G# major,8,1,0.029,0.016,0.0013,0.115,0.179,99.968,15
+Arcade Fire,2010,The Suburbs,1,The Suburbs (continued),16,https://open.spotify.com/track/3twmBbZV0Oss0cjZoHsZa1,87626,0.286,0.0721,-22.331,F# minor,6,0,0.0389,0.886,0.495,0.238,0.0555,108.724,16
+Arcade Fire,2007,Neon Bible,1,Black Mirror,1,https://open.spotify.com/track/16dTcp6dokMKhm1Guz9K2W,253373,0.526,0.83,-9.727,A# minor,10,0,0.038,0.0618,0.398,0.112,0.187,124.051,1
+Arcade Fire,2007,Neon Bible,1,Keep the Car Running,2,https://open.spotify.com/track/4KjdLo9JWJEKYoAJ8spkat,209093,0.474,0.902,-6.261,D major,2,1,0.0349,0.362,0.0218,0.0618,0.279,96.342,2
+Arcade Fire,2007,Neon Bible,1,Neon Bible,3,https://open.spotify.com/track/4FqnaZALqOYyWediiaAToi,136640,0.583,0.284,-19.127,A major,9,1,0.1,0.909,0.468,0.0628,0.0474,86.789,3
+Arcade Fire,2007,Neon Bible,1,Intervention,4,https://open.spotify.com/track/7Bl5Fqa2g1UFs2O1VJiKhb,259000,0.365,0.698,-6.643,C major,0,1,0.037,0.0349,7.85E-05,0.215,0.233,121.403,4
+Arcade Fire,2007,Neon Bible,1,Black Wave / Bad Vibrations,5,https://open.spotify.com/track/7plMAVxY9yuyCOx5yjdzjN,237506,0.271,0.763,-7.507,C minor,0,0,0.0397,0.00362,0.694,0.0893,0.184,121.158,5
+Arcade Fire,2007,Neon Bible,1,Ocean of Noise,6,https://open.spotify.com/track/1ocL0Mdp2NKggF7kG3Qdm2,293520,0.495,0.538,-10.223,D# major,3,1,0.0308,0.424,0.165,0.132,0.346,105.118,6
+Arcade Fire,2007,Neon Bible,1,The Well and the Lighthouse,7,https://open.spotify.com/track/23DfvYoXdZ6eSuN5MUpZgQ,236706,0.231,0.775,-6.267,G# major,8,1,0.0358,0.0074,4.43E-04,0.214,0.509,149.744,7
+Arcade Fire,2007,Neon Bible,1,(Antichrist Television Blues),8,https://open.spotify.com/track/3TcmqdciWnQOXxYohhERbP,310280,0.467,0.95,-7.06,G major,7,1,0.0436,0.679,0.0015,0.0718,0.836,79.537,8
+Arcade Fire,2007,Neon Bible,1,Windowsill,9,https://open.spotify.com/track/2XP4rhtpHlzJRUNhsD7eU3,256399,0.429,0.452,-8.982,C major,0,1,0.032,0.281,0.63,0.1,0.0915,117.478,9
+Arcade Fire,2007,Neon Bible,1,No Cars Go,10,https://open.spotify.com/track/51xBgzcyzojRpqFW2ICQAB,343626,0.324,0.772,-6.95,C# major,1,1,0.0371,6.09E-04,0.173,0.12,0.291,135.737,10
+Arcade Fire,2007,Neon Bible,1,My Body Is a Cage,11,https://open.spotify.com/track/1rOlTL4pKQ9Y1fURua4AJR,287240,0.296,0.502,-8.653,C minor,0,0,0.0336,0.315,0.0551,0.229,0.313,81.045,11
+Arcade Fire,2004,Funeral,1,Neighborhood #1 (Tunnels),1,https://open.spotify.com/track/0WZZJ0mDKIkLfL0710ssZt,288333,0.282,0.738,-5.566,C major,0,1,0.0324,0.0647,0.0142,0.29,0.211,126.914,1
+Arcade Fire,2004,Funeral,1,Neighborhood #2 (Laika),2,https://open.spotify.com/track/61ARSKFMwoVnIwXAVnfNNh,212000,0.555,0.876,-5.628,B minor,11,0,0.0369,0.0556,0.00503,0.121,0.961,130.703,2
+Arcade Fire,2004,Funeral,1,Une Annee Sans Lumiere,3,https://open.spotify.com/track/7D5mjGj6O2cHHCoBF8O7qV,220960,0.441,0.782,-7.032,D major,2,1,0.0288,0.0416,0.584,0.0784,0.582,105.946,3
+Arcade Fire,2004,Funeral,1,Neighborhood #3 (Power Out),4,https://open.spotify.com/track/1kAZE1Wtwg8sd7lCyLUweb,312906,0.522,0.954,-5.018,F major,5,1,0.0585,5.43E-04,0.0177,0.0975,0.642,119.87,4
+Arcade Fire,2004,Funeral,1,Neighborhood #4 (7 Kettles),5,https://open.spotify.com/track/6oMBDrzwGG1BzCoZyPyGuG,289733,0.472,0.41,-12.948,G major,7,1,0.0291,0.817,0.038,0.125,0.301,107.923,5
+Arcade Fire,2004,Funeral,1,Crown of Love,6,https://open.spotify.com/track/3kusLGvgYkZldKfoDoJklR,282333,0.321,0.647,-6.514,D# major,3,1,0.0274,0.062,4.72E-05,0.288,0.287,104.345,6
+Arcade Fire,2004,Funeral,1,Wake Up,7,https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S,335333,0.252,0.8,-4.845,C major,0,1,0.0368,0.12,0.0538,0.118,0.29,139.361,7
+Arcade Fire,2004,Funeral,1,Haiti,8,https://open.spotify.com/track/3Gkl2fJztF2B3fnUheejAA,247306,0.462,0.809,-7.309,D major,2,1,0.038,0.265,0.128,0.638,0.458,99.902,8
+Arcade Fire,2004,Funeral,1,Rebellion (Lies),9,https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT,310893,0.401,0.933,-5.682,G# major,8,1,0.0344,0.00744,0.627,0.318,0.734,127.193,9
+Arcade Fire,2004,Funeral,1,In the Backseat,10,https://open.spotify.com/track/0O8Ymlu03OqEX5XU5p8Rw3,380213,0.328,0.546,-10.031,G major,7,1,0.032,0.457,0.0565,0.0725,0.224,169.975,10
